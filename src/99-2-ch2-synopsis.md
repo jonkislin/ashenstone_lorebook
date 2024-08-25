@@ -85,9 +85,22 @@
 - My Shortbow of the Wanderer suggests we go to the Elm Snake in Palace-Stead.
 - We fought some... religious fanatics?
 - Herman and TF went to take our friend TF to the hospital.
+
+#### Hawk and the Fight Club
 - We went into the Elm Snake where Hawk Vorplen, got into the Fight Club
-- The dueling dwarves
-- Lightsong cured Ayla the White, to the dismay of his compatriots who were relying on his limited heals. 
+    - Possibly illegal. 
+- The dueling dwarves! Torin and Boudicca.
+- Lightsong cured Ayla the White with his last spell slot, to the dismay of his compatriots who were relying on his limited heals. 
 - Hazar and Lightsong are fighting in the ring... or so it seems.
+- Ayla shrugs them off and defuses the situation. Dashing Lightsong's plans.
+- Hazar tries to bribe the ring-announcer. 
+- Potion salesman sells Lightsong two potions of mana. 
+- Ayla rebuffs Hazar who brazenly asks her out. 
+- Lightsong places bets.
+    - 5 gold on Hawk semi-final.
+    - 10 gold on Dueling Dwarves (who are against Hawk) in the final. 
+    - Notices door behind booth, halfling takes bets, door closes with a click. 
+- Hawk and Aylis vs. Larry and Thorn.
+- Hawks partner Gus got killed. Aylis new gf/fighting-partner.
 
 
