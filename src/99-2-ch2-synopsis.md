@@ -83,5 +83,11 @@
 #### Checking out Hawk Vorplen
 
 - My Shortbow of the Wanderer suggests we go to the Elm Snake in Palace-Stead.
+- We fought some... religious fanatics?
+- Herman and TF went to take our friend TF to the hospital.
+- We went into the Elm Snake where Hawk Vorplen, got into the Fight Club
+- The dueling dwarves
+- Lightsong cured Ayla the White, to the dismay of his compatriots who were relying on his limited heals. 
+- Hazar and Lightsong are fighting in the ring... or so it seems.
 
 
