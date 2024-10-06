@@ -103,4 +103,9 @@
 - Hawk and Aylis vs. Larry and Thorn.
 - Hawks partner Gus got killed. Aylis new gf/fighting-partner.
 
+#### Dueling Dwarves Win
+- Torin needs to get nerfed, too skrong.
+- With Hawk and Aylis in the backroom.
+- Hawk saved his constitution saving throw and thus did not have 
+- They all agree to go to Cherri together.
 
