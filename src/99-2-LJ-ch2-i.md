@@ -1,4 +1,4 @@
-# Lightsong's Journal
+# Lightsong's Journal - 2 - i
 
 ## Thyrsdae, Aprel 14th, 442 KE
 
@@ -44,9 +44,13 @@ Hazar is a bit of a wimp. Doesn't want to infiltrate.
 
 ### To the old man and the dinghy (The Blue Flame)
 
-We do the rigamaroll with the lantern. Into the Dinghy we go!
+We do the rigamaroll with the lantern. Into the Dinghy with the old man we go!
+He's quaint. I don't remember his name. Sometimes old folks like him have more to them than you'd think.
+He's surprisingly strong for how utterly frail he looks.
+
 Coastream! The blue door! 6 up the road. Blue Lantern.
 
+### At the Lighthouser's Outpost, in Coastream
 We meet Mindelrian. He's a lad of the Lighthouser's guild.
 The Lighthousers! I should've known they'd be here. They're everywhere in the Empire.
 Ixor (mage) was mentioned. Hmm. Curious.
@@ -62,8 +66,6 @@ We strike a deal to meet the Dutchess in council.
 The quartermaster Ninemriard has weapons we can purchase.
 Thurysso barges in. Martin simmers him down.
 
-### At the Lighthouser's Outpost, in Coastream
-
 #### Buying from Ninemriard
 From Ninemriard I bought a rabbit's foot. The other items were too expensive.
 
@@ -78,3 +80,5 @@ Ellbeyod Ovrianiah knows we want some spicy poisonwares.
 He will concoct some things for when we next chat. 
 
 I put down my quill for now - it seems that we are amassing some unexpected but welcome alllies.
+
+> Continued [Lightsong's Journal, Ch 2, ii](99-2-LJ-ch2-ii.md)
