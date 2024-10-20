@@ -25,7 +25,8 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
     - [Chapter One - Crag](./99-2-ch1-synopsis.md)
     - [First Interlude - From Crag to Taynuilt](./99-2-ch1ch2-interlude-synopsis.md)
     - [Chapter Two - Taynuilt](./99-2-ch2-synopsis.md)
-    - [Chapter Two - Lightsong's Journal](./99-2-LJ-ch2.md)
+    - [Chapter Two - Lightsong's Journal](./99-2-LJ-ch2-i.md)
+    - [Chapter Two - Lightsong's Journal](./99-2-LJ-ch2-ii.md)
 
 > _Copyright Adam Bailey and Jon Kislin, 2024._ All rights reserved.   
 > _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._

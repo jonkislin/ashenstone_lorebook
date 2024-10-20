@@ -40,3 +40,19 @@ We leave, with Thurysso in tow, for better or worse.
 
 ### Back down to the Wharf and the Old Man/Dinghy
 
+Doran the Boat Man! He is old. The same old guy. He gave his name! It's Dora! I mean Doran. Or do I?
+
+### From the Docks of Estwick to the Lostweave
+I tell Thurysso that if he proves his worth to the group, a Rapier+1 may be in his future. 
+Torin susses out this fool and finds out he's yeah, pretty weak. (Ran a medicine check)
+
+The Wonderful Immaculate Spectacular Gryffin. A Positive Adjective Gryffin.
+A little worse for wear? But! A Healthy size crowd mingles in front. 
+
+Across the street, about a decade (or decal) of city guards (there's 10 of them.)
+
+Hazar is blabbering again. Something about robbing? I don't really know.  
+Some dwarves, elves, gnomes, and even humans. Mostly dwarves. Have we found CODA (the Coalition of Dwarven Artisans)?
+
+
+
