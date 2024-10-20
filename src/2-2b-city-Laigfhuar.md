@@ -7,10 +7,10 @@
 
 <!-- end HTML -->
 
-<img src="images/landscapes/crag_ai_art.png" alt="View of Crag in 442 K.E." width="500"/>
+<img src="images/maps/laighfuar_map.png" alt="View of Crag in 442 K.E." width="500"/>
 
 <br>
-<i> A view of Seaside, the harbor and associated neighborhood on Crag's east flank </i>
+<i> A map of Laighfuar</i>
 <br>
 <br>
 
@@ -33,29 +33,28 @@ The City has long benefited by its location on the Silma river, providing a safe
 
 ## City Government
 
-City Council (442 K.E.)
+__City Council (442 K.E.)__
 
--Senior Councilor Jerrick Thorkarin
--Senior Councilor Dallia Switwick
--Senior Councilor Riggin Lorflourick
--Junior Councilor Jin Tarni
--Junior Councilor Helio Dolsin-Tyne
--Junior Councilor Redirill Gyll
+- Senior Councilor Jerrick Thorkarin
+- Senior Councilor Dallia Switwick
+- Senior Councilor Riggin Lorflourick
+- Junior Councilor Jin Tarni
+- Junior Councilor Helio Dolsin-Tyne
+- Junior Councilor Redirill Gyll
 
-Tribunal of Justices
+__Tribunal of Justices__
 
--Council Justice Gersin Maccri
--Lord Justice Lady Aila Theria
--Royal Justice Priestess Hula Rishi
+- Council Justice Gersin Maccri
+- Lord Justice Lady Aila Theria
+- Royal Justice Priestess Hula Rishi
 
-Duchess Lyalish Theria
-
-
+__Duke or Duchess__
+- Duchess Lyalish Theria
 
 ## Other Notable Residents
 
--Tanly the Rat
--Watch Commander Sir Garrick Switwick
--Guildmaster Astrid the Dark
--Helrid Sharpen
+- Tanly the Rat
+- Watch Commander Sir Garrick Switwick
+- Guildmaster Astrid the Dark
+- Helrid Sharpen
 
