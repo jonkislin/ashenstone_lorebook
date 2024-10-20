@@ -54,5 +54,8 @@ Across the street, about a decade (or decal) of city guards (there's 10 of them.
 Hazar is blabbering again. Something about robbing? I don't really know.  
 Some dwarves, elves, gnomes, and even humans. Mostly dwarves. Have we found CODA (the Coalition of Dwarven Artisans)?
 
-
-
+__CODA of Laigfuar wants:__
+- Equal taxation of all craftspeople.
+- End of non-human craftspeople seizures.
+- Restitution for 2056.
+- Public apology.
