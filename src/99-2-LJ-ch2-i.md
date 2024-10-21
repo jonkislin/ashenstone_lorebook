@@ -1,6 +1,9 @@
 # Lightsong's Journal - 2 - i
 
-## Thyrsdae, Aprel 14th, 442 KE
+> _The previous entries in this journal were more matter-of-fact, and reflect my best recollections of what transpired over the previous weeks. Going forward, I will write more plainly, and in the first person._   
+> ___-LS___
+
+## Thyrsdae, Aprel 14th, 443 KE
 
 My salubrious companions and I decided to accompany Hawk Vorplen to his 
 mistress, Cherri, who had sent us toward Hawk and the Lizard Bachelor.
@@ -18,7 +21,7 @@ he lets us in.
 
 A good long rest.
 
-## Furdae, Aprel 15th, 442 KE
+## Furdae, Aprel 15th, 443 KE
 
 We took a good rest. I feel better, at least physically. 
 Tea and porridge with some sugar in it. They didn't have any sweetrolls. 
@@ -81,4 +84,4 @@ He will concoct some things for when we next chat.
 
 I put down my quill for now - it seems that we are amassing some unexpected but welcome alllies.
 
-> Continued [Lightsong's Journal, Ch 2, ii](99-2-LJ-ch2-ii.md)
+> _Continued in [Lightsong's Journal, Ch 2, ii](99-2-LJ-ch2-ii.md)_

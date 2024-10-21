@@ -20,13 +20,14 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
         - [Lady Louissa Corrack](./2-3-3-Lady_Corrack.md)
         - [Queen Shaheila](./2-3-4-Queen_Shaheila.md)        
 3. [Timeline](./3-Timeline.md)
-4. [Campaign 2024](./99-0-campaign_2024.md)
+4. [Campaign 2024 - Lightsong's Journal](./99-0-campaign_2024.md)
     - [Characters](./99-1-characters.md)
     - [Chapter One - Crag](./99-2-ch1-synopsis.md)
     - [First Interlude - From Crag to Taynuilt](./99-2-ch1ch2-interlude-synopsis.md)
     - [Chapter Two - Taynuilt](./99-2-ch2-synopsis.md)
     - [Chapter Two - Lightsong's Journal - i](./99-2-LJ-ch2-i.md)
     - [Chapter Two - Lightsong's Journal - ii](./99-2-LJ-ch2-ii.md)
+    - [Chapter Two - Lightsong's Journal - iii](./99-2-LJ-ch2-iii.md)
 
 > _Copyright Adam Bailey and Jon Kislin, 2024._ All rights reserved.   
 > _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._
