@@ -21,6 +21,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
         - [Queen Shaheila](./2-3-4-Queen_Shaheila.md)        
 3. [Timeline](./3-Timeline.md)
 4. [Campaign 2024 - Lightsong's Journal](./99-0-campaign_2024.md)
+    - [Lightsong's Journal - Inner Cover](./99-0-LJ-cover.md)
     - [Characters](./99-1-characters.md)
     - [Chapter One - Crag](./99-2-ch1-synopsis.md)
     - [First Interlude - From Crag to Taynuilt](./99-2-ch1ch2-interlude-synopsis.md)
