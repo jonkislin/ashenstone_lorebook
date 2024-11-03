@@ -4,7 +4,7 @@
 > _Earth date: 11/3/2024_
 
 
-_Afternoon, Furdae, Aprel 15th, 443 KE._
+## _Evening, Furdae, Aprel 15th, 443 KE._
 
 Jakeriah from the subtle hand.
 Torin broke his hand.
@@ -33,3 +33,38 @@ Born: in the Capital. Of course.
 - Adept of the Holy Reagent - she has a mask.
 - Where are you staying - Fox Fire.
 
+Hazar peels Jenniquean's kneecap off.. What The Fuck. I heal it... or try to, but it doesn't work. *\*illegible scrabblings\**
+
+We leave Jenniquean Wreath with the guards and head back to the Lizard Bachelor.
+Thurysso was saying shit about how he was meeting with an old "friend" while we were fighting.
+Boudicca wins some gold. Man I'm sleepy. Some lady gave me 10 silver?
+
+Sharing a room with Torin. He is emitting WARMTH. He's a bit slimy and crusty at the same time, if that were possible.
+
+## _Early Morning, Kaaterday, Aprel 16th, 443 KE._
+
+I should not have shared a bed with the Dwarfman... time for a bath!
+They draw one up for us.
+
+I hear Hazar talking with Shaheila out in the main room.  
+Something about holding hands? What the heck is going on there.  
+Torin passes me the soap. Man, we are GROSS.
+
+After a good clean and laundering, Hazar tells us that Councillor Jerrick may grant us susccor in our time of need.
+Where's that Horse Henry?
+
+Hazar handed Nommy a freaking PLATINUM. WHAT. WHAT. WHAT.   
+\**Lightsong writes WHAT for another seventeen or so times\**.
+
+We all go forward to Jerrick's gardens up in Woodorks, along with Shaheila.
+
+Hazar is asking me to use my fabled Thaumaturgy on something... then Boudicca breaks open the outer gate? Okay.
+
+Shaheila says her relationship with Jerrick goes back a decade.
+We approach the main door, and things seem quiet too quiet.
+
+My Wanderer's Shortbow points back 10 feet away from the House.
+I let slip something about Ekryp. Jeez. I have to watch my tongue. I do respect my compatriots, but I'm not ready to give everything up yet. 
+
+I send some Dancing Lights in after Torin, he says "some shit went down."
+Hmm. 
