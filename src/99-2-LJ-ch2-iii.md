@@ -83,3 +83,12 @@ Torin mentions that there's a tripwire, I can hear from the basement.
 Boudicca doesn't want to play cards with me to pass the time.. :( 
 
 I do hope that we get rescued by our compatriots.
+
+Ah, well, here's the lordling Hazar and the rest of them.
+
+We wakeup Darn, the guy asleep in the cell. He was hired by Gordro who came to the Squeaky Wheel, he was a war veteran. Third floor Study book.
+
+We go up the stairs. Our friend is hit by a glaive and then poison darts, which I heal. 
+We fight some suits of armor. The team gangs up on one of them. 
+The other I rebuke into smithereens. 
+
