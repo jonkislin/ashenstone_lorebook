@@ -76,4 +76,10 @@ And Boudicca's servant opens the door, which causes the door to shoot lightning 
 
 Katherina and Nicalous sent letters to Jerrick. Boudicca pockets the letters. Jeez, she really likes stealing doesn't she...
 
-We hear screaming upstairs, and we go up. A pressure plate triggers under my feet, which turns the stairs into a veritable slide! What now! Bouddica and I tumble into the basement.
+We hear screaming upstairs, and we go up. A pressure plate triggers under my feet, which turns the stairs into a veritable slide! What now! Bouddica and I tumble into the basement. There's a ruffian-type man looking worse for wear in a cage here with us. Drat. 
+
+Clapping? What? Ugh. This sucks.
+Torin mentions that there's a tripwire, I can hear from the basement. 
+Boudicca doesn't want to play cards with me to pass the time.. :( 
+
+I do hope that we get rescued by our compatriots.
