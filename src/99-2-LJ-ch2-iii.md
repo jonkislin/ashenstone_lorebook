@@ -53,7 +53,7 @@ Torin passes me the soap. Man, we are GROSS.
 After a good clean and laundering, Hazar tells us that Councillor Jerrick may grant us susccor in our time of need.
 Where's that Horse Henry?
 
-Hazar handed Nommy a freaking PLATINUM. WHAT. WHAT. WHAT.   
+Hazar hands Nommy the Stableboy a freaking PLATINUM. WHAT. WHAT. WHAT.   
 \**Lightsong writes WHAT for another seventeen or so times\**.
 
 We all go forward to Jerrick's gardens up in Woodorks, along with Shaheila.
@@ -68,3 +68,12 @@ I let slip something about Ekryp. Jeez. I have to watch my tongue. I do respect 
 
 I send some Dancing Lights in after Torin, he says "some shit went down."
 Hmm. 
+
+I think I will keep entries organized by days going forward.
+
+I send a Light-figure to the far door, where it shimmers. 
+And Boudicca's servant opens the door, which causes the door to shoot lightning at ti. The lightnigh fizzles, as it does as Boudicca walks through. I KNEW this was a trap.
+
+Katherina and Nicalous sent letters to Jerrick. Boudicca pockets the letters. Jeez, she really likes stealing doesn't she...
+
+We hear screaming upstairs, and we go up. A pressure plate triggers under my feet, which turns the stairs into a veritable slide! What now! Bouddica and I tumble into the basement.
