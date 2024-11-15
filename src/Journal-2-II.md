@@ -1,10 +1,14 @@
-# Lightsong's Journal - 2 - i
+# Lightsong's Journal
 
+## Chapter 2: Taynuilt - Laighfuar - II
+> _Continued from [Lightsong's Journal, Ch 2, I](Journal-2-I.md)_  
+> 
 > _The previous entries in this journal were more matter-of-fact, and reflect my best recollections of what transpired over the previous weeks. Going forward, I will write more plainly, and in the first person._   
 > ___-LS___
 
-## Thyrsdae, Aprel 14th, 443 KE
+## _Thyrsdae, Aprel 14th, 443 KE_
 
+### Confronting Cherri, with Hawk Vorplen in tow
 My salubrious companions and I decided to accompany Hawk Vorplen to his 
 mistress, Cherri, who had sent us toward Hawk and the Lizard Bachelor.
 
@@ -16,12 +20,11 @@ he lets us in.
 - Girish Grog. Half orc.
 - Hawk Vorplen.
 - Cherri gives us 10 platinum a piece.
-- Coalition of Dwarven Artisans.
+- Coalition of Dwarven Artisans - shall we check them out?
 
+A good long rest! Finally!
 
-A good long rest.
-
-## Furdae, Aprel 15th, 443 KE
+## _Furdae, Aprel 15th, 443 KE - Morning_
 
 We took a good rest. I feel better, at least physically. 
 Tea and porridge with some sugar in it. They didn't have any sweetrolls. 
@@ -69,19 +72,20 @@ We strike a deal to meet the Dutchess in council.
 The quartermaster Ninemriard has weapons we can purchase.
 Thurysso barges in. Martin simmers him down.
 
-#### Buying from Ninemriard
+#### _Buying from Ninemriard_
 From Ninemriard I bought a rabbit's foot. The other items were too expensive.
 
-#### Hazar's Reveal
+#### _Hazar's Reveal_
 Ixor recognized Hazar. We learned that Hazar used to be a Lighthouser, interesting!
 Left in disgrace after his rival killed his lover. He played Dead. 
 Then he actually died and came back with us. How fun.
 
-#### We ask Ixor for help
+#### _We ask Ixor for help_
 Hazar asks Ixor to get Martin to help us case the joint. 
 Ellbeyod Ovrianiah knows we want some spicy poisonwares. 
 He will concoct some things for when we next chat. 
 
 I put down my quill for now - it seems that we are amassing some unexpected but welcome alllies.
 
-> _Continued in [Lightsong's Journal, Ch 2, ii](99-2-LJ-ch2-ii.md)_
+
+> _Continued in [Lightsong's Journal, Ch 2, III](Journal-2-III.md)_

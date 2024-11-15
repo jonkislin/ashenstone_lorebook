@@ -1,16 +1,17 @@
-# Synopsis: Chapter Two - Taynuilt
+# Lightsong's Journal
 
-## Day 1 - arriving in the Laighfuar 
+## Chapter 2: Taynuilt - Laighfuar
 
+### Arriving in Laighfuar 
 
-### On the ship
+#### On the ship
 - The crew pulls into the port. 
 - Lightsong deduces that he will find a bookstore.
 - Jerrick Thorkalan - good friend - we could reach out to him. 
 - Lady Baroness Layalish.
 - Flawless Pork is an inn we can stay at.
 
-### Disembarking
+#### Disembarking
 - Guards want to inspect the ship. We say goodbye.
 - Torin gets on Henry the horse.
 - Cherry wants the drugs. We gonna get 18 gold pieces for it.
@@ -22,7 +23,7 @@
     - Jerrin, the Guard.
 - The Guards check us all. We go by. Make some checks and whatnot.
 
-### Heading to the Lizard Bachelor
+#### Heading to the Lizard Bachelor
 - Thurysso Green reaches out to us as we depart.
 - The shack with the blue lantern on the northernmost wharf.
 - Old grizzly man inside
@@ -37,8 +38,9 @@
 - Louie sells Lightsong 5 cabbages. Boudicca takes them.
 - Head down the street toward the Lizard Bachelor.
 
-#### Arriving at the Theatre District
-- The Belt Theatre! 
+### Arriving at the Theatre District
+
+#### The Belt Theatre! 
 - One of the trees has many different playbill style posters.
 - CODA - Coalition of Dwarven Artisans.
     - Meeting at the Immaculate Gryffin in Lostweave.
@@ -53,7 +55,9 @@
 - We go into the The Lizard Bachelor. We ask for Cherry at the bar, which is not received kindly. 
 - All but Boudicca are led into the back room. Cherry has lots of gold jewelry. She asks us to sit down as she takes the note from Captain Pop Cornwallis III.
 
--- Session One ends --
+> _Session One Ends_
+
+### Cherry, Hawk, and the case of the Skimmed Profits
 
 #### In Cherry's Lair
 
@@ -83,12 +87,21 @@
 #### Checking out Hawk Vorplen
 
 - My Shortbow of the Wanderer suggests we go to the Elm Snake in Palace-Stead.
+
+#### Encounter with the Baccheranes
 - We fought some... religious fanatics?
 - Herman and TF went to take our friend TF to the hospital.
 
-#### Hawk and the Fight Club
+### Hawk and the Fight Club
+
+#### The Elm Snake and the Fight Club
 - We went into the Elm Snake where Hawk Vorplen, got into the Fight Club
     - Possibly illegal. 
+- We place bets on who we think will win.
+- Very important rule - no swearing! 
+    - Heads might roll, but your tongues better not!
+
+#### The Dueling Dwarves
 - The dueling dwarves! Torin and Boudicca.
 - Lightsong cured Ayla the White with his last spell slot, to the dismay of his compatriots who were relying on his limited heals. 
 - Hazar and Lightsong are fighting in the ring... or so it seems.
@@ -103,9 +116,10 @@
 - Hawk and Aylis vs. Larry and Thorn.
 - Hawks partner Gus got killed. Aylis new gf/fighting-partner.
 
-#### Dueling Dwarves Win
+#### Dueling Dwarves Win!
 - Torin needs to get nerfed, too skrong.
 - With Hawk and Aylis in the backroom.
 - Hawk saved his constitution saving throw and thus did not have 
-- They all agree to go to Cherri together.
+- They all agree to go to Cherri (Cheri? Cherry?) together.
 
+> _Continued in [Lightsong's Journal, Ch 2, II](Journal-2-II.md)_  

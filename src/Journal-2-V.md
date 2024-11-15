@@ -1,21 +1,25 @@
-# Lightsong's Journal - 2 - iii
+# Lightsong's Journal
 
-> _Continued from [Lightsong's Journal, Ch 2, ii](99-2-LJ-ch2-ii.md)_  
+## Chapter 2: Taynuilt - Laighfuar - IV
+
 > _Earth date: 11/3/2024_
 
+## _Evening, Furdae, Aprel 15th, 443 KE_
 
-## _Evening, Furdae, Aprel 15th, 443 KE._
+### Interrogating our Assailants
 
-Jakeriah from the subtle hand.
-Torin broke his hand.
-Jodah is the boss of this guy
-But Jodah dead
-And the Lady slinging spells be the big boss. 
+#### _Jakeriah of the Subtle Hand_
+Torin broke his hand.  
+Jodah is the boss of this guy.  
+But Jodah is dead.  
+And the Lady slinging spells is the BIG boss. 
 
-Now we go talk to the big boss lady.
+Now we go talk to the big boss lady...
 
-Name: Jenniquen Wreath.
-Born: in the Capital. Of course.
+#### _The disturbing Jenniquen Wreath of the Holy Reagants_
+
+- Name: Jenniquen Wreath.
+- Born: in the Capital. Of course.
 - She's higher than the Baccheranes.
 - Ylisyr Chakri pulls the strings for many things.
 - Dirk was a threat.
@@ -33,16 +37,20 @@ Born: in the Capital. Of course.
 - Adept of the Holy Reagent - she has a mask.
 - Where are you staying - Fox Fire.
 
-Hazar peels Jenniquean's kneecap off.. What The Fuck. I heal it... or try to, but it doesn't work. *\*illegible scrabblings\**
+Hazar peels Jenniquean's kneecap off...  
+What The Actual Fuck.  
+I heal it... or try to, but it doesn't work.  
+*\*illegible horrified scrabblings\**
 
 We leave Jenniquean Wreath with the guards and head back to the Lizard Bachelor.
 Thurysso was saying shit about how he was meeting with an old "friend" while we were fighting.
-Boudicca wins some gold. Man I'm sleepy. Some lady gave me 10 silver?
+Boudicca wins some gold. Man I'm sleepy. Some lady gave me 10 silver??? Ok???
 
 Sharing a room with Torin. He is emitting WARMTH. He's a bit slimy and crusty at the same time, if that were possible.
 
 ## _Early Morning, Kaaterday, Aprel 16th, 443 KE._
 
+### Preparing for the Day
 I should not have shared a bed with the Dwarfman... time for a bath!
 They draw one up for us.
 
@@ -56,26 +64,31 @@ Where's that Horse Henry?
 Hazar hands Nommy the Stableboy a freaking PLATINUM. WHAT. WHAT. WHAT.   
 \**Lightsong writes WHAT for another seventeen or so times\**.
 
+### To Councilman Jerrick's Gardens
 We all go forward to Jerrick's gardens up in Woodorks, along with Shaheila.
 
-Hazar is asking me to use my fabled Thaumaturgy on something... then Boudicca breaks open the outer gate? Okay.
+Hazar is asking me to use my fabled Thaumaturgy on something... then Boudicca breaks open the outer gate? Okay, should have expected that from one of the Dwarves...
 
-Shaheila says her relationship with Jerrick goes back a decade.
-We approach the main door, and things seem quiet too quiet.
+Shaheila says her relationship with Jerrick goes back a decade. I wonder how Hazar feels about that.  
+We approach the main door, and things seem quiet... too quiet.
 
-My Wanderer's Shortbow points back 10 feet away from the House.
-I let slip something about Ekryp. Jeez. I have to watch my tongue. I do respect my compatriots, but I'm not ready to give everything up yet. 
+My Wanderer's Shortbow points back 10 feet away from the House.  Yeah. I want to leave too, Bow.
 
+I let slip something about Ekryp. Jeez. I have to watch my tongue. I do respect my compatriots, but I'm not ready to give everything up yet, nor am I sure I can trust them all. At least, not with that...
+
+### Into the Booby-trapped Manse of Jerrick
 I send some Dancing Lights in after Torin, he says "some shit went down."
 Hmm. 
 
 I think I will keep entries organized by days going forward.
 
+#### _Exploring the Manse_
 I send a Light-figure to the far door, where it shimmers. 
 And Boudicca's servant opens the door, which causes the door to shoot lightning at ti. The lightnigh fizzles, as it does as Boudicca walks through. I KNEW this was a trap.
 
 Katherina and Nicalous sent letters to Jerrick. Boudicca pockets the letters. Jeez, she really likes stealing doesn't she...
 
+#### _Falling into the Basement_
 We hear screaming upstairs, and we go up. A pressure plate triggers under my feet, which turns the stairs into a veritable slide! What now! Bouddica and I tumble into the basement. There's a ruffian-type man looking worse for wear in a cage here with us. Drat. 
 
 Clapping? What? Ugh. This sucks.
@@ -89,6 +102,14 @@ Ah, well, here's the lordling Hazar and the rest of them.
 We wakeup Darn, the guy asleep in the cell. He was hired by Gordro who came to the Squeaky Wheel, he was a war veteran. Third floor Study book.
 
 We go up the stairs. Our friend is hit by a glaive and then poison darts, which I heal. 
-We fight some suits of armor. The team gangs up on one of them. 
-The other I rebuke into smithereens. 
 
+#### ___Fighting the Enchanted Armor___
+We fight some suits of armor.   
+The team gangs up on one of them.   
+The other I rebuke into smithereens.    
+What is UP with this house?  
+ Where the heck is Jerrick?
+
+I'm gonna go ahead and put my quill down now.
+
+> _Continued in [Lightsong's Journal, Ch 2, V](Journal-2-V.md)_

@@ -1,4 +1,4 @@
-# Player Characters
+# Companions
 
 > _Ah, my compatriots. I don't fully know what to think of them._  
 > _Below is the information I have on them, which I will update with time._.  

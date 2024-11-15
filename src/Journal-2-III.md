@@ -1,13 +1,15 @@
-# Lightsong's Journal - 2 - ii
+# Lightsong's Journal
 
-> Continued from [Lightsong's Journal, Ch 2, i](99-2-LJ-ch2-i.md)  
-> Earth date: 10/20/2024, 4:26pm
+## Chapter 2: Taynuilt - Laighfuar - III
+
+> _Earth date: 10/20/2024, 4:26pm_  
+> _Continued from [Lightsong's Journal, Ch 2, II](Journal-2-II.md)_
+
+## _Furdae, Aprel 15th, 443 KE - Afternoon_
 
 Where were we?
 
 ### (Still) At the Lighthouser's Outpost, in Coastream
-
-_Afternoon, Furdae, Aprel 15th, 443 KE._
 
 Eolebiad, the Poison Master, has some poisions!
 Shit, they're way too pricey. I'm going to sit this one out.
@@ -73,7 +75,7 @@ I have a terrible terrible feeling about this...
 
 ### Into the Playhouse, the Immaculate Gryffin
 
-#### Boudicca and Lightsong Gather Intel...
+#### _Boudicca and Lightsong Gather Intel..._
 I go with Boudicca to get some intel from a Dwarf Artisan, Torin stands guard at the doors, and Hazar and Flim Flam go to case the joint. 
 
 Flim-flam (whom I am alarmed to see still inside, by the way) asks the Dwarf artisan to identify his ring, which we find out is a Ring of Warmth. It provides heat up to -50 F. Familiar! I have seen this in the North of Wulda. Interesting. It's not a common trifle. 
@@ -82,7 +84,7 @@ Boudicca shops at the Artisan's stall a bit more. She buys a Circlet of Blasting
 
 The Artisan's name is Gareth Smatterhorn. 
 
-#### Hazar, Flim Flam, Torin, and Thurysso Case the Joint
+#### _Hazar, Flim Flam, Torin, and Thurysso Case the Joint_
 
 I later learn the following from Torin:
 
@@ -98,7 +100,7 @@ Hazar, Torin, and Flim Flam go through the backdoor.
 The lady who owns the place gave them a hard time, but then Thurysso distracted. Flim Flam in the rafters, the rest go back into the main floor. 
 ```
 
-#### Dirk's Speech
+#### _Dirk's Speech_
 
 Hazar comes back and buys me the monocle! I give him 8 platinum to start paying down my debt. 
 
@@ -121,6 +123,7 @@ I notice a darkness in the rafters, then a red ray of energy pierces through Dir
 
 CRASH. figures come in from up above in the balcony. HERE WE GO.
 
+---
 ### The Battle in the Immaculate Gryffin
 
 I move to get to Dirk, but am immediately paralyzed by a poison dagger that catches me off guard! This is not good. 
@@ -131,6 +134,8 @@ Oh jeez, I was almost done for there!
 Thanks to Boudicca, I have not met the grave (again!).
 
 This Helga is madder than I was the week after... that event. Something is truly not right here. Helga refuses to listen to reason, and Hazar knocks her unconscious at last.
+
+---
 
 ### Battle's Aftermath
 
@@ -149,4 +154,4 @@ We've got a lot of explaining to do.
 
 Putting down my quill again to see what will befall us next.
 
-> _Continued in [Lightsong's Journal, Ch 2, iii](99-2-LJ-ch2-iii.md)_
+> _Continued in [Lightsong's Journal, Ch 2, IV](Journal-2-IV.md)_
