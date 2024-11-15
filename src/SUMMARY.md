@@ -5,7 +5,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
 > Click the `>` button to continue, or select a chapter from the below list for quick reference.
 
 [Table of Contents](SUMMARY.md) _(This page)_    
-[Contribution Instructions](contribution_instructions.md)  
+[Contribution Instructions](./0-contribution_instructions.md)  
 
 1. [Cultures of the World](./1-0-world_cultures.md)
 2. [World Atlas](./2-0-world_atlas.md)
