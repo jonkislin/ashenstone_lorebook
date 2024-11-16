@@ -1,6 +1,5 @@
-# Lightsong's Journal
+# Lightsong's Journal - Chapter 2: Taynuilt - Laighfuar - II
 
-## Chapter 2: Taynuilt - Laighfuar - II
 > _Continued from [Lightsong's Journal, Ch 2, I](Journal-2-I.md)_  
 > 
 > _The previous entries in this journal were more matter-of-fact, and reflect my best recollections of what transpired over the previous weeks. Going forward, I will write more plainly, and in the first person._   

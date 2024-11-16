@@ -1,17 +1,15 @@
-# Lightsong's Journal
+# Lightsong's Journal - Chapter 2: Taynuilt - Laighfuar
 
-## Chapter 2: Taynuilt - Laighfuar
+## Arriving in Laighfuar 
 
-### Arriving in Laighfuar 
-
-#### On the ship
+### On the ship
 - The crew pulls into the port. 
 - Lightsong deduces that he will find a bookstore.
 - Jerrick Thorkalan - good friend - we could reach out to him. 
 - Lady Baroness Layalish.
 - Flawless Pork is an inn we can stay at.
 
-#### Disembarking
+### Disembarking
 - Guards want to inspect the ship. We say goodbye.
 - Torin gets on Henry the horse.
 - Cherry wants the drugs. We gonna get 18 gold pieces for it.
@@ -23,7 +21,7 @@
     - Jerrin, the Guard.
 - The Guards check us all. We go by. Make some checks and whatnot.
 
-#### Heading to the Lizard Bachelor
+### Heading to the Lizard Bachelor
 - Thurysso Green reaches out to us as we depart.
 - The shack with the blue lantern on the northernmost wharf.
 - Old grizzly man inside
@@ -33,14 +31,14 @@
     - He will ask us to join him on his dinghy.
 - Go through the entryways
 
-#### Buying things along the way
+### Buying things along the way
 - Hazar buys Blade of Dusk (dagger on the longer side of things - for backstabbing, perhaps!)
 - Louie sells Lightsong 5 cabbages. Boudicca takes them.
 - Head down the street toward the Lizard Bachelor.
 
-### Arriving at the Theatre District
+## Arriving at the Theatre District
 
-#### The Belt Theatre! 
+### The Belt Theatre! 
 - One of the trees has many different playbill style posters.
 - CODA - Coalition of Dwarven Artisans.
     - Meeting at the Immaculate Gryffin in Lostweave.
@@ -57,9 +55,9 @@
 
 > _Session One Ends_
 
-### Cherry, Hawk, and the case of the Skimmed Profits
+## Cherry, Hawk, and the case of the Skimmed Profits
 
-#### In Cherry's Lair
+### In Cherry's Lair
 
 - We convince Cherry to get us 18 gold a piece.
 - We get Boudicca in from the bar to collect her gold, because Hazar rolled a 2 on persuasion.
@@ -68,12 +66,12 @@
 - The Elm Snake in Palace-Stead - that's his favorite bar. If we don't find him at the office.
     - House in Wall Brook.
 
-#### Back in the Bar
+### Back in the Bar
 
 - We met Herman and T.F. (Nick and Rajan one-off characters)
 - We invite them to journey with us this one time.
 
-#### Walking to Lostweave, the Weapon Shop
+### Walking to Lostweave, the Weapon Shop
 - We were in Estwick, at the wall... we need to find a gate.
 - We come across guards and a portcullis to the upper city.
 - We notice rogues in the new city.
@@ -84,24 +82,24 @@
 - Axe of Cleaving for Torin.
 - Cunneke would know about the Blade of Dusk. 
 
-#### Checking out Hawk Vorplen
+### Checking out Hawk Vorplen
 
 - My Shortbow of the Wanderer suggests we go to the Elm Snake in Palace-Stead.
 
-#### Encounter with the Baccheranes
+### Encounter with the Baccheranes
 - We fought some... religious fanatics?
 - Herman and TF went to take our friend TF to the hospital.
 
-### Hawk and the Fight Club
+## Hawk and the Fight Club
 
-#### The Elm Snake and the Fight Club
+### The Elm Snake and the Fight Club
 - We went into the Elm Snake where Hawk Vorplen, got into the Fight Club
     - Possibly illegal. 
 - We place bets on who we think will win.
 - Very important rule - no swearing! 
     - Heads might roll, but your tongues better not!
 
-#### The Dueling Dwarves
+### The Dueling Dwarves
 - The dueling dwarves! Torin and Boudicca.
 - Lightsong cured Ayla the White with his last spell slot, to the dismay of his compatriots who were relying on his limited heals. 
 - Hazar and Lightsong are fighting in the ring... or so it seems.
@@ -116,7 +114,7 @@
 - Hawk and Aylis vs. Larry and Thorn.
 - Hawks partner Gus got killed. Aylis new gf/fighting-partner.
 
-#### Dueling Dwarves Win!
+### Dueling Dwarves Win!
 - Torin needs to get nerfed, too skrong.
 - With Hawk and Aylis in the backroom.
 - Hawk saved his constitution saving throw and thus did not have 

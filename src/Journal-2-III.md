@@ -1,9 +1,7 @@
-# Lightsong's Journal
+# Lightsong's Journal - Chapter 2: Taynuilt - Laighfuar - III
 
-## Chapter 2: Taynuilt - Laighfuar - III
-
+> _Continued from [Lightsong's Journal, Ch 2, II](Journal-2-II.md)_  41
 > _Earth date: 10/20/2024, 4:26pm_  
-> _Continued from [Lightsong's Journal, Ch 2, II](Journal-2-II.md)_
 
 ## _Furdae, Aprel 15th, 443 KE - Afternoon_
 

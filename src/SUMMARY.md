@@ -28,6 +28,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
     - [Chapter Two - Taynuilt - II](./Journal-2-II.md)
     - [Chapter Two - Taynuilt - III](Journal-2-III.md) 
     - [Chapter Two - Taynuilt - IV](Journal-2-IV.md)
+    - [Chapter Two - Taynuilt - V](Journal-2-V.md)
 
 > _Copyright Adam Bailey and Jon Kislin, 2024._ All rights reserved.   
 > _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._
