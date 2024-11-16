@@ -4,7 +4,7 @@
 | | |
 |-------------:|:--------------------|
 | Picture      | <img src="./images/people/Louissa.jpg" alt="Lady Louissa Corrack" width="275"/> |
-| Race         | Human (Taynn)                        |
+| Race         | Human (Tayn)                        |
 | Profession   | Nobility, Mage                       |
 | Home         | Balnoorial, Later Crag               |
 | Born         | 396 K.E.                             |

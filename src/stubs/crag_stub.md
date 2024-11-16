@@ -6,7 +6,7 @@
 | Climate         | Boreal/arctic       |
 | Nation          | Independent         |
 | Main Culture    | Wuldan, cosmopolitan|
-| Minor Cultures  | Taynnish, Kaldrinic |
+| Minor Cultures  | Taynish, Kaldrinic |
 | Population      | 1,000 - 0 K.E.      |
 |                 | 5,000 - 100 K.E.    |
 |                 | 10,000 - 450 K.E.   |

@@ -4,7 +4,7 @@
 | | |
 |-------------:|:--------------------|
 | Picture      | <img src="./images/people/Shaheila.jpg" alt="Queen Shaheila" width="275"/> |
-| Race         | Human (Taynn)                        |
+| Race         | Human (Tayn)                        |
 | Profession   | Nobility, Mage                       |
 | Home         | Balnoorial, Later Crag               |
 | Born         | 390 K.E.                             |

@@ -5,7 +5,7 @@
 | Region          | Taynuilt Heartlands   |
 | Climate         | Temperate             |
 | Nation          | Taynuilt              |
-| Main Culture    | Taynnish, cosmopolitan|
+| Main Culture    | Taynish, cosmopolitan|
 | Minor Cultures  | Imperial, Dwarven,    |
 |                 | Wuldan                |
 | Population      | 4,000 - -319 K.E.     |

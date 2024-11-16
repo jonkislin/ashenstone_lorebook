@@ -4,7 +4,7 @@
 | | |
 |-------------:|:--------------------|
 | Picture      | <img src="" alt="Lord Tyrson Corrack" width="275"/> |
-| Race         | Human (Taynn)                        |
+| Race         | Human (Tayn)                        |
 | Profession   | Nobility                             |
 | Home         | Balnoorial, Later Crag               |
 | Born         | 392 K.E.                             |
