@@ -14,7 +14,7 @@
 <br>
 <br>
 
-{{#include ./stubs/crag_background_stub.md}}
+{{#include ./stubs/crag_stub.md}}
 
 ## Map
 

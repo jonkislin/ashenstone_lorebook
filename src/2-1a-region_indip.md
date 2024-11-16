@@ -2,9 +2,8 @@
 
 ![](images/maps/indip_map.png)
 
-
 ## Quick facts
-{{#include ./stubs/indip_background_stub.md}}
+{{#include ./stubs/indip_stub.md}}
 
 ## Summary
 Indip is one of the oldest Imperial provinces, containing most of the former Old Indipian Empire (_Ley-Indip-Ley_). Interestingly, Indip as a whole is now often thought of as a backwater, despite its more central location geographically and Old Indip's tremendous wealth and military might. The current capital of Provincial Indip, __Drimmharbor__, is home to the Imperial Navy Fleet and a chief city of the Empire.

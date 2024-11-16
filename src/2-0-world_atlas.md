@@ -82,13 +82,15 @@ _Climate / Biomes_:
 
 <img src="./images/maps/indip_map.png" alt="indip" width="475"/>
 
-{{#include ./stubs/indip_background_stub.md}}
+{{#include ./stubs/indip_stub.md}}
 
 ### Mulhong
 
 <img src="./images/mulhong.png" alt="mulhong" width="475"/>
 
 Imperial Province
+
+{{#include ./stubs/mulhong_stub.md}}
 
 _Culture_:
 
@@ -314,7 +316,7 @@ _Click link to see main article_
 <img src="./images/landscapes/crag_ai_art.png" alt="crag" width="475"/>
 
 
-{{#include ./stubs/crag_background_stub.md}}
+{{#include ./stubs/crag_stub.md}}
 
 ### Southern Kingdoms
 
