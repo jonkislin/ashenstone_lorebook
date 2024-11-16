@@ -18,7 +18,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
         - [Thorvir the Raven](./2-3-1-Thorvir_the_Raven.md)
         - [Lord Tyrson Corrack](./2-3-2-Lord_Corrack.md)
         - [Lady Louissa Corrack](./2-3-3-Lady_Corrack.md)
-        - [Queen Shaheila](./2-3-4-Queen_Shaheila.md)        
+        - [Queen Shaheila of Lynnla](./2-3-4-Queen_Shaheila.md)        
 3. [Timeline](./3-Timeline.md)
 4. [Lightsong's Journal](./Journal-0.0.md): _A chronicle of our DND Campaign from Jan 2024 to Present._ 
     - [Companions](./Journal-0-Companions.md)

@@ -14,7 +14,7 @@
 <br>
 <br>
 
-{{#include ./stubs/laigfhuar_background.stub.md}}
+{{#include ./stubs/laigfhuar_stub.md}}
 
 ## Map
 

@@ -3,7 +3,7 @@
 ## General Description
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="./images/characters/torin.png" alt="Lord Tyrson Corrack" width="275"/> |
+| Picture      | <img src="" alt="Lord Tyrson Corrack" width="275"/> |
 | Race         | Human (Taynn)                        |
 | Profession   | Nobility                             |
 | Home         | Balnoorial, Later Crag               |
