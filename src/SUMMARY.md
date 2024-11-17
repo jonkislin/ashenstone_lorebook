@@ -22,8 +22,8 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
 3. [Timeline](./3-Timeline.md)
 4. [Lightsong's Journal](./Journal-0.0.md): _A chronicle of our DND Campaign from Jan 2024 to Present._ 
     - [Companions](./Journal-0-Companions.md)
-    - [Chapter One - Crag](./Journal-1.I.md)
-    - [First Interlude - From Crag to Taynuilt](./Journal-1.5.I.md)
+    - [Chapter One - Crag](./Journal-1-I.md)
+    - [First Interlude - From Crag to Taynuilt](Journal-1.5-I.md)
     - [Chapter Two - Taynuilt - I](./Journal-2-I.md)
     - [Chapter Two - Taynuilt - II](./Journal-2-II.md)
     - [Chapter Two - Taynuilt - III](Journal-2-III.md) 

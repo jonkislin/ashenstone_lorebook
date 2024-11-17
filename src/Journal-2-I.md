@@ -1,4 +1,4 @@
-# Lightsong's Journal - Chapter 2: Taynuilt - Laighfuar
+# Lightsong's Journal - Chapter 2-I
 
 ## Arriving in Laighfuar 
 
