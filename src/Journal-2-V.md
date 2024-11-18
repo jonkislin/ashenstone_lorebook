@@ -81,3 +81,49 @@ We go to bed.
 
 ## _Early Morning, Soonday, Aprel 17th, 443KE_
 
+### The Lighthousers Call On Us
+
+Ixor and Martin call us to meeting with Cherri in the Lizard Bachelor.
+Eolbiyod allows us into Cherri's chambers. Martin and Eolbiyod are the only ones in here, apparently Martin and Cherri are friends. Ixor is outside keeping watch.
+
+Martin shows us a map of Chakri's Parade Route.
+
+Chakri's Lieutenant Marquil Lennick. Hmm. I don't know the name. But he will come in Monnday. 
+
+Might we explode something? Might we catch him at the Gala?
+Belt Theatre... 
+Councillor Riggin has been involved in preparing for Chakri's arrival.
+
+Explosives? I am not paying attention much.
+I fear we've missed an opportunity to inform our friends in Wulda of a plan to take down a common enemy. 
+
+Where are we going now? Somewhere to the docks? My head is swimming... a chance truly to take down the Beast?
+
+## _Late Morning, Soonday, Aprel 17th, 443KE_
+
+### Heading to the Docks
+
+The Copper Keep. Ollie took our 20 gold. 
+Grall waiting for us for an hour for an extra 5 gold. 
+
+(Also - who died and made him Lord-Emperor?)
+
+## _Midday, Sooonday, Aprel 17th, 443KE_
+
+### Into the Copper Keep
+Willem and Dorlia. Guards.
+Loric, one of the Dutchess' advisors brings us through the ancient parts of the castle.
+
+We meet the Dutchess Leylish. I mistake her for Shaheila.
+
+Leylish will support us, she will not sacrifice too much to do so.. but she will help.
+
+My brain is fuzzy. Somehow, having Chakri within my potential grasp has led me to lose my senses just a bit.  
+
+What now? IF we succeed, then what? For the past seven years this has been among my strongest drives. 
+
+I write this by the light of the tunnels under Copper Keep. 
+Do we go back to talk to Cherri?
+
+I put down my new Blue Jay quill down. 
+
