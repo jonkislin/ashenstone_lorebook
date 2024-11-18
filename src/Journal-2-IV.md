@@ -63,6 +63,8 @@ Where's that Horse Henry?
 Hazar hands Nommy the Stableboy a freaking PLATINUM. WHAT. WHAT. WHAT.   
 \**Lightsong writes WHAT for another seventeen or so times\**.
 
+## _Late Morning, Kaaterday, Aprel 16th, 443KE_
+
 ### To Councilman Jerrick's Gardens
 We all go forward to Jerrick's gardens up in Woodorks, along with Shaheila.
 
@@ -102,7 +104,7 @@ We wakeup Darn, the guy asleep in the cell. He was hired by Gordro who came to t
 
 We go up the stairs. Our friend is hit by a glaive and then poison darts, which I heal. 
 
-#### ___Fighting the Enchanted Armor___
+#### _Fighting the Enchanted Armor_
 We fight some suits of armor.   
 The team gangs up on one of them.   
 The other I rebuke into smithereens.    
