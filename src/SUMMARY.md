@@ -20,7 +20,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
         - [Lady Louissa Corrack](./2-3-3-Lady_Corrack.md)
         - [Queen Shaheila of Lynnla](./2-3-4-Queen_Shaheila.md)        
 3. [Timeline](./3-Timeline.md)
-4. [Lightsong's Journal](./Journal-0.0.md): _A chronicle of our DND Campaign from Jan 2024 to Present._ 
+4. [Lightsong's Journal](./Journal-0-0.md): _A chronicle of our DND Campaign from Jan 2024 to Present._ 
     - [Companions](./Journal-0-Companions.md)
     - [Chapter One - Crag](./Journal-1-I.md)
     - [First Interlude](Journal-1.5-I.md)
@@ -29,6 +29,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
     - [Chapter Two - III](Journal-2-III.md) 
     - [Chapter Two - IV](Journal-2-IV.md)
     - [Chapter Two - V](Journal-2-V.md)
+    - [Chapter Two - VI](Journal-2-VI.md)
 
 > _Copyright Adam Bailey and Jon Kislin, 2024._ All rights reserved.   
 > _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._
