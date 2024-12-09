@@ -73,30 +73,44 @@ Back to the Lizard Bachelor and Cherri for one last night.
 
 __Go to bed__
 
-## __Wenzday__
-...
+## __Teezday Evening__
 
-I DREAM OF A DARK CAVE
-CRYING, PAIN, JOY, FEAR
+Well, with incredible anxiety I report that I woke up this morning from an Ash-blasted Dream!
+I haven't had one of those since I was very very little, before I turned. 
+I had forgotten what the experience was like, but there's no mistaking this.
+
+They say we Dreamcursed only dream the month of our deaths...
+
+```
+I dream of a dark cave...
+
+CRYING, PAIN, JOY, FEAR, ALL ROLLED INTO ONE.
 I CRAWL THROUGH THE CAVE, LOOKING FOR LIGHT.
-BLINDING WHITE SNOWSCAPE.
+A BLINDING WHITE SNOWSCAPE OPENS IN FRONT OF ME.
 
-SHE IS CRYING.
-NEVER ANY CLOSER. 
+I SEE A YOUNG WOMAN, HOODED, HUNCHED OVER, CRYING. 
+SHE - YOU! - ARE CRYING.
+NEVER CAN I GET ANY CLOSER. 
 
-SNOW TURNS TO SALTY TEARS.
+THE SNOW TURNS TO SALTY TEARS.
 
-THE LIGHTNING TURNS TO SALTY.
+THE LIGHTNING TURNS TO SALTY TENDRILS.
 
-PROTECTED SOMEHOW.
-DARK CLOUD ENVELOPS HER.
-LAUGHTER.
-MANLY LAUGH. 
+YOU ARE... PROTECTED? SOMEHOW.
+DARK CLOUD ENVELOP YOU.
+LAUGHTER. MANLY LAUGHTER...
 
-TWO FIGURES OF DWARVEN SHAPED CLOUDS. 
+TWO FIGURES - DWARF SHAPED CLOUDS. I TRY TO REACH THEM TOO,
+BUT RED FIERY PLUMES THROW ME BACK THROUGH THE SNOW. 
+BACK INTO THE CAVE. BACK INTO THE HARD ROCKY EARTH.
 
-RED FIERY PLUMES THROWING ME BACK THROUGH THE SNOW. 
-
-HARD ROCKY EARTH. 
-
+As I awake, I hear stalwart voices say:
 "BROTHER FEAR NOT, WE'LL MAKE SURE SHE IS SAFE."
+
+```
+
+Oh Gods of the Wilds, he couldn't have gotten through even the _Seershadows_, could he?
+Fi'arië, I know you're ancient beyond ancient by our standards, but I do hope you know what you're up against.
+Three thousand years and you haven't failed yet... 
+
+## __Wenzday__
