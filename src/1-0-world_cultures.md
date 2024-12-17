@@ -60,6 +60,14 @@ They are among the most magic-attuned people in the world, with almost every elf
 
 On a calendar governed by a group’s moon priest, every few years a group of elves will return to one of many Ildarii Temple-cities. Here, they will stay for a year before returning to their nomadic lifestyle. These ancient cities were left behind by the Ildarii before the Long Dark many millennia before and the elves (along with gnomes) see themselves as the caretakers of these ancient, magically imbued places. To take care of these places, pregnant elves, recent parents, the elderly, and those otherwise unable to travel nomadically live in the cities full-time. Here they perform religious ceremonies, grow food to feed visiting nomadic groups, and raise elf children communally.  
 
+### "The Visitors"
+
+It is rumored that there are "special" Elves that travel throughout the Northern lands. These are called "The Visitors" by common folk, though their existence is unconfirmed. It is said that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World, having come from the previous World.
+
+The Imperium denies the existence of The Visitors, considering them an invention of heretics and apostates. In Wuldan domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. Most cosmopolitan Elves and half-elves consider them a myth, with many Elvish bards incorporating them as a theme in their performances and tales. Some Elves boast or jest of having Auroran Blood, but this is entirely bluster.
+
+Unknown to almost everyone, there indeed are exceptionally long-lived Elves in the Northern lands, but their skin isn't made of any special material. These are the Eladrin elves, and they care not if anyone remembers them - all the better, since exceedingly few do. Very distant cousins (though visually very similar) to the Elves of the Northern Lands, they currently number a hundred at most. To the individual, they yet fight in secret against real but long-forgotten planetary threats. The most notable factions of Eladrin elves are the Deepchasers and the Seershadows.
+
 ## Halflings
 
 History has forgotten where halflings came from, though many myths suggest they evolved from groundhogs and sprang out of the ground one day. In recent memory, most halflings live integrated within human society or hill dwarven communities, though there are many rural farming and mining villages consisting of almost entirely halfling populations. Most significant is Burrowton, the closest thing to a halfling city, about two days upriver from the City of Lynnmouth.
