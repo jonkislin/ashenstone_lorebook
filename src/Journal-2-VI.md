@@ -112,5 +112,3 @@ As I awake, I hear stalwart voices say:
 Oh Gods of the Wilds, he couldn't have gotten through even the _Seershadows_, could he?
 Fi'arië, I know you're ancient beyond ancient by our standards, but I do hope you know what you're up against.
 Three thousand years and you haven't failed yet... 
-
-## __Wenzday__
