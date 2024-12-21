@@ -238,6 +238,7 @@ We have to stop him?
 "Rest now with the splinter of the moon, you Bastard Beast - you'll never have her"
 
 Torin slices right through his neck, with both of his axes, symmetrically.
+Hazar loots Chakris' money and eldritch sword.
 
 The place is going to collapse! We get hit by stones. 
 
