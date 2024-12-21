@@ -144,4 +144,70 @@ Boudicca tastes it. She says its wonderful.
 
 Ohhh shit there is a screech. WHAT IS THAT! THERE ARE TWO.
 
-### BATTLE
+### BATTLE IN THE DARK
+
+Forms of shifting, pulsing shadow encircle us. I count three. 
+I've not seen something like this before, though perhaps Fi knows more.
+
+Oh god, these things... what power compels them? I fear the end.
+What a corrupted wail.
+
+I ALMOST DIED AGAIN
+
+### After the battle, deeper into the halls.
+My bow tells us to go across the creek and to a small door on the right.
+I help Torin open the door... interesting that my strength added to his is what we needed!
+
+Hazar, the scoundrel, runs into the room. On a dais, we find a gleaimg **hiss** giant Axe.
+Hazar picks up the axe... I choke back bile.... but what is this? It's Torin's family crest?
+My visceral disgust for axes is replaced with awe and curiosity. 
+
+We see imagery, in the abstract, reminiscent of those shadow-fiends. 
+Bootprints now, oho!
+
+And now... a mural? Some humanoid.. with shadow tendrils?
+
+We see two guards...? There's a big stone door. 
+
+"We have been commanded not to attack you."
+"We will say no more"
+
+We walk down into a chamber.... we see a stalagtite.
+At the bottom, Lord Ylysir Chakri.
+
+### CONFRONTING YLYSIR CHARKRI, PART II
+
+What are the luminiscent wall carvings? To the right? 
+A Mural, carved humanoid figure.
+Something of the Holy Reagant?
+
+"WHAT ARE YOU ABOUT?"
+
+Oh... he does not look human...
+
+What is the monster? THis man whose agents level the Indip Expanse?
+
+There is chanting...
+
+Marquil, again. Doesn't seem too upset at us.
+
+"Do you know what these stones are?"
+
+... our friend Boudicca just flatulated! That's quite the jest.
+A splinter of Almak? The Deadmoon?
+Chakri knows far more than I thought...
+
+Chakri doesn't even remember the night that still shivers my spine.
+The night when he, his son, and his men killed everyone we loved...
+Unforgiveable. Just another day for him. 
+
+He points to the stalagmite and stalactite that are nearly touching.
+
+"When these touch, the darkness will return"
+
+This "stalagmite," this splinter of Almak, that the beast calls Nira - 
+it must be destroyed. It must be put to rest - all these millenia.
+
+I call upon the powers of the sky - the sky from which this splinter fell - to give the Deadmoon a final rest.
+
+Marquil - I like him. I hope he will yield before it's all over. 
