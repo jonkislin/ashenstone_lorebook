@@ -60,6 +60,20 @@ They are among the most magic-attuned people in the world, with almost every elf
 
 On a calendar governed by a group’s moon priest, every few years a group of elves will return to one of many Ildarii Temple-cities. Here, they will stay for a year before returning to their nomadic lifestyle. These ancient cities were left behind by the Ildarii before the Long Dark many millennia before and the elves (along with gnomes) see themselves as the caretakers of these ancient, magically imbued places. To take care of these places, pregnant elves, recent parents, the elderly, and those otherwise unable to travel nomadically live in the cities full-time. Here they perform religious ceremonies, grow food to feed visiting nomadic groups, and raise elf children communally.  
 
+### Cosmopolitan Elves
+
+Some Elves settle in human cities and towns, and even marry humans or half-elves. These Elves (and half-elves), when they assimilate fully or partially into human culture, are called "Cosmopolitan Elves". Most emblematic of Cosmopolitan Elves is their sedentary rather than Nomadic nature, though there's not a strict delineation. Additionally, Cosmopolitan Elves are much less likely to practice magic than their nomadic brethren, though some cosmopolitan Elves have occasionally been known to rejoin 
+
+Some towns, such as Flaa in Invëénland, Indip, are composed of almost entirely cosmopolitan Elves.
+
+### "The Visitors"
+
+It is rumored that there are special Elves that travel throughout the Northern lands. These are called "The Visitors" by Imperial common folk, though their existence is unconfirmed. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World.
+
+The Imperium scornfully denies the existence of "The Visitors," considering them an invention of heretics and apostates. In Wuldan domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. Most cosmopolitan Elves and half-elves consider them a myth, though many Elven bards incorporate them as a theme in their performances and tales, associating them or equating them with the Ildarii. Some Cosmopolitan Elves even boast or jest of having Auroran or Ildarii Blood, but this is probably entirely bluster.
+
+Unknown to almost everyone, there indeed are exceptionally long-lived Elves in the Northern lands, and the Wuldans in particular may know more than they're letting on.
+
 ## Halflings
 
 History has forgotten where halflings came from, though many myths suggest they evolved from groundhogs and sprang out of the ground one day. In recent memory, most halflings live integrated within human society or hill dwarven communities, though there are many rural farming and mining villages consisting of almost entirely halfling populations. Most significant is Burrowton, the closest thing to a halfling city, about two days upriver from the City of Lynnmouth.
