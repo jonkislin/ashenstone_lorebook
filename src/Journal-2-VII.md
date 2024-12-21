@@ -206,8 +206,43 @@ He points to the stalagmite and stalactite that are nearly touching.
 "When these touch, the darkness will return"
 
 This "stalagmite," this splinter of Almak, that the beast calls Nira - 
-it must be destroyed. It must be put to rest - all these millenia.
+it must be destroyed. It must be put to rest - all these millenia it's been pulsing here in the dark...
 
 I call upon the powers of the sky - the sky from which this splinter fell - to give the Deadmoon a final rest.
 
 Marquil - I like him. I hope he will yield before it's all over. 
+
+#### The Battle Begins
+
+I continue to attack the stone with thunder... my companions spring to action. Boudicca knocks Chakri down, and we do alright for a bit... but Chakri gets up and nearly does me in. Then he hits Hazar! He's down!
+
+Things are not looking good.
+
+The moon-shard pulses... I feel horror beyond horrors.. and everything goes black.
+
+The following I learn after:
+```
+- An adept falls and in its place emerges a Graxil.
+```
+
+The sound of the skeleton stones awaken us.
+The stone explodes. Big boom.
+
+#### The end of the Battle
+Shaheila's son is with the church. 
+Hazar and Boudicca take swings at Chakri.
+Neuranu is coming?
+
+We have to stop him?
+
+"Rest now with the splinter of the moon, you Bastard Beast - you'll never have her"
+
+Torin slices right through his neck, with both of his axes, symmetrically.
+
+The place is going to collapse! We get hit by stones. 
+
+I use the dust, and we are compressed and expanded inexplicably... then sent back... somewhere?
+
+This place is unfamiliar... a stone door. We go through.
+
+We arise into a wooden glade.
