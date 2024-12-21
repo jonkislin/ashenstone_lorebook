@@ -119,5 +119,29 @@ HERE WE GO.
 
 # Confronting the Beast, High Lord Ylisir Chakri
 
-We kill him. But he isn't dead.
-We get sucked into the void. 
+## In Charkri's Copper Keep Quarters
+Well, it happened so fast but it seemed that we managed to kill him. 
+Instead... though... we get sucked into the void. 
+
+> _Earth date: 12/20/2024_
+
+## In the deep dark depths...
+
+Boudicca tells us that this artificial, 
+slightly bioluminescent tunnel, but this is very clearly a dwarven mine.
+
+We reach a fork. Hmm.. I do see tracks leading to left.
+The bow also points us toward the Left. Let us find our vengeance.
+Torin does a gnarly parkour kickflip in the direction of the tracks... nice. 
+
+We enter into a large room, very dark, running water.
+
+How old must this old place be? I wonder. 
+My compatriot Torin deduces that this looks far older than any Dwarven city, 
+and this hasn't been maintained in perhaps centuries!
+
+Boudicca tastes it. She says its wonderful.
+
+Ohhh shit there is a screech. WHAT IS THAT! THERE ARE TWO.
+
+### BATTLE
