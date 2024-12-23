@@ -21,3 +21,4 @@ Or maybe because I, for once, have some hope of Justice being brought to bear on
 - [Chapter Two - V](Journal-2-V.md)
 - [Chapter Two - VI](Journal-2-VI.md)
 - [Chapter Two - VII](Journal-2-VII.md)
+- [Second Interlude](Journal-2.5.md)
