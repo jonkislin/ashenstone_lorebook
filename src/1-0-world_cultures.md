@@ -67,12 +67,13 @@ Some Elves settle in human cities and towns, and even marry humans or half-elves
 Some towns, such as Flaa in Invëénland, Indip, are composed of almost entirely cosmopolitan Elves.
 
 ### "The Visitors"
+> _Part of a 2024 Lore Expansion by Jon_
 
 It is rumored that there are special Elves that travel throughout the Northern lands. These are called "The Visitors" by Imperial common folk, though their existence is unconfirmed. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World.
 
 The Imperium scornfully denies the existence of "The Visitors," considering them an invention of heretics and apostates. In Wuldan domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. Most cosmopolitan Elves and half-elves consider them a myth, though many Elven bards incorporate them as a theme in their performances and tales, associating them or equating them with the Ildarii. Some Cosmopolitan Elves even boast or jest of having Auroran or Ildarii Blood, but this is probably entirely bluster.
 
-Unknown to almost everyone, there indeed are exceptionally long-lived Elves in the Northern lands, and the Wuldans in particular may know more than they're letting on.
+Unknown to almost everyone, there indeed are exceptionally long-lived Elves in the Northern lands, and the Wuldans in particular may know more than they're letting on. 
 
 ## Halflings
 
@@ -89,11 +90,17 @@ Orcs, and their so-called “half-orc” or "Unhorned" relatives hail from the s
 
 Half-orcs are not actually the progeny as orcs and human relationships, as some myths portray, but rather represent orcs who follow the teachings of the ancient prophet Mulua, whose teachings led to a cultural revolution within many orc clans. The result is a culture that exists alongside, and often in conflict with, orc culture. Mulua, a visionary of the "Unhorned," led many to forgo practices that to humans appear excessively violent and primitive, like the sacrifice of the first-born to the earth spirits and religious decree to kill or enslave every non-orc in a clan’s path. As a result, “half-orcs” are tolerated by human civilizations. Within the Imperial Capital of Ashenstone, there is an entire half-orc enclave within the city. 
 
+> _The paragraphs that follow are part of a 2024 Lore Expansion by Jon_
+
 In -982 KD, the Orcish Necromancer-kings L'Ratomi and Z'ratomi captured and burned as a heretic the High Priestess Anüa, Mulua's great-great-granddaughter, launching the infamous Inquisition of the Horns. This inquisition lasted half a century, with Orcish necromancers and blood priests persecuting, murdering, and reanimating the corpses of their Half-orcs to serve in the undead fleets of the orcish Necromancer-kings. This triggered the Great Flight of the Unhorned, leading to the mass Unhorned migrations northward up the Western rim of the Gold Desert, inhospitable to the Undead Fleets which required occasional exposure to the air of the sea to remain re-animated.
+
+For nearly a millenium, during the Indip Empire, half-orces were venerated as the "Holy Unhorned" by the humans of Indip - indeed the name "Indip" is an homage to the historical holiest site in half-orcish ethno-religious history. This venerated status of the half-orcs among humans declined sharply with the fall of the South Indip Empire in 9 KD.
 
 Unfotunately, despite the millenia-long history of proved nonviolence of the Unhorned, there are some zealots in the Imperial high command and religious structures who are known to privately view Half-orcs with suspicion and even hatred, considering them Orcs pretending civilization as a pretense to plunder and pillage more effectively later.
 
 ## Dreamcursed (Tieflings)
+
+> _Part of a 2024 Lore Expansion by Jon_
 
 Dreamcursed, as they are most commonly called, are not so much a culture as a specific group of individuals from various backgrounds with unique traits from birth. To the wise and well-learned they are known as Tieflings, beings with a mysterious infernal lineage.
 

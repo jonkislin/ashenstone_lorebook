@@ -219,31 +219,43 @@ I continue to attack the stone with thunder... my companions spring to action. B
 Things are not looking good.
 
 The moon-shard pulses... I feel horror beyond horrors.. and everything goes black.
+The sound of the skeleton stones awaken us from near-death.
 
-The following I learn after:
-```
-- An adept falls and in its place emerges a Graxil.
-```
-
-The sound of the skeleton stones awaken us.
-The stone explodes. Big boom.
+As I awake, I prepare my strongest Thunderwave...
+The stone explodes. Big boom. Chakri falls to his knees - "WHAT HAVE YOU DONE!"
+It seems his will to fight is... gone?
 
 #### The end of the Battle
-Shaheila's son is with the church. 
-Hazar and Boudicca take swings at Chakri.
-Neuranu is coming?
+We ask Chakri some questions. He seems utterly... disinterested... in my backstory...
+- This guy doesn't even remember taking our Songhew Axes!!!
+- Shaheila's son is with the church. 
+- Neuranu is coming? The Old One?
+- We have to stop him?
+- Ylysir Chakri hands us a satchel with magical black dust. He said this will return us to the surface.
+- I am shocked that he's willing to help us. Did we ever understand this man, even a little?
 
-We have to stop him?
+Hazar and Boudicca take swings at Chakri. I can't resist to add some psychological warfare:
+- "Rest now with the splinter of the moon, you Bastard Beast - you'll never have her"
 
-"Rest now with the splinter of the moon, you Bastard Beast - you'll never have her"
+With Torin slices laterally right through his neck, with both of his axes, simultaneously symmetrically.
+I am also shocked at how little emotion I feel! The Seers always said something about the hollowness of revenge...
+I vowed that I'd have Ylysir Chakri's head, but I can't stomach looking at it, let alone picking it up.
+I settle for capturing his shadow. It may prove useful as a Mantle of Whispers, though I don't know I can stomach even that.
 
-Torin slices right through his neck, with both of his axes, symmetrically.
-Hazar loots Chakris' money and eldritch sword.
+Hazar loots Chakris' money and Eldritch Sword. Figures.
 
-The place is going to collapse! We get hit by stones. 
+Well - the underground tunnel-system we are in seems like it is going to collapse! We get hit by stones. 
 
 I use the dust, and we are compressed and expanded inexplicably... then sent back... somewhere?
-
 This place is unfamiliar... a stone door. We go through.
 
-We arise into a wooden glade.
+We are in a spring glade? Where are we? The air is warm and pleasant, with the slightest breeze. 
+
+This place... it reminds me of the Expanse. 
+Do you remember the day we were given our Songhews, A?
+This day feels much like that. Hopeful, somehow, despite the apparent Eldritch horrors we unleashed.
+What I wouldn't give to be back there in the Expanse, before the now-dead Chakri laid to waste everything we loved.
+
+But... maybe we can learn to fashion new Songhews, at least, in honor of the ones the Beast stole, and apparently forgot about...
+
+> # END OF CHAPTER TWO

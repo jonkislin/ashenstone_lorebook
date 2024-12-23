@@ -1,11 +1,11 @@
 # Lightsong's Journal, Chapter 1 - Crag
 
 The campaign begins! Late January 2024 (will take better records next chapter).  
-Major locations: [Crag](./2-2-city_crag.md).  
+Major locations: [Crag](./2-2a-city_crag.md).  
 
 ## Day 1  
 
-- Five [characters](./campaign_2024_characters.md) meet in a pub in Crag.  
+- Five [characters](./Journal-0-Companions.md) meet in a pub in Crag.  
 - They encounter a fiesty lordling, Ewyin. 
 - He harrasses the kindly owner.  
 - The character fight off the lordling and his goons with the help of the half-orc bouncer.  

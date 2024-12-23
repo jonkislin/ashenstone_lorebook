@@ -40,7 +40,7 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | 0 | Emperor Jontosin dies of old age. His funeral is held atop the island of Ashenstone. His daughter Kaldrina is crowned the new empress. Based on a vision she recieves upon coronation, Kaldrina declares their years of wandering over and establishes The Kaldrinic Empire with Ashenstone as the new Imperial Seat. Work begins on the construction of Jonto Keep. |
 | 4 | Ekryp Falls under Kaldrinic control |
 | 6 | Drimmharbor is founded; the area's native half-orcs are expelled to Drez'Dip and are banned from fishing in the Inbay in favor of Human fishermen |
-| 7 | South Indip Empire falls to the Kaldrinic Empire. Great Invëye is sacked and destroyed. The Ley-Indip-Ley is no more. |
+| 9 | South Indip Empire falls to the Kaldrinic Empire. Great Invëye is sacked and destroyed. The Ley-Indip-Ley is no more. |
 | 35 | The Imperial Provincial system is established, replacing previous system of martially occupied nations |
 | 44 | Denisians begin sending out explorers north to find new homeland |
 | 47 | Denisians begin formal migration to what is now Sygassas |
