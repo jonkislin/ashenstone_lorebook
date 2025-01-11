@@ -1,4 +1,4 @@
-# Timeline
+# World Timeline
 
 _Major events of the world._
 

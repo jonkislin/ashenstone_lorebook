@@ -1,4 +1,7 @@
 ## Lightsong the Haunted
+
+![alt text](../images/characters/lightsong.png)
+
 ### Basics
 **Character's Name**: Lightsong the Haunted  
 **Race:** Dreamcursed (Tiefling of Fierna, born to Human mother, unknown father)  
@@ -137,3 +140,184 @@ Lightsong lore update 5/18/24:
 - Lord Yallisyr Chakri has a son, Jarodren Chakri, who helped him gleefully with the atrocities against Lightsong’s half-orc family. This lordling would make Ewyin Corrack look a saint, scholar, and gentleman. (Ewyin redemption arc happens where he helps us kill this fucker? I leave it to you ). Also, Lord chakri promised Aria to his son as a wife before Lightsong and Aria escaped. No bueno. Fucked up.
 
 - Lightsong thinks his half-elf sister Aria is just his adopted sister bc half-orc family, but she’s actually his slightly older real sister, he has no idea. He also doesn’t realize she’s older bc half-elf. “She always reminded me of my mom who was killed when I was 3”. There’s a reason she’s familiar. Aria ran away from mom at a very young age, Lightsong was conceived in sadness. Mom abandoned lightsong once he started turning, but he thinks she was killed. She's still out there. Remember, Aria is super secret and Lightsong will take a long long time to reveal her if ever. You may have to force the subject. Don’t do it too soon though Maybe Lightsong was a half-elf before Tiefling-ing, or maybe they have different dads and lightsong was full human. You can choose 
+
+## Aria, Silent Seer
+![alt text](../images/people/aria.png)
+
+**Character's Name:** Aria.   
+
+**Race:** Half Elf.  
+
+**Class:** Druid (Arctic) + Divination Wizard.  
+
+**Age (may be vague, like "young, middle-aged")**: 33.  
+
+**Physical Description:** 
+- Pale, medium height, blue eyes.
+- Wears hooded cloaks with downcast eyes.
+- Unnaturally pale skin.
+- Her blonde hair has turned icy white.
+- Her eyes are a startingly mosaic of blue hues that seem to shift in the light.
+- Pine Marten familiar, Kirjan.  
+
+
+**Do you have any quirks or odd personality traits?**
+- Aria is deathly quiet. She eats and moves little. 
+- On certain nights, she walks for miles Northward, then comes back before morning and sleeps the next day. 
+- She is not questioned, but Fi'arië never loses track of her general location.
+
+**What is your ultimate aspiration or goal?**
+- Aria's ultimate aspirations are entirely unknown.
+
+**What are your biggest fears?**
+- Unknown, but Aria goes great lengths to avoid axes.
+- Aria is very protective of her Pine Marten familiar/dæmon, Kirjan, who is capable of speaking on her behalf, but does so only rarely.
+
+**What was your childhood like?**
+- Aria ran away from her parents when she was 5, on a trip to Flaa, at the edge of civilized Indip. It's unclear why. 
+- Aria was held in stasis by an ancient elven magic she stumbled upon for 7 years, until she was adopted by a band of Unhorned a few day's journey Southeast of Flaa, in the Indip Expanse.
+- It was the presence of kin that broke her out of stasis - the magic was originally devised millenia ago to protect Elves from near apocalyptic threats during the War of Descension. Only the presence of blood relations would undo the stasis spell. Unknown to Lightsong, he was the kin who undid this spell.
+- Aria met Lightsong who was travelling with the Unhorned. She immediately recognized Lightsong as her kin who undid the spell, despite never having met him. She never said anything to him about this.
+
+**What motivates you to get up every day?**
+- Aria tends to a mysterious Scythe-blade inscribed with mysterious runes.
+- Aria dutifully learns survival skills from Fi'arië, her Eladrin Shadow.
+- Aria practices her druidcraft and divination magic with the other Ice Seers. The Ice Seers are not mute, but they speak little among themselves, sharing a deep understanding. Aria learns well despite not talking.
+
+**Before finding themselves thrown into this adventure, how did you make a living?**
+- Previously, A carefree girl who loved to sing and talk to birds.
+- More recently, a silent student of the ice.
+
+**How do you spend your free time?**
+- Sitting alone, or with Fi'ariē, or Kirjan, or with the Ice Seers, with books of druidcraft and divination.
+- Going on midnight jaunts to various sites in the icy wilds.
+
+**An old leprous beggar approaches you in the street asking for a spare coin. How do you respond?**
+- Aria does not know what coins are, so would probably be confused.
+
+----
+**Alignment**: chaotic good ultimately, but seemlngly true neutral to those who don't know her well.
+
+**Background**
+Haunted One
+Feature: Heart of Darkness
+
+Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone.
+
+**Harrowing Event**
+
+Prior to becoming an adventurer, your path in life was defined by one dark moment, one fateful decision, or one tragedy. Now you feel a darkness threatening to consume you, and you fear there may be no hope of escape. Choose a harrowing event that haunts you, or roll one on the Harrowing Events table.
+
+- A monster that slaughtered dozens of innocent people spared your life, and you don’t know why.
+
+**Personality Traits**
+- I refuse to become a victim, and I will not allow others to be victimized.
+- I don’t run from evil. Evil runs from me.
+- I like to read and memorize poetry. It keeps me calm and brings me fleeting moments of happiness.
+- I don’t talk about the thing that torments me. I’d rather not burden others with my curse.
+- I expect danger around every corner. I'm ready for it.
+
+**Ideals**
+- I’m a monster that destroys other monsters, and anything else that gets in my way. (Evil)
+- I have a dark calling that puts me above the law. (Chaotic)
+- I kill monsters to make the world a safer place, and to exorcise my own demons. (Good)
+- I like to know my enemy’s capabilities and weaknesses before rushing into battle. (Lawful)
+
+**Bonds**
+- A terrible guilt consumes me. I hope that I can find redemption through my actions.
+
+- There’s evil in me, I can feel it. It must never be set free.
+
+- I have a child to protect. I must make the world a safer place for him (or her).
+	- *This isn't her offspring, but actually her younger brother Lightsong. Lightsong imagines himself Aria's caretaker, but she feels the opposite.*
+
+- I keep my thoughts and discoveries in a journal. My journal is my legacy.
+
+**Flaws**
+- I talk to spirits that no one else can see.
+- I assume the worst in people.
+- I have certain rituals that I must follow every day. I can never break them.
+
+## Fi'arië Seershadow
+
+![alt text](../images/people/fiarie.png)
+
+**Character's Name:** Fi'arië Seershadow
+
+**Race:** Elf (eladrin/ethereal) (think semi-immortal countless millenia living tolkien elf, rather than multihundred year old dnd elf, mix in some cosmic/celestial mystery)
+
+**Class:** Ranger - Horizon Walker, Level 15
+
+**Age (may be vague, like "young, middle-aged")**: 3210.years old this past March. Fi'arië was born with the vernal equinox.
+
+**Physical Description:** Olive skinned, silver hair (born this color, not a sign of age). If she were human, people would guess shes in her 30s. About 5'9". Like lightsong, she has two different colored eyes. One is blue, the other green. Nothing so dramatic as her Tiefling acquaintence.
+
+**Do you have any quirks or odd personality traits?**
+- I love sweets. Especially things with honey or berries.
+- Wuldan Gin is my other vice.
+- Im quiet and seemingly unempathetic. Its not my fault humans die so quickly and over such trivial matters. I hardly can even register who they are before they die.
+- Ive been known to meditate for weeks at a time without eating or drinking anything. One time I went two spring months listening to the Moons in a Spruce tree and found not one but two chickadee nests in my cloak when I stood up.
+
+**What is your ultimate aspiration or goal?**
+- To shepherd my charge to her destiny, and protect her on her way. I cannot leave the circles of the world until I do.
+- To finish my record of the moons - a scholarly pursuit if I do say so myself!
+- To find wellsprings of Aberrated on this Sphere, and dismantle them.
+	- Like the Graxil, the Aberrated are interlopers. I'll leave the Graxil to the Deepfinders.
+
+**What are your biggest fears?**
+- That the Ice Seers of the North will go extinct. The Seers are critical connective tissue. There are other worlds and mechanisms at work even my grandmother cannot explain, and all is for naught if the Seers here die out...
+- That my brothers will fail on their quest. I have not seen them nor even communed with them yet this century, and I've been getting increasingly worried.
+
+**What was your childhood like?**
+- It's been thousands of years. I remember a different world. There were ruins everywhere. Now, few if any remain, all having crumbled to dust. There were also more volcanoes then. 
+- I was raised by my grandmother and her sisters. My parents left the circles of the world before I even knew how to walk. 
+- I remember the waves of human migrations from the South. I remember meeting children who now grace the history books as great heroes of old. Most were not even close to as noble as theyre presented. Some, including the best of them, are not told of at all.
+- Ive learned and forgotten countless human tongues. I prefer to speak my own tongue, but the current common speech was easy to master.
+- My grandmother taught me of the time before the Moonfall. She left the circles of the world with her sisters over 400 years ago, around the founding of the Kaldrinic Dynasty.
+- I made friends with a Clan of the Old Kyver as a youngling. I do not know what became of them.
+
+**What motivates you to get up every day?**
+
+- To protect my current Seer, Aria. She is young and traumatized, but shows great promise.
+- The thrill of the hunt for Aberrations, Undead, and within the last few decades, Imperial Paladins.
+- The thought of discovering a new sweet or pastry. Humans are always coming up with new tasty things. Its the only thing that they seem able to surprise me with.
+- I do not put any stock in Lightsong's search for cures of the so called mute sickness. Aria will speak again if and when she wishes. Speech is overrated, anyway. Still, I dont have any interest in dissuading him. 
+
+**Before finding themselves thrown into this adventure, how did you make a living?**
+- Dutysworn as a Seershadow of Kiv'la to protect the Seers and shepherd individual seers to their destiny. 
+- As of less than a decade ago, I again have a Seer to Shadow - Aria. The last one, Rendon, died on me after a measily sixty years from "old age". He was only 85! Aria has already surpassed him in her early thirties - still a babe, but I'm impressed.
+
+**How do you spend your free time?**
+- Eating pastries and drinking the strongest wuldan gin (it takes a lot to get a 3000 year old elf drunk). I talk more when Im drunk. I have a thing for strong dwarves, men or women.
+- Listening to the Music of the Moons.
+- Hunting aberrations and undead in the Northern Icelands. My efforts keep them at bay, but theyve both become slightly more numerous this year, which is cause for some concern, especially when they meld ...
+
+**An old leprous beggar approaches you in the street asking for a spare coin. How do you respond?**
+- I give them some food, water, and a ward against Aberrations.
+
+
+----
+**Alignment**: Neutral good
+
+**Background**
+Fi'arië is an Eladrin Elf - on this planet, exceedingly few are aware of her kind. Eladrin Elves are called by those who know them the "True" Elves - they do not seem to age at all, and can live many millenia. They are deeply connected to the "Circles of the World" - the whole of the cosmos, as the Eladrin see it. It is said they can hear the Moons "sing," and that the song is loudest during Aurora storms.
+
+Outlander
+Feature: Wanderer
+
+You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
+
+- Fi'arië knows more about the living land than most anyone; she is not aware of her excellence in this matter, she simply takes her knowledge for granted
+
+**Personality Traits**
+- I watch over my friends as if they were a litter of newborn pups.
+	- At 3210 years old, it makes sense that she would feel this way.
+- I have a lesson for every situation, drawn from observing nature.
+
+**Ideals**
+- Nature. The natural world is more important than all the constructs of civilization. (Neutral)
+**Bonds**
+- An injury to the unspoiled wilderness of my home is an injury to me.
+
+**Flaws**
+- I am slow to trust members of other races, tribes, and societies.
