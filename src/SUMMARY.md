@@ -34,7 +34,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
     - [Epilogue 2024](./2024/Journal-2.5.md)
     - [Lightsong's Secret Lore](./2024/Journal-99-Lightsong-Lore.md)
 
-> _Copyright Adam Bailey and Jon Kislin, 2024._ All rights reserved.   
+> _Copyright Adam Bailey and Jon Kislin, 2025._ All rights reserved.   
 > _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._
 
  
