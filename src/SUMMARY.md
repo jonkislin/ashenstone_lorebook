@@ -31,7 +31,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
     - [Chapter Two - V](Journal-2-V.md)
     - [Chapter Two - VI](Journal-2-VI.md)
     - [Chapter Two - VII](Journal-2-VII.md)
-    - [Second Interlude](Journal-2.5.md)
+    - [Epilogue 2024](Journal-2.5.md)
 
 > _Copyright Adam Bailey and Jon Kislin, 2024._ All rights reserved.   
 > _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._

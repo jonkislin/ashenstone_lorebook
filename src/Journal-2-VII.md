@@ -41,9 +41,14 @@ Passages within the walls of the Copper Keep.
 6. Back at the Copper Keep
 
 
-![1st floor](image-1.png)
-![3rd floor](image-2.png)
-![2nd floor](image-3.png)
+First floor:
+![1st floor](images/maps/copper_keep_1.png)  
+
+Second floor:
+![2nd floor](images/maps/copper_keep_2.png)  
+
+Third floor:
+![3nd floor](images/maps/copper_keep_3.png)
 
 #### The stones from Shaheila
 Loric gives us each a matte black stone with a dancing schedule. Each make a Lynnish ensemble.
