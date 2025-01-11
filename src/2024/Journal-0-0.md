@@ -22,3 +22,4 @@ Or maybe because I, for once, have some hope of Justice being brought to bear on
 - [Chapter Two - VI](Journal-2-VI.md)
 - [Chapter Two - VII](Journal-2-VII.md)
 - [Epilogue 2024](Journal-2.5.md)
+- [Lightsong Secret Lore](Journal-99-Lightsong-Lore)
