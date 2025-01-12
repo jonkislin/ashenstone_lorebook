@@ -66,14 +66,24 @@ Some Elves settle in human cities and towns, and even marry humans or half-elves
 
 Some towns, such as Flaa in Invëénland, Indip, are composed of almost entirely cosmopolitan Elves.
 
-### "The Visitors"
+### The Visitors
 > _Part of a 2024 Lore Expansion by Jon_
 
-It is rumored that there are special Elves that travel throughout the Northern lands. These are called "The Visitors" by Imperial common folk, though their existence is unconfirmed. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World.
+It is rumored that there are special Elves that travel throughout the Northern lands. These are called "The Visitors" by Imperial common folk. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World.
 
-The Imperium scornfully denies the existence of "The Visitors," considering them an invention of heretics and apostates. In Wuldan domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. Most cosmopolitan Elves and half-elves consider them a myth, though many Elven bards incorporate them as a theme in their performances and tales, associating them or equating them with the Ildarii. Some Cosmopolitan Elves even boast or jest of having Auroran or Ildarii Blood, but this is probably entirely bluster.
+The Imperium scornfully denies the existence of The Visitors, considering them an invention of heretics and apostates. In Wuldan domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. Most cosmopolitan Elves and half-elves consider them a myth, though many Elven bards incorporate them as a theme in their performances and tales. Some Cosmopolitan Elves even boast or jest of having Auroran Blood, but this is probably bluster.
 
 Unknown to almost everyone, there indeed are exceptionally long-lived Elves in the Northern lands, and the Wuldans in particular may know more than they're letting on. 
+
+#### The True Nature of The Visitors
+
+> Post-Chakri Revelations Follow (2025 Lore Expansion)
+
+The Visitors' true name is the Ildarii (called in other realms the Eladrin Elves) and in the Northern Lands, they form two orders - The *Deepchasers* of Jezier'Raik and the *Seershadows* of Kiv'la. Primarily hunters, both orders have a favored prey - The Seershadows hunt all manner of Celestial Aberrations that encroach on the planet, and the Deepchasers hunt Graxils - spectres associated with the Dead moon Almak - deep underground.
+
+Ildariin Elves, while not impervious to violent deaths, nonetheless do not grow old and very rarely die from illness. As such, some members have lived for millenia or more.
+
+The Ildarii are exceedingly rare, exceptionally isolated, and keep to themselves. Heavily steeped in magic, they also rarely if ever travel to lands under Ashenstone's greater zone of influence, and thus few if any humans have had contact with the Ildariin in centuries.
 
 ## Halflings
 
