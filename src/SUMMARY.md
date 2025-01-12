@@ -11,6 +11,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
 2. [World Atlas](./2-0-world_atlas.md)
     - [Region: Indip](./2-1a-region_indip.md)
     - [Region: Mulhong](./2-1b-region_mulhong.md)
+    - [Region: The Jewel Sea](./2-1c-region_JewelSea.md)    
     - [Cities & Places: Crag](./2-2a-city_crag.md)
         - [Crag](./2-2a-city_crag.md)
         - [Laigfhuar](./2-2b-city-Laigfhuar.md)
