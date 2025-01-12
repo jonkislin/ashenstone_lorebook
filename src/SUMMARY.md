@@ -15,6 +15,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
     - [Cities & Places: Crag](./2-2a-city_crag.md)
         - [Crag](./2-2a-city_crag.md)
         - [Laigfhuar](./2-2b-city-Laigfhuar.md)
+        - [Ashenstone](./2-2c-city_Ashenstone.md)
     - [People](./2-3-0-People_master.md)
         - [Thorvir the Raven](./2-3-1-Thorvir_the_Raven.md)
         - [Lord Tyrson Corrack](./2-3-2-Lord_Corrack.md)
