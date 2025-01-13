@@ -58,7 +58,7 @@ Most of the time, elves are nomadic. Groups of dozens of elves, tied together by
 
 They are among the most magic-attuned people in the world, with almost every elf having a direct connection to magical energy. However, due to both the laws of Imperial lands and their own religious customs, most refrain from using significant magical powers outside of specific rituals.  
 
-On a calendar governed by a group’s moon priest, every few years a group of elves will return to one of many Ildarii Temple-cities. Here, they will stay for a year before returning to their nomadic lifestyle. These ancient cities were left behind by the Ildarii before the Long Dark many millennia before and the elves (along with gnomes) see themselves as the caretakers of these ancient, magically imbued places. To take care of these places, pregnant elves, recent parents, the elderly, and those otherwise unable to travel nomadically live in the cities full-time. Here they perform religious ceremonies, grow food to feed visiting nomadic groups, and raise elf children communally.  
+On a calendar governed by a group’s moon priest, every few years a group of elves will return to one of many Ildaari Temple-cities. Here, they will stay for a year before returning to their nomadic lifestyle. These ancient cities were left behind by the Ildaari before the Long Dark many millennia before and the elves (along with gnomes) see themselves as the caretakers of these ancient, magically imbued places. To take care of these places, pregnant elves, recent parents, the elderly, and those otherwise unable to travel nomadically live in the cities full-time. Here they perform religious ceremonies, grow food to feed visiting nomadic groups, and raise elf children communally.  
 
 ### Cosmopolitan Elves
 
@@ -79,11 +79,11 @@ Unknown to almost everyone, there indeed are exceptionally long-lived Elves in t
 
 > Post-Chakri Revelations Follow (2025 Lore Expansion)
 
-The Visitors' true name is the Ildarii (called in other realms the Eladrin Elves) and in the Northern Lands, they form two orders - The *Deepchasers* of Jezier'Raik and the *Seershadows* of Kiv'la. Primarily hunters, both orders have a favored prey - The Seershadows hunt all manner of Celestial Aberrations that encroach on the planet, and the Deepchasers hunt Graxils - spectres associated with the Dead moon Almak - deep underground.
+The Visitors' true name is the Ildaari (called in other realms the Eladrin Elves) and in the Northern Lands, they form two orders - The *Deepchasers* of Jezier'Raik and the *Seershadows* of Kiv'la. Primarily hunters, both orders have a favored prey - The Seershadows hunt all manner of Celestial Aberrations that encroach on the planet, and the Deepchasers hunt Graxils - spectres associated with the Dead moon Almak - deep underground.
 
-Ildariin Elves, while not impervious to violent deaths, nonetheless do not grow old and very rarely die from illness. As such, some members have lived for millenia or more.
+Ildaarin Elves, while not impervious to violent deaths, nonetheless do not grow old and very rarely die from illness. As such, some members have lived for millenia or more.
 
-The Ildarii are exceedingly rare, exceptionally isolated, and keep to themselves. Heavily steeped in magic, they also rarely if ever travel to lands under Ashenstone's greater zone of influence, and thus few if any humans have had contact with the Ildariin in centuries.
+The Ildaari are exceedingly rare, exceptionally isolated, and keep to themselves. Heavily steeped in magic, they also rarely if ever travel to lands under Ashenstone's greater zone of influence, and thus few if any humans have had contact with the Ildaarin in centuries.
 
 ## Halflings
 
@@ -93,7 +93,7 @@ Halflings are known for their casual and laid back natures. They rarely will cho
 
 ## Gnomes  
 
-Gnomes are a mysterious people to most of human civilization, as most choose to live alongside elves within the giant ancient complexes of the Ildarii Temple-cities. Those gnomes who do leave the elven controlled lands tend to either integrate quietly into human society or live secluded lives either alone or in small family units deep in the woods where they can practice their magics undisturbed by human laws.  
+Gnomes are a mysterious people to most of human civilization, as most choose to live alongside elves within the giant ancient complexes of the Ildaari Temple-cities. Those gnomes who do leave the elven controlled lands tend to either integrate quietly into human society or live secluded lives either alone or in small family units deep in the woods where they can practice their magics undisturbed by human laws.  
 
 ## Orcs and Half-Orcs/Unhorned   
 Orcs, and their so-called “half-orc” or "Unhorned" relatives hail from the steppes to the east of Imperial lands. They don’t have a centralized leadership structure and instead are made of hundreds of clans that live nomadically in the lands east of the Empire. Orcs are known for customs that are perceived as excessively violent and cruel by the standards of most other people, and are identifiable by the full length horns protruding from their foreheads. Half-orcs, identifiable due to the lack of horns, which are periodically whittled down during childhood, are known for the intense sense of honor, duty, and personal rules that replaces the cruelty of their cousins. 
