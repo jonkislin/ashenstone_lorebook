@@ -77,13 +77,13 @@ Unknown to almost everyone, there indeed are exceptionally long-lived Elves in t
 
 #### The True Nature of The Visitors
 
-> Post-Chakri Revelations Follow (2025 Lore Expansion)
+> Post-Chakri Revelations (2025 Lore Expansion)
 
-The Visitors' true name is the Ildaari (called in other realms the Eladrin Elves) and in the Northern Lands, they form two orders - The *Deepchasers* of Jezier'Raik and the *Seershadows* of Kiv'la. Primarily hunters, both orders have a favored prey - The Seershadows hunt all manner of Celestial Aberrations that encroach on the planet, and the Deepchasers hunt Graxils - spectres associated with the Dead moon Almak - deep underground.
+The Visitors' true identity is that of the Ildaari (in other realms called the Eladrin) and in the Northern Lands, they form two orders - The *Deepseekers* of Jezier'Raï\k and the *Seershadows* of Kiv'la. Both orders of Ildaari boast superlatively skilled hunters, and both orders have a favored prey: While the Seershadows hunt all manner of Celestial Aberrations that encroach on the planet from above, the the Deepseekers hunt Graxils - spectres associated with the Dead Moon Neuranu-Almak - deep underground. 
 
-Ildaarin Elves, while not impervious to violent deaths, nonetheless do not grow old and very rarely die from illness. As such, some members have lived for millenia or more.
+Ildaarin Elves, while not impervious to violent deaths, nonetheless do not grow old and very rarely die from illness. As such, some members have lived for millenia or more. 
 
-The Ildaari are exceedingly rare, exceptionally isolated, and keep to themselves. Heavily steeped in magic, they also rarely if ever travel to lands under Ashenstone's greater zone of influence, and thus few if any humans have had contact with the Ildaarin in centuries.
+The Ildaari are exceedingly rare, exceptionally isolated, and keep to themselves. Heavily steeped in magic, they also rarely if ever travel to lands under Ashenstone's greater zone of influence, and thus few if any humans have had contact with the Ildaari in centuries.
 
 ## Halflings
 

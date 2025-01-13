@@ -17,32 +17,30 @@
 | Race         | Dwarf               |
 | Class        | Fighter             |
 | Subclass     | Eldritch Knight     |
-| Alignment    | Chaotic Neutral?    |
 | Homeland     | City of Mines       |
 | Age          | 175 years, as of 442 KD |
 | Controller   | Charlotte           |
-| Impressions  | _Generally good natured, but she is willing to kill... perhaps too willing. She has done right by me though, and I owe my life to her a few times over. She is strong, and wields the powers of Death. I am glad to count her as an ally._ |
-| Status       | Alive                |
 
 
-### Felu il'Raïk
+### Fëlu il'Raïk
 | | |
 |-------------:|:--------------------|
 | Picture      | <img src="../images/characters/felu.png" alt="Felu" width="275"/> |
 | Race         | Elf (Ildaari)       |
 | Class        | Ranger              |
 | Subclass     | Horizon Walker      |
-| Alignment    | Lawful Neutral      |
 | Homeland     | Jezier'Raïk         |
-| Age          | 352 (young for an Ildar) |
+| Age          | 352 (young for an Ildaar) |
 | Controller   | Jon                 |
 
 #### Character Backlore
 
-Felu hails from the ancient Elven city of Jezier'Raïk and is an Aspiring *Deepchaser*.
-His goal is to hunt as many Graxil as possible. While most adept with a bow, he has recently been learning the art of the glaive. 
+Felu hails from the ancient Elven city of Jezier'Raïk and is an Aspiring *Deepseeker*.
+His primary goal is to hunt as many Graxil as possible and prove himself to the Deepseeker High Council. 
+While most adept with a bow, he has recently been learning the art of the glaive. 
 
-Felu is quite good at hunting, but really bad at talking to people.  
+Felu is quite good at hunting, but not particularly adept at socializing. 
+
 
 ### Torin Thunderridge
 
@@ -52,7 +50,6 @@ Felu is quite good at hunting, but really bad at talking to people.
 | Race         | Dwarf               |
 | Class        | Barbarian           |
 | Subclass     | Totem Warrior       |
-| Alignment    | Chaotic Neutral?    |
 | Homeland     | City of Stones      |
 | Age          | 225 years, as of 462 KD |
 | Controller   | Matt                |
