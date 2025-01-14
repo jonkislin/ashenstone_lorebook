@@ -375,6 +375,8 @@ This city has long controlled the mountain pass between Korren and the east, and
 
 - Known for the export of their specially cultivated strain of cave mushrooms that are a delicacy throughout the world.  
 
+### Other Cities
+
 There are numerous smaller dwarven cities throughout the lands. There are also a scattering of hill dwarf settlements on the fringes of human lands.  
 
 There are many abandoned dwarven cities throughout the lands. Some have been reclaimed by others, but most are inhabited only by the ghosts of history. The reason for abandonment varies, but is never discussed due to the associated feelings of shame and failure by dwarves. Human settlements that make use of part or all of an abandoned dwarf city include:
@@ -394,9 +396,13 @@ The temple city and surrounding ancient forests to the north of Korren.
 
 The collection of minor temple cities covering the island of Jezier to the north of Taynuilt. Most of the city nodes are along the coast, with the exception of the grand moon temple at the center of the island.
 
+> _Home to the secretive Ildaarin *Deepseekers*, hunters of Graxils and friends of the Old Kyver._
+
 ### Kiv’La
 
 A small temple city built on the southern slopes of the hills in the far northeast stretches of Wulda.
+
+> _Home to the secretive Ildaarin *Seershadows*, hunters of celestial Aberrations and protectors of the Wuldan Ice Seers._
 
 ### Alra’nazar
 
