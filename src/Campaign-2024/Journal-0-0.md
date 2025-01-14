@@ -1,4 +1,7 @@
 # Lightsong's Journal 
+> A record of the 2024 Ashenstone campaign  
+> **DM:** Adam, Saywer (guest)  
+> **Players:** August, Charlotte, Jon, Matt, Mike  
 
 ## Inner Cover
 
