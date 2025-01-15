@@ -43,7 +43,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
     - [Epilogue 2024](./Campaign-2024/Journal-2.5.md)
     - [Lightsong's Secret Lore](./Campaign-2024/Journal-99-Lightsong-Lore.md)
 5. [2025 - The Ashenstone Trail](./Campaign-2025/0.md)
-    - [Characters](./1-Characters.md)
+    - [Characters](./Campaign-2025/1-Characters.md)
 
 > _Copyright Adam Bailey and Jon Kislin, 2025._ All rights reserved.   
 > _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._
