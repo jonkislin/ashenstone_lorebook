@@ -23,6 +23,7 @@
 
 
 ### Fëlu il'Raïk
+
 | | |
 |-------------:|:--------------------|
 | Picture      | <img src="../images/characters/felu.png" alt="Felu" width="275"/> |
