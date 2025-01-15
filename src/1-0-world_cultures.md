@@ -68,7 +68,7 @@ Some Elves settle in human cities and towns, and even marry humans or half-elves
 
 Some towns, such as Flaa in Invëénland, Indip, are composed of almost entirely cosmopolitan Elves.
 
-### The Ildaari, or "True" Elves
+### The Ildarii, or "True" Elves
 
 > _Part of a 2024 Lore Expansion by Jon_
 
@@ -84,11 +84,11 @@ On this matter, The Sylvan Elves, and maybe even the Wuldans, may know more than
 
 #### The True Nature of "The Visitors"
 
-The Visitors' true identity is that of the Ildaari, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. Most Ildaari left the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone.
+The Visitors' true identity is that of the Ildarii, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. Most Ildarii left the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone.
 
-Today, only a few dozen Ildaari remain, and occupy themselves primarily as hunters of Aberrations. They belong to two extant orders: the *Deepseekers* of Jezier'Raïk, who hunt Graxils, and the *Seershadows* of Kiv'la, who, alongside the Ice Seers of Wulda, hunt Celestials.
+Today, only a few dozen Ildarii remain, and occupy themselves primarily as hunters of Aberrations. They belong to two extant orders: the *Deepseekers* of Jezier'Raïk, who hunt Graxils, and the *Seershadows* of Kiv'la, who, alongside the Ice Seers of Wulda, hunt Celestials.
 
-The Ildaari rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. 
+The Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. 
 
 ## Halflings
 
@@ -98,7 +98,7 @@ Halflings are known for their casual and laid back natures. They rarely will cho
 
 ## Gnomes  
 
-Gnomes are a mysterious people to most of human civilization, as most choose to live alongside elves within the giant ancient complexes of the Ildaari Temple-cities. Those gnomes who do leave the elven controlled lands tend to either integrate quietly into human society or live secluded lives either alone or in small family units deep in the woods where they can practice their magics undisturbed by human laws.  
+Gnomes are a mysterious people to most of human civilization, as most choose to live alongside elves within the giant ancient complexes of the Ildarii Temple-cities. Those gnomes who do leave the elven controlled lands tend to either integrate quietly into human society or live secluded lives either alone or in small family units deep in the woods where they can practice their magics undisturbed by human laws.  
 
 ## Orcs and Half-Orcs/Unhorned   
 Orcs, and their so-called “half-orc” or "Unhorned" relatives hail from the steppes to the east of Imperial lands. They don’t have a centralized leadership structure and instead are made of hundreds of clans that live nomadically in the lands east of the Empire. Orcs are known for customs that are perceived as excessively violent and cruel by the standards of most other people, and are identifiable by the full length horns protruding from their foreheads. Half-orcs, identifiable due to the lack of horns, which are periodically whittled down during childhood, are known for the intense sense of honor, duty, and personal rules that replaces the cruelty of their cousins. 

@@ -396,13 +396,13 @@ The temple city and surrounding ancient forests to the north of Korren.
 
 The collection of minor temple cities covering the island of Jezier to the north of Taynuilt. Most of the city nodes are along the coast, with the exception of the grand moon temple at the center of the island.
 
-> _Home to the secretive Ildaarin *Deepseekers*, hunters of Graxils and friends of the Old Kyver._
+> _Home to the secretive Ildariin *Deepseekers*, hunters of Graxils and friends of the Old Kyver._
 
 ### Kiv’La
 
 A small temple city built on the southern slopes of the hills in the far northeast stretches of Wulda.
 
-> _Home to the secretive Ildaarin *Seershadows*, hunters of celestial Aberrations and protectors of the Wuldan Ice Seers._
+> _Home to the secretive Ildariin *Seershadows*, hunters of celestial Aberrations and protectors of the Wuldan Ice Seers._
 
 ### Alra’nazar
 

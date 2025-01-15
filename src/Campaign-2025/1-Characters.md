@@ -27,7 +27,7 @@
 | | |
 |-------------:|:--------------------|
 | Picture      | <img src="../images/characters/felu.png" alt="Felu" width="275"/> |
-| Race         | Elf (Ildaari)       |
+| Race         | Elf (Ildarii)       |
 | Class        | Ranger              |
 | Subclass     | Horizon Walker      |
 | Homeland     | Jezier'Raïk         |
