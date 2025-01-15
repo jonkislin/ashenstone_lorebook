@@ -144,7 +144,7 @@ Lightsong lore update 5/18/24:
 ## Aria, Silent Seer
 ![alt text](../images/people/aria.png)
 
-**Character's Name:** Aria.   
+**Character's Name:** Aria.
 
 **Race:** Half Elf.  
 

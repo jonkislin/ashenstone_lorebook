@@ -54,36 +54,41 @@ Hill dwarves are any dwarf that was not born within the underground dwarven citi
 
 ## Elves  
 
-Most of the time, elves are nomadic. Groups of dozens of elves, tied together by their relationship to a designated moon priest, travel the world guided by nodes of strong magical energy. Some are known for traveling by ship, others by land-based caravans with ornately carved wagons, others groups by more flexible means. Along the way, they raise money by taking mercenary contracts, sharing healing practices, trading crafts, and other odd-jobs.  
+### Sylvan Elves
 
-They are among the most magic-attuned people in the world, with almost every elf having a direct connection to magical energy. However, due to both the laws of Imperial lands and their own religious customs, most refrain from using significant magical powers outside of specific rituals.  
+Most of the time, elves are nomadic. Groups of dozens of elves, tied together by their relationship to a designated moon priest, travel the world guided by nodes of strong magical energy. Some are known for traveling by ship, others by land-based caravans with ornately carved wagons, others groups by more flexible means. Along the way, they raise money by taking mercenary contracts, sharing healing practices, trading crafts, and other odd-jobs.  These Elves are commonly known as the "Sylvan Elves".
 
-On a calendar governed by a group’s moon priest, every few years a group of elves will return to one of many Ildaari Temple-cities. Here, they will stay for a year before returning to their nomadic lifestyle. These ancient cities were left behind by the Ildaari before the Long Dark many millennia before and the elves (along with gnomes) see themselves as the caretakers of these ancient, magically imbued places. To take care of these places, pregnant elves, recent parents, the elderly, and those otherwise unable to travel nomadically live in the cities full-time. Here they perform religious ceremonies, grow food to feed visiting nomadic groups, and raise elf children communally.  
+The Sylvan Elves are among the most magic-attuned people in the world, with almost every elf having a direct connection to magical energy. However, due to both the laws of Imperial lands and their own religious customs, most refrain from using significant magical powers outside of specific rituals.  
+
+On a calendar governed by a group’s moon priest, every few years a group of elves will return to one of many ancient Temple-cities. Here, they will stay for a year before returning to their nomadic lifestyle. These ancient cities were left behind many millennia before and the elves (along with gnomes) see themselves as the caretakers of these ancient, magically imbued places. To take care of these places, pregnant elves, recent parents, the elderly, and those otherwise unable to travel nomadically live in the cities full-time. Here they perform religious ceremonies, grow food to feed visiting nomadic groups, and raise elf children communally.  
 
 ### Cosmopolitan Elves
 
-Some Elves settle in human cities and towns, and even marry humans or half-elves. These Elves (and half-elves), when they assimilate fully or partially into human culture, are called "Cosmopolitan Elves". Most emblematic of Cosmopolitan Elves is their sedentary rather than Nomadic nature, though there's not a strict delineation. Additionally, Cosmopolitan Elves are much less likely to practice magic than their nomadic brethren, though some cosmopolitan Elves have occasionally been known to rejoin 
+Some Elves settle in human cities and towns, and even marry humans or half-elves. These Elves (and half-elves), when they assimilate fully or partially into human culture, are called "Cosmopolitan Elves". Most emblematic of Cosmopolitan Elves is their sedentary rather than Nomadic nature, though there's not a strict delineation. Additionally, Cosmopolitan Elves are much less likely to practice magic than their nomadic brethren, though some cosmopolitan Elves have occasionally been known to rejoin Sylvan society.
 
 Some towns, such as Flaa in Invëénland, Indip, are composed of almost entirely cosmopolitan Elves.
 
-### The Visitors
+### The Ildaari, or "True" Elves
+
 > _Part of a 2024 Lore Expansion by Jon_
 
-It is rumored that there are special Elves that travel throughout the Northern lands. These are called "The Visitors" by Imperial common folk. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World.
+#### The Myth of "The Visitors"
 
-The Imperium scornfully denies the existence of The Visitors, considering them an invention of heretics and apostates. In Wuldan domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. Most cosmopolitan Elves and half-elves consider them a myth, though many Elven bards incorporate them as a theme in their performances and tales. Some Cosmopolitan Elves even boast or jest of having Auroran Blood, but this is probably bluster.
+It is rumored that there are special Elves that may still be found in the Northern Lands. These are called "The Visitors" by Imperial common folk. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World. The Imperium scornfully denies the existence of The Visitors, considering them an invention of heretics and apostates. 
 
-Unknown to almost everyone, there indeed are exceptionally long-lived Elves in the Northern lands, and the Wuldans in particular may know more than they're letting on. 
+In Wuldan and other non-imperial human domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. 
 
-#### The True Nature of The Visitors
+Most Cosmopolitan Elves and half-elves also consider the Visitors to be a myth, though many Elven bards incorporate them as a theme in their performances and tales. Some Cosmopolitan Elves even boast or jest of having Auroran Blood, but this is probably bluster. 
 
-> Post-Chakri Revelations (2025 Lore Expansion)
+On this matter, The Sylvan Elves, and maybe even the Wuldans, may know more than they're letting on...
 
-The Visitors' true identity is that of the Ildaari (in other realms called the Eladrin) and in the Northern Lands, they form two orders - The *Deepseekers* of Jezier'Raï\k and the *Seershadows* of Kiv'la. Both orders of Ildaari boast superlatively skilled hunters, and both orders have a favored prey: While the Seershadows hunt all manner of Celestial Aberrations that encroach on the planet from above, the the Deepseekers hunt Graxils - spectres associated with the Dead Moon Neuranu-Almak - deep underground. 
+#### The True Nature of "The Visitors"
 
-Ildaarin Elves, while not impervious to violent deaths, nonetheless do not grow old and very rarely die from illness. As such, some members have lived for millenia or more. 
+The Visitors' true identity is that of the Ildaari, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. Most Ildaari left the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone.
 
-The Ildaari are exceedingly rare, exceptionally isolated, and keep to themselves. Heavily steeped in magic, they also rarely if ever travel to lands under Ashenstone's greater zone of influence, and thus few if any humans have had contact with the Ildaari in centuries.
+Today, only a few dozen Ildaari remain, and occupy themselves primarily as hunters of Aberrations. They belong to two extant orders: the *Deepseekers* of Jezier'Raïk, who hunt Graxils, and the *Seershadows* of Kiv'la, who, alongside the Ice Seers of Wulda, hunt Celestials.
+
+The Ildaari rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. 
 
 ## Halflings
 
@@ -104,7 +109,7 @@ Half-orcs are not actually the progeny as orcs and human relationships, as some 
 
 In -982 KD, the Orcish Necromancer-kings L'Ratomi and Z'ratomi captured and burned as a heretic the High Priestess Anüa, Mulua's great-great-granddaughter, launching the infamous Inquisition of the Horns. This inquisition lasted half a century, with Orcish necromancers and blood priests persecuting, murdering, and reanimating the corpses of their Half-orcs to serve in the undead fleets of the orcish Necromancer-kings. This triggered the Great Flight of the Unhorned, leading to the mass Unhorned migrations northward up the Western rim of the Gold Desert, inhospitable to the Undead Fleets which required occasional exposure to the air of the sea to remain re-animated.
 
-For nearly a millenium, during the Indip Empire, half-orces were venerated as the "Holy Unhorned" by the humans of Indip - indeed the name "Indip" is an homage to the historical holiest site in half-orcish ethno-religious history. This venerated status of the half-orcs among humans declined sharply with the fall of the South Indip Empire in 9 KD.
+For nearly a millenium, during the Indip Empire, half-orcs were venerated as the "Holy Unhorned" by the humans of Indip - indeed the name "Indip" is an homage to the historical holiest site in half-orcish ethno-religious history. This venerated status of the half-orcs among humans declined sharply with the fall of the South Indip Empire in 9 KD.
 
 Unfotunately, despite the millenia-long history of proved nonviolence of the Unhorned, there are some zealots in the Imperial high command and religious structures who are known to privately view Half-orcs with suspicion and even hatred, considering them Orcs pretending civilization as a pretense to plunder and pillage more effectively later.
 
