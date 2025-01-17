@@ -84,11 +84,18 @@ On this matter, The Sylvan Elves, and maybe even the Wuldans, may know more than
 
 #### The True Nature of "The Visitors"
 
-The Visitors' true identity is that of the Ildarii, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. Most Ildarii left the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone.
+The Visitors' true identity is that of the **Ildarii**, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. Most Ildarii left the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone.
 
-Today, only a few dozen Ildarii remain, and occupy themselves primarily as hunters of Aberrations. They belong to two extant orders: the *Deepseekers* of Jezier'Raïk, who hunt Graxils, and the *Seershadows* of Kiv'la, who, alongside the Ice Seers of Wulda, hunt Celestials.
+The Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. Indeed only a few dozen Ildarii remain within the Innermost Circle ("on the surface of the planet," as we might say), and to a member are gifted hunters of Aberrations. All belong to one of two extant orders: 
 
-The Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. 
+1. The **Deepseekers** of Jezier'Raïk, who hunt Graxils - aberrations associated with the Deadmoon, Almak-Nearanu. 
+2. The **Seershadows** of Kiv'la, who pursue nameless aberrations associated with the living Moon.
+
+**DnD 5e Information**:
+
+- The Ildarii are closest to 5e's [Eladrin](http://dnd5e.wikidot.com/lineage:eladrin). 
+- The Seershadows and the Deepseekers are [Horizon Walkers](http://dnd5e.wikidot.com/ranger:horizon-walker).
+
 
 ## Halflings
 
