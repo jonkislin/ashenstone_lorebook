@@ -74,19 +74,17 @@ Some towns, such as Flaa in Invëénland, Indip, are composed of almost entirely
 
 #### The Myth of "The Visitors"
 
-It is rumored that there are special Elves that may still be found in the Northern Lands. These are called "The Visitors" by Imperial common folk. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World. The Imperium scornfully denies the existence of The Visitors, considering them an invention of heretics and apostates. 
+It is rumored that there are other species of Elves that may still be found in the Northern Lands. These are referred to as "The Visitors" by Imperial common folk. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World. The Imperium scornfully denies the existence of The Visitors, considering them an invention of heretics and apostates. 
 
-In Wuldan and other non-imperial human domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. 
+In Wuldan and other non-imperial human domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. Most Cosmopolitan Elves and half-elves also consider the Visitors to be a myth, though many Elven bards incorporate them as a theme in their performances and tales. Some Cosmopolitan Elves even boast or jest of having Auroran Blood, but this is probably bluster. 
 
-Most Cosmopolitan Elves and half-elves also consider the Visitors to be a myth, though many Elven bards incorporate them as a theme in their performances and tales. Some Cosmopolitan Elves even boast or jest of having Auroran Blood, but this is probably bluster. 
-
-On this matter, The Sylvan Elves, and maybe even the Wuldans, may know more than they're letting on...
+On the matter of The Visitors, The Sylvan Elves and maybe even the Wuldans may know more than they're letting on...
 
 #### The True Nature of "The Visitors"
 
-The Visitors' true identity is that of the **Ildarii**, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. The Ildarii were said to have vanished long ago, or to perhaps never have existed at all. Indeed, most Ildarii left the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone.
+The Visitors' true identity is that of the **Ildarii**, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. While similar in appearance to Sylvan Elves, the lineages are fairly distinct, being only slightly more related to each other than either are to humans and other humanoids. 
 
-The Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. Indeed only a few dozen Ildarii remain within the Innermost Circle ("on the surface of the planet," as we might say), and to a member are gifted hunters of Aberrations. All belong to one of two extant orders: 
+The Ildarii were said to have vanished long ago, or to perhaps never have existed at all. In truth, most Ildarii did leave the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone. Regardless, Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. Indeed only a few dozen Ildarii remain within the Innermost Circle ("on the surface of the planet," as we might say), and to a member are gifted hunters of Aberrations. All belong to one of two extant orders: 
 
 1. The **Deepseekers** of Jezier'Raïk, who hunt Graxils - aberrations associated with the Deadmoon, Almak-Nearanu. 
 2. The **Seershadows** of Kiv'la, who pursue nameless aberrations associated with the living Moon.
