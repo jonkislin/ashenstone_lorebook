@@ -68,7 +68,7 @@ Some Elves settle in human cities and towns, and even marry humans or half-elves
 
 Some towns, such as Flaa in Invëénland, Indip, are composed of almost entirely cosmopolitan Elves.
 
-### The Ildarii, or "True" Elves
+### The Ildarii
 
 > _Part of a 2024 Lore Expansion by Jon_
 
@@ -84,7 +84,7 @@ On this matter, The Sylvan Elves, and maybe even the Wuldans, may know more than
 
 #### The True Nature of "The Visitors"
 
-The Visitors' true identity is that of the **Ildarii**, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. Most Ildarii left the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone.
+The Visitors' true identity is that of the **Ildarii**, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. The Ildarii were said to have vanished long ago, or to perhaps never have existed at all. Indeed, most Ildarii left the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone.
 
 The Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. Indeed only a few dozen Ildarii remain within the Innermost Circle ("on the surface of the planet," as we might say), and to a member are gifted hunters of Aberrations. All belong to one of two extant orders: 
 
@@ -95,7 +95,6 @@ The Ildarii rarely now involve themselves in governance or trade, deferring inst
 
 - The Ildarii are closest to 5e's [Eladrin](http://dnd5e.wikidot.com/lineage:eladrin). 
 - The Seershadows and the Deepseekers are [Horizon Walkers](http://dnd5e.wikidot.com/ranger:horizon-walker).
-
 
 ## Halflings
 
