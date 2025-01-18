@@ -54,6 +54,8 @@ Hill dwarves are any dwarf that was not born within the underground dwarven citi
 
 ## Elves  
 
+Elves are tall, long-lived human-like beings who may be found in the Northern Lands. Indeed the vast majority of Elves are genetically very similar to humans, but unlike humans live on average 600 or 700 years and have a natural affinity for magic.
+
 ### Sylvan Elves
 
 Most of the time, elves are nomadic. Groups of dozens of elves, tied together by their relationship to a designated moon priest, travel the world guided by nodes of strong magical energy. Some are known for traveling by ship, others by land-based caravans with ornately carved wagons, others groups by more flexible means. Along the way, they raise money by taking mercenary contracts, sharing healing practices, trading crafts, and other odd-jobs.  These Elves are commonly known as the "Sylvan Elves".
@@ -64,7 +66,7 @@ On a calendar governed by a group’s moon priest, every few years a group of el
 
 ### Cosmopolitan Elves
 
-Some Elves settle in human cities and towns, and even marry humans or half-elves. These Elves (and half-elves), when they assimilate fully or partially into human culture, are called "Cosmopolitan Elves". Most emblematic of Cosmopolitan Elves is their sedentary rather than Nomadic nature, though there's not a strict delineation. Additionally, Cosmopolitan Elves are much less likely to practice magic than their nomadic brethren, though some cosmopolitan Elves have occasionally been known to rejoin Sylvan society.
+Some Sylvan Elves settle in human cities and towns, and even marry humans or half-elves. These Elves (and half-elves), when they assimilate fully or partially into human culture, are called "Cosmopolitan Elves". Most emblematic of Cosmopolitan Elves is their sedentary rather than Nomadic nature, though there's not a strict delineation. Additionally, Cosmopolitan Elves are much less likely to practice magic than their nomadic brethren, though some cosmopolitan Elves have occasionally been known to rejoin Sylvan society.
 
 Some towns, such as Flaa in Invëénland, Indip, are composed of almost entirely cosmopolitan Elves.
 
@@ -74,17 +76,19 @@ Some towns, such as Flaa in Invëénland, Indip, are composed of almost entirely
 
 #### The Myth of "The Visitors"
 
-It is rumored that there are other species of Elves that may still be found in the Northern Lands. These are referred to as "The Visitors" by Imperial common folk. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World. The Imperium scornfully denies the existence of The Visitors, considering them an invention of heretics and apostates. 
+It is rumored that there are other species of Elves that may still be found in the Northern Lands. These are referred to as "The Visitors" by Imperial common folk. It is told around campfires and in bedtime stories that these Elves can teleport, travel among the stars, have crystalline skin, and are older than the World itself, having come from the previous World. The Imperium scornfully denies the existence of The Visitors, considering them an invention of heretics and apostates.  
 
-In Wuldan and other non-imperial human domains, parents tell children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. Most Cosmopolitan Elves and half-elves also consider the Visitors to be a myth, though many Elven bards incorporate them as a theme in their performances and tales. Some Cosmopolitan Elves even boast or jest of having Auroran Blood, but this is probably bluster. 
+In Wuldan and other non-imperial human domains, parents tell their children stories of the noble "Elves of the Aurora" who sacrificed themselves to seal away the Deadmoon. Most Cosmopolitan Elves and half-elves also consider the Visitors to be a myth, though many Elven bards incorporate them as a theme in their performances and tales. Some Cosmopolitan Elves even boast or jest of having Auroran Blood, but this is probably bluster. 
 
 On the matter of The Visitors, The Sylvan Elves and maybe even the Wuldans may know more than they're letting on...
 
 #### The True Nature of "The Visitors"
 
-The Visitors' true identity is that of the **Ildarii**, the ancient race responsible for building the great Elven temple cities - Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la — along with numerous other smaller cities and temples. While similar in appearance to Sylvan Elves, the lineages are fairly distinct, being only slightly more related to each other than either are to humans and other humanoids. 
+The Visitors' true identity is that of the **Ildarii**, the ancient Elven progenitor race responsible for building the great temple cities Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la. While very similar in appearance to Sylvan Elves, the lineages are fairly distinct, being only slightly more related to each other than either are to humans and other humanoids. The Ildarii still extant in the Northern Lands are, in a sense, living fossils, reflecting a genetic history prior to the mixture of the bulk of the Elves with other humanoids.
 
-The Ildarii were said to have vanished long ago, or to perhaps never have existed at all. In truth, most Ildarii did leave the world long ago, traveling beyond the "Circles of the World," and even those remaining may not fully understand where their kin have gone. Regardless, Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. Indeed only a few dozen Ildarii remain within the Innermost Circle ("on the surface of the planet," as we might say), and to a member are gifted hunters of Aberrations. All belong to one of two extant orders: 
+The Ildarii were said to have vanished long ago, or to perhaps never have existed at all. In truth, most Ildarii travelled beyond the "Circles of the World" long ago, and even those remaining may not fully understand where their kin have gone. Regardless, the Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. Indeed only a few dozen Ildarii remain within the Innermost Circle ("on the surface of the planet," as we might say). 
+
+To a member, those Ildarii who remain on the planet are gifted hunters of Aberrations. These Ildarii see themselves as rearguards against the threats their kin left the Circles long ago to defet. All belong to one of two extant orders:
 
 1. The **Deepseekers** of Jezier'Raïk, who hunt Graxils - aberrations associated with the Deadmoon, Almak-Nearanu. 
 2. The **Seershadows** of Kiv'la, who pursue nameless aberrations associated with the living Moon.
@@ -104,7 +108,8 @@ Halflings are known for their casual and laid back natures. They rarely will cho
 
 Gnomes are a mysterious people to most of human civilization, as most choose to live alongside elves within the giant ancient complexes of the Ildarii Temple-cities. Those gnomes who do leave the elven controlled lands tend to either integrate quietly into human society or live secluded lives either alone or in small family units deep in the woods where they can practice their magics undisturbed by human laws.  
 
-## Orcs and Half-Orcs/Unhorned   
+## Orcs and Half-Orcs/Unhorned
+
 Orcs, and their so-called “half-orc” or "Unhorned" relatives hail from the steppes to the east of Imperial lands. They don’t have a centralized leadership structure and instead are made of hundreds of clans that live nomadically in the lands east of the Empire. Orcs are known for customs that are perceived as excessively violent and cruel by the standards of most other people, and are identifiable by the full length horns protruding from their foreheads. Half-orcs, identifiable due to the lack of horns, which are periodically whittled down during childhood, are known for the intense sense of honor, duty, and personal rules that replaces the cruelty of their cousins. 
 
 Half-orcs are not actually the progeny as orcs and human relationships, as some myths portray, but rather represent orcs who follow the teachings of the ancient prophet Mulua, whose teachings led to a cultural revolution within many orc clans. The result is a culture that exists alongside, and often in conflict with, orc culture. Mulua, a visionary of the "Unhorned," led many to forgo practices that to humans appear excessively violent and primitive, like the sacrifice of the first-born to the earth spirits and religious decree to kill or enslave every non-orc in a clan’s path. As a result, “half-orcs” are tolerated by human civilizations. Within the Imperial Capital of Ashenstone, there is an entire half-orc enclave within the city. 
