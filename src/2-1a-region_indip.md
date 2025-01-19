@@ -15,11 +15,11 @@ Indip is one of the oldest Imperial provinces, containing most of the former Old
 ### Overview
 Within Indip, the Imperial Provicinial Land Ministry divides Indip into three coastal "districts" as well as the unorganized "Indip Expanse":
 
-1. __The Mulmarch__. (Historically - _Izyal_, or Mulloch-Izyal when combined with Lake Mulloch and the Southeast Marches of what's now Mulhong) The Mulmarch is an Agricultural region north of Drimmharbor, extending up to the border of Mulhong. The original homeland of the nomadic Human chieftans who eventually coalesced and formed __Mulloch-Izyal__ and later the Old Indip Empire (__Ley-Indip-Ley__).
+1. __The Mulmarch__. (Historically _Izyal_, or _Mulloch-Izyal_) The Mulmarch is an Agricultural region north of Drimmharbor, extending up to the border of Mulhong. The original homeland of the nomadic Human chieftans who eventually coalesced and formed __Mulloch-Izyal__ and later the Old Indip Empire - the (__Ley-Indip-Ley__).
 
     - _Indïdip_ ("Over-Indip"), the historic capital of the Old Indipian Empire, is located here, on the south shore of Lake Mulhong (also and formerly known as Lake Mulloch). Briefly the population center of the region after the formation of the Old Indip Empire, it was soon eclipsed by Great Invëye in Indip's south. 
 
-    - THe Mulmarch area depopulated quickly after the establishment of Drimmharbor. Now economically depressed, though home to some interesting architecture and a cultural center of traditional Indipian crafts. Considered a pass-through region by most Imperials.
+    - The Mulmarch area depopulated quickly after the establishment of Drimmharbor. Now economically depressed, though home to some interesting architecture and a cultural center of traditional Indipian crafts. Considered a pass-through region by most Imperials.
 
 2. __Drimmharbor District__. Officially the modern capital district of Indip, though many forget it is not an Imperial province in itself. The City of Drimmharbor has a special political status in the Empire as the home to the Imperial Navy and is governed by a complex system of joint Civilian, Mercantile, and Military authorities. Home to roughly 80% of the total population of Indip, and virtually all of the Human population. Too many details to list here - see following sections.
 
@@ -78,7 +78,7 @@ As previously mentioned, __Great Invëye__ is no more, but its two historical po
 
 It's hard to overstate the threat that Old Indip felt from the Orcs of the Rock Hills. If Half-orcs were holy to the humans of Old Indip, Orcs were the very opposite, considered accursed. To be fair to the Old Indipians, The Orcs of the Rock Hills waged centuries of apparently unprovoked war against both the semi-nomadic Half-orcs and the Humans who considered them their sacred ward. To this effect, Old Indip constructed one of the great wonders of the pre-Kaldrinic world: __The Watergates__, four leviathan floating fortresses imbued with long forgotten magics. Combined with the large __Southfort__ and the __Great Trenches__ (Eastrench and Westrench), the very geography of South Invëénland was fortified against threats from the Rock Hills and beyond, whether by land or by sea.
 
-When the Ley-Indip-Ley split into independent North and South portions, Invëye remained an important though diminished city until the darkening of The Watergates in -326 KD. Its slow collapse was complete when the last South Indipian Emperor, Trag Antal II, was defeated and beheaded by Kaldrinic forces during the razing of Great Invëye Palace in 7 KD. The city was burned and much of the population relocatd to Drimmharbor.
+When the Ley-Indip-Ley split into independent North and South portions, Invëye remained an important though diminished city until the darkening of The Watergates in -326 KD. Its slow collapse was complete when the last South Indipian Emperor, Trag Antal XIII, was defeated and beheaded by Kaldrinic forces during the razing of Great Invëye Palace in 7 KD. The city was burned and much of the population relocatd to Drimmharbor.
 
 __Flaa__, in the east of Invëénland, is a predominantly Elvish forest-town meaning "Friends" in an Elvish/Half-orcish sylvan pidgin. Home mostly to Cosmpolitan Elves (those Elves who generally live along Humans and Half-elves in the cities of the Empire) and a small number of Half-orcs, it has remained relatively stable despite centuries of shifting Indipian and Kaldrinic power structures. Some say it has long been protected by powerful magics, though the Elves demur on this subject. 
 
