@@ -33,7 +33,7 @@ She's a mushroom druid!
 | Class        | Fighter             |
 | Subclass     | Eldritch Knight     |
 | Homeland     | City of Mines       |
-| Age          | 205 years, as of 472 KD |
+| Age          | 205 years, as of 473 KD |
 | Controller   | Charlotte           |
 
 #### Character Backlore
@@ -47,7 +47,7 @@ She's a mushroom druid!
 | Class        | Ranger                   |
 | Subclass     | Horizon Walker           |
 | Homeland     | Jezier'Raïk              |
-| Age          | 352 as of 472 KD (young for an Ildari) |
+| Age          | 352 as of 473 KD (young for an Ildari) |
 | Controller   | Jon                      |
 
 #### Character Backlore
@@ -70,7 +70,7 @@ Fëlu is quite good at hunting both Graxils and people if necessary, but not par
 | Class        | Barbarian               |
 | Subclass     | Totem Warrior           |
 | Homeland     | City of Stones          |
-| Age          | 235 years, as of 472 KD |
+| Age          | 235 years, as of 473 KD |
 | Controller   | Matt                    |
 
 #### Character Backlore
