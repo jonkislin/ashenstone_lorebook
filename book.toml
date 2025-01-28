@@ -5,3 +5,6 @@ multilingual = false
 src = "src"
 title = "Ashenstone Lorebook"
 create_missing = "false"
+
+[output.html.fold]
+enable = true
