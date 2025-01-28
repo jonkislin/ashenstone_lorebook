@@ -407,4 +407,5 @@ A small temple city built on the southern slopes of the hills in the far northea
 ### Alra’nazar
 
 The temple city built along the jungle and swamp delta of the Nazara River south of the Empire.
-
+  
+> _A hotspot of Graxils has been detected underneath the city in recent times..._

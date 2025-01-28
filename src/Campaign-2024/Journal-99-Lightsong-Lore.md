@@ -137,7 +137,7 @@ The nomadic half orcs of the southern forest used very special axes called Songh
 
 Lightsong lore update 5/18/24:
 
-- Lord Yallisyr Chakri has a son, Jarodren Chakri, who helped him gleefully with the atrocities against Lightsong’s half-orc family. This lordling would make Ewyin Corrack look a saint, scholar, and gentleman. (Ewyin redemption arc happens where he helps us kill this fucker? I leave it to you ). Also, Lord chakri promised Aria to his son as a wife before Lightsong and Aria escaped. No bueno. Fucked up.
+- Lord Ylisyr Chakri has a son, Jarodren Chakri, who helped him gleefully with the atrocities against Lightsong’s half-orc family. This lordling would make Ewyin Corrack look a saint, scholar, and gentleman. (Ewyin redemption arc happens where he helps us kill this fucker? I leave it to you ). Also, Lord chakri promised Aria to his son as a wife before Lightsong and Aria escaped. No bueno. Fucked up.
 
 - Lightsong thinks his half-elf sister Aria is just his adopted sister bc half-orc family, but she’s actually his slightly older real sister, he has no idea. He also doesn’t realize she’s older bc half-elf. “She always reminded me of my mom who was killed when I was 3”. There’s a reason she’s familiar. Aria ran away from mom at a very young age, Lightsong was conceived in sadness. Mom abandoned lightsong once he started turning, but he thinks she was killed. She's still out there. Remember, Aria is super secret and Lightsong will take a long long time to reveal her if ever. You may have to force the subject. Don’t do it too soon though Maybe Lightsong was a half-elf before Tiefling-ing, or maybe they have different dads and lightsong was full human. You can choose 
 

@@ -34,7 +34,6 @@ _Please note: our scribes continue to research this era. Details may be added, u
 
 _Note: Record keeping vastly improved after the establishment of the Kaldrinic Dynasty of Ashenstone_.  
 
-
 | Year    | Event   |
 |--------:|:--------|
 | 0 | Emperor Jontosin dies of old age. His funeral is held atop the island of Ashenstone. His daughter Kaldrina is crowned the new empress. Based on a vision she recieves upon coronation, Kaldrina declares their years of wandering over and establishes The Kaldrinic Empire with Ashenstone as the new Imperial Seat. Work begins on the construction of Jonto Keep. |
@@ -73,3 +72,5 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | 438 | The King of Lynnla dies under mysterious circumstances, with temporary power the King's Consort empowers multiple Imperial leaders to positions of power and signs orders that strip the monarchy of many remaining autonomies, the Inheritance Crisis begins with King's sister kidnapping the toddler prince and leading action against the King's Consort |
 | 441 | The Inheritance Crisis ends with the burning of the Lynnla Royal Castle at Balnoorial and the hiding of the King's Sister and her son and remaining heir the toddler prince though Empire claims they are dead. Monarchy of Lynnla is officially dissolved in Imperial administration and administrative capital of Lynnla is moved to Lynnmouth with new Imperial Provchu in charge |
 | 442 | Second Imperial temple is constructed in Lynnla as a first move to rapidly convert the people of Lynnla and instill Imperial culture in the land |
+| 443 | Lord Ylysir Chakri, an ascendant scion of the Imperial High Court, vanishes from Laighfuar under mysterious circumstances. Laighfuar is destroyed by an incipient horde of Graxil, shadowy Aberrations associated with the Dead Moon. The Time of the Shadow Plague begins.
+| 444 | After more than four millenia, the Ildarii Deepseekers of Jezier'Raïk emerge out of hiding to combat the Graxil threat head-on. Rumors of another extant order of Ildarii in the far north also surface.

@@ -84,13 +84,13 @@ On the matter of The Visitors, The Sylvan Elves and maybe even the Wuldans may k
 
 #### The True Nature of "The Visitors"
 
-The Visitors' true identity is that of the **Ildarii**, the ancient Elven progenitor race responsible for building the great temple cities Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la. While very similar in appearance to Sylvan Elves, the lineages are fairly distinct, being only slightly more related to each other than either are to humans and other humanoids. The Ildarii still extant in the Northern Lands are, in a sense, living fossils, reflecting a genetic history prior to the mixture of the bulk of the Elves with other humanoids.
+The Visitors' true identity is that of the **Ildarii** (singular: Ildari, pronounced similarly, shorter sound at the end), the ancient Elven progenitor race responsible for building the great temple cities Alk'Sira, Alra'Nazar, Jezier'Raïk, and Kiv'la. While very similar in appearance to Sylvan Elves, the lineages are fairly distinct, being only slightly more related to each other than either are to humans and other humanoids. They are functionally immortal, being also related to High Ulso, the Aldari, the demigods of yore. The Ildarii still extant in the Northern Lands are, in a sense, living fossils, reflecting a genetic history prior to the mixture of the bulk of the Elves with other humanoids.
 
-The Ildarii were said to have vanished long ago, or to perhaps never have existed at all. In truth, most Ildarii travelled beyond the "Circles of the World" long ago, and even those remaining may not fully understand where their kin have gone. Regardless, the Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. Indeed only a few dozen Ildarii remain within the Innermost Circle ("on the surface of the planet," as we might say). 
+The Ildarii were said to have vanished long ago, or to perhaps never have existed at all. In truth, most Ildarii travelled beyond the "Circles of the World" long ago, and even those remaining may not fully understand where their kin have gone. Regardless, the Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. Indeed only a few dozen Ildarii remain within the Innermost Circle ("on the surface of the planet," as we might say).
 
 To a member, those Ildarii who remain on the planet are gifted hunters of Aberrations. These Ildarii see themselves as rearguards against the threats their kin left the Circles long ago to defet. All belong to one of two extant orders:
 
-1. The **Deepseekers** of Jezier'Raïk, who hunt Graxils - aberrations associated with the Deadmoon, Almak-Nearanu. 
+1. The **Deepseekers** of Jezier'Raïk, who hunt Graxils - aberrations associated with the Deadmoon, Almak-Neara. 
 2. The **Seershadows** of Kiv'la, who pursue nameless aberrations associated with the living Moon.
 
 **DnD 5e Information**:
