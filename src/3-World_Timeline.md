@@ -8,7 +8,7 @@ _Very little is known about this era..._ .
 | Year  | Event | Picture |
 |------:|:------|:--------|
 | -12000? | The Ildarii Temple Cities are founded |
-| -6666? | The end of the War of Descension. The Dark Moon _Nearanu_ (also known to the Tayns as _Almak_ and the Elves as _Morë'dûar Ranatth_) collides with surface of planet | ![almak collides](images/events/almak_collides.png)|
+| -6666? | The end of the War of Descension. The Dark Moon _Neara_ (also known to the Tayns as _Almak_ and the Elves as _Morë'dûar Ranatth_) collides with surface of planet | ![almak collides](images/events/almak_collides.png)|
 | -3997? | End of the Long Dark | | 
 | -3965? | Settlement that becomes Taynuilt is founded on the new coast | |
 | -3700? | Fist of the Kyver (Dwarves) come out of hiding | |
