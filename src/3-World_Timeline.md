@@ -3,14 +3,16 @@
 _Major events of the world._
 
 ## The Ancient Postdark Era
-_Almost nothing is known about this era..._ . 
+_Very little is known about this era..._ . 
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| -4000 | The end of the War of Descension, Almak collides with surface of planet | ![almak collides](images/events/almak_collides.png)|
-| -3997 | End of the Long Dark | | 
-| -3965 | Settlement that becomes Taynuilt is founded on the new coast | |
-| -3700 | Fist of the Kyver (Dwarves) come out of hiding | |
+| -12000? | The Ildarii Temple Cities are founded |
+| -6666? | The end of the War of Descension. The Dark Moon _Nearanu_ (also known to the Tayns as _Almak_ and the Elves as _Morë'dûar Ranatth_) collides with surface of planet | ![almak collides](images/events/almak_collides.png)|
+| -3997? | End of the Long Dark | | 
+| -3965? | Settlement that becomes Taynuilt is founded on the new coast | |
+| -3700? | Fist of the Kyver (Dwarves) come out of hiding | |
+| -3000? | The Ildarii (known to humans as "The Visitors") are said to have gone extinct, or at least to have left the planet. | |
 
 ## Classical Pre-Kaldrinic History
 _Please note: our scribes continue to research this era. Details may be added, updated, or changed._  
@@ -29,6 +31,8 @@ _Please note: our scribes continue to research this era. Details may be added, u
 | -205 | Great unchecked fires burn-out the Hall of the Chieftans and much of Indïdip. The North Indip Empire falls unceremoniously. | 
 | -204 | Founding of Izÿ on Lake Mulhong by refugees from Indïdip. | |
 |   -4 | The dual catastrophy of the eruption of Mount Iljo and the breaking of the Gods' Dam lead to the migration of Emperor Jontosin and his people north by ship to find new lands. The Denisians, also impacted by the catastrophy, begin to migrate north too. | |
+|   -3 | Emperor Jontosin's fleet is attacked by Orcs from the Rock Hills. Emperor Jontosin's flagship suffers damage, and his youngest daughter, Kalina, is killed. | | 
+|   -2 | Vanguards of Emperor Jontosin reach the area now occupied by Drimmharbor. They massacre thousands of peaceful Unhorned Half-orcs upon landing, tragically conflating them with the Orcs of the Rock Hills. | |
 
 ## The Kaldrinic Dynasty
 
@@ -37,9 +41,9 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | Year    | Event   |
 |--------:|:--------|
 | 0 | Emperor Jontosin dies of old age. His funeral is held atop the island of Ashenstone. His daughter Kaldrina is crowned the new empress. Based on a vision she recieves upon coronation, Kaldrina declares their years of wandering over and establishes The Kaldrinic Empire with Ashenstone as the new Imperial Seat. Work begins on the construction of Jonto Keep. |
-| 4 | Ekryp Falls under Kaldrinic control |
-| 6 | Drimmharbor is founded; the area's native half-orcs are expelled to Drez'Dip and are banned from fishing in the Inbay in favor of Human fishermen |
-| 9 | South Indip Empire falls to the Kaldrinic Empire. Great Invëye is sacked and destroyed. The Ley-Indip-Ley is no more. |
+| 4 | Ekryp Falls under Kaldrinic control. |
+| 6 | Drimmharbor is founded; the area's remaining native half-orcs are almost immediately expelled to Drez'Dip and are banned from fishing in the Southern sections of the Inbay in favor of Human fishermen |
+| 9 | South Indip Empire falls to the Kaldrinic Empire. Great Invëye is sacked and destroyed. The Fu-Ley of South Indip, Trag Antal XIII, is beheaded, and the _Ley-Indip-Ley_ as a whole is no more. |
 | 35 | The Imperial Provincial system is established, replacing previous system of martially occupied nations |
 | 44 | Denisians begin sending out explorers north to find new homeland |
 | 47 | Denisians begin formal migration to what is now Sygassas |
@@ -67,10 +71,14 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | 382 | Wuldans launch naval invasion of Northern Imperial Mainland, Imperial forces on Cardaenon are severed from supplies and reinforcements, fighting persists through Cardaenon |
 | 383 | Especially hard winter leads to Imperial forces in Cardaenon surrendering. Emperor Hui III dies during a hunting incident. Hui's brother, Tark, who has been the lead commander for the Cardaenon campaign until being reassigned by his brother the previous summer assumes the throne in in the late spring, pushing out supporters of Hui's infant son. Emperor Tark personally leads a concentrated push to retake Cardaenon and retakes all major ports in a short time period. Both sides lose momentum before the Empire can push into Wuldan mainlands, but attrition on both sides leads to a mutual truce. Thee Treaty of Southern Winds is signed which officially ends the Second War of Northern Thorns with Cardaenon officially restored as an Imperial province and many local Wuldan lords executed or exiled. |
 | 400 |  |
-| 402 | The Great Blood Plague spreads through the Empire |
+| 402 | The Great Blood Plague spreads through the Empire. Due to the heroism of Half-orcs from Drez'dip in providing succor for the ill of Drimmharbor, the four-century-long Half-orc fishing ban is lifted near Drimmharbor (excluding the _Deepwater_, which is of particular cultural importance to the Half-orcs), and reform bills are passed in the Drimm Conference to return some rights to the Half-orcs. |
 | 435 | The King of Lynnla marries Shaheila |
 | 438 | The King of Lynnla dies under mysterious circumstances, with temporary power the King's Consort empowers multiple Imperial leaders to positions of power and signs orders that strip the monarchy of many remaining autonomies, the Inheritance Crisis begins with King's sister kidnapping the toddler prince and leading action against the King's Consort |
-| 441 | The Inheritance Crisis ends with the burning of the Lynnla Royal Castle at Balnoorial and the hiding of the King's Sister and her son and remaining heir the toddler prince though Empire claims they are dead. Monarchy of Lynnla is officially dissolved in Imperial administration and administrative capital of Lynnla is moved to Lynnmouth with new Imperial Provchu in charge |
+| 441 | The Inheritance Crisis ends with the burning of the Lynnla Royal Castle at Balnoorial and the hiding of the King's Sister and her nephew and remaining heir the toddler prince though the Empire claims they are dead. Shaheila, Queen Consort, is believed dead. Monarchy of Lynnla is officially dissolved in Imperial administration and administrative capital of Lynnla is moved to Lynnmouth with new Imperial Provchu in charge |
 | 442 | Second Imperial temple is constructed in Lynnla as a first move to rapidly convert the people of Lynnla and instill Imperial culture in the land |
-| 443 | Lord Ylysir Chakri, an ascendant scion of the Imperial High Court, vanishes from Laighfuar under mysterious circumstances. Laighfuar is destroyed by an incipient horde of Graxil, shadowy Aberrations associated with the Dead Moon. The Time of the Shadow Plague begins.
-| 444 | After more than four millenia, the Ildarii Deepseekers of Jezier'Raïk emerge out of hiding to combat the Graxil threat head-on. Rumors of another extant order of Ildarii in the far north also surface.
+| 443* | Riots break out in Laighfuar, second largest city of Taynuilt, after the assassination of Dirk, leader of the Coalition of Dwarven Artisans. Lord Ylysir Chakri, a high ranking military official of Ashenstone and Official Provchu of Lynnla, disappears under mysterious circumstances during the riots. Aberration sightings skyrocket throughout the Empire. Laighfuar is destroyed by an incipient horde of Graxil, shadowy Aberrations associated with the Dead Moon. The "Shadow Plague" begins.
+| 444 | The Empire's wars of expansion pause in light of the new Graxil threat. The Dwarves lose control of their deep vaults, devasting Dwarven economies Empire-wide.
+| by 450 | The Deepseekers of Jezier'Raïk, an order of the ageless and nearly-forgotten Ildarii Elves, end more than four millenia of total reclusion to face the Graxils head-on. 
+| by 473 | The Dwarves have been driven to the upper levels of their cities, and even to the surface in some places. Expeditions are sent in search of the source of the Graxils and the Shadow Plague, which has haunted the lands of the north now for nearly three decades.
+
+_* Events during which Lightsong's Journal Takes Place_
