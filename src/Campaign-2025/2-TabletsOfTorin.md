@@ -1,4 +1,5 @@
 # The Tablets of Torin
+> _Prelude to the Ashenstone Trail_
 
 ![alt text](../images/events/almak-neara_splinter.png)
 
@@ -29,3 +30,13 @@ I consulted the scribes in the great granite library of the city of stone if eve
 Thus I left the city of stones with a small elite guard of a half dozen warriors. Traveling south towards the land of the Half Orcs. I also sent word to Budika, at the city of Mines, to join me on my quest. The opportunity to make right our past mistakes spurred her impetus and she left to join me at once. We traveled separately by boat across the Korren Sea and met at the city of spires. From there we joined forces and headed south on foot with a dozen dwarfs towards the ancient land of Indep.
 
 The road south was hard on the posse. The unprotected wilds are now the domain of Bandits, Dangerous Wildlife, and of course the ever present threat of Graxil. We lost 3 in the marrow mires, and another 4 along while traveling through Mulhong. Tonight we must make camp soon, with only five of us left in the group, but hope remains that we may be close to our goal: To end this flood of Graxil once and for all.
+
+## 1/28/25 - Session 0 Synopsis
+
+- Torin (Matt), Boudicca (Charlotte), and three Dwarven companions (NPCs) encounter a druid, Bolete (Adam), and a professor of antiquities, Indarma Jones (Mike). All parties are mutually suspicious at first.
+- They are soon overrun by Graxil.
+- A young Ildarii, Fëlu of Jezier'Raïk (Jon), comes from the shadows to assist, having been on the trail of the Graxil since earlier that day.
+- The band of Graxil is defeated. Boudicca and Torin tell of their plan to find another splinter of the Deadmoon to see if they can "plug the leak." Fëlu admits his task is aligned, and would also like to find a certain blue Dramcursed Tiefling for his role in the release of the Graxils, also suspecting his new Dwarvish companions as complict.
+- Bolete's and Indarma's motivations are less clear, but they seem generally willing to travel with the new group.
+
+__The Adventure Begins!__
