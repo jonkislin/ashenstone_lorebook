@@ -5,7 +5,7 @@
 {{#include ./stubs/jewelsea_stub.md}}
 
 ## Regions of Note
-- [Ashenstone](./2-2c-city_Ashenstone.md)
+- [Ashenstone](./Atlas/2-2c-city_Ashenstone.md)
 - Chanrithi Republic
 - Henthruin
 

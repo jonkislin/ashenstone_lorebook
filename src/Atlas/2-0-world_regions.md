@@ -310,7 +310,7 @@ _Climate / Biomes_:
 - Temperate
 - Mix of forests, swamps, lakes
 
-### [Crag](./2-2-city_crag.md)
+### [Crag](./Atlas/2-2-city_crag.md)
 _Click link to see main article_
 
 <img src="./images/landscapes/crag_ai_art.png" alt="crag" width="475"/>
