@@ -3,7 +3,7 @@
 ## General Description
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="./images/people/Shaheila.jpg" alt="Queen Shaheila" width="275"/> |
+| Picture      | <img src="../images/people/Shaheila.jpg" alt="Queen Shaheila" width="275"/> |
 | Race         | Human (Tayn)                        |
 | Profession   | Nobility, Mage                       |
 | Home         | Balnoorial, Later Crag               |

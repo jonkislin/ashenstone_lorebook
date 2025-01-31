@@ -2,7 +2,7 @@
 
 
 ## Quick Facts
-{{#include ./stubs/lynnla_stub.md}}
+{{#include ../stubs/lynnla_stub.md}}
 
 ## Regions and Cities of Note
 - [Greenrock Mountains](./Atlas/2-1d-1-subregion_greenrock.md)

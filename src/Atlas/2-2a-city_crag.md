@@ -14,11 +14,11 @@
 <br>
 <br>
 
-{{#include ./stubs/crag_stub.md}}
+{{#include ../stubs/crag_stub.md}}
 
 ## Map
 
-<img src="./images/maps/crag_map.png" alt="Map of Crag in 442 K.E." width="900"/> 
+<img src="../images/maps/crag_map.png" alt="Map of Crag in 442 K.E." width="900"/> 
 
 ## Early History of Crag  
 

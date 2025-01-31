@@ -14,11 +14,11 @@
 <br>
 <br>
 
-{{#include ./stubs/laigfhuar_stub.md}}
+{{#include ../stubs/laigfhuar_stub.md}}
 
 ## Map
 
-<img src="./images/maps/laigfhuar_map.png" alt="Map of Laigfhuar in 442 K.E." width="900"/> 
+<img src="../images/maps/laigfhuar_map.png" alt="Map of Laigfhuar in 442 K.E." width="900"/> 
 
 ## Early History of Laigfhuar  
 

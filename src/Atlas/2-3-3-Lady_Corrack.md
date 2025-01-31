@@ -3,7 +3,7 @@
 ## General Description
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="./images/people/Louissa.jpg" alt="Lady Louissa Corrack" width="275"/> |
+| Picture      | <img src="../images/people/Louissa.jpg" alt="Lady Louissa Corrack" width="275"/> |
 | Race         | Human (Tayn)                        |
 | Profession   | Nobility, Mage                       |
 | Home         | Balnoorial, Later Crag               |
