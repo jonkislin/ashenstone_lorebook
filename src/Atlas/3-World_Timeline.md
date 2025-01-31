@@ -8,7 +8,7 @@ _Very little is known about this era..._ .
 | Year  | Event | Picture |
 |------:|:------|:--------|
 | -12000? | The Ildarii Temple Cities are founded |
-| -6666? | The end of the War of Descension. The Dark Moon _Neara_ (also known to the Tayns as _Almak_ and the Elves as _Morë'dûar Ranatth_) collides with surface of planet | ![almak collides](images/events/almak_collides.png)|
+| -6666? | The end of the War of Descension. The Dark Moon _Neara_ (also known to the Tayns as _Almak_ and the Elves as _Morë'dûar Ranatth_) collides with surface of planet | ![almak collides](../images/events/almak_collides.png)|
 | -3997? | End of the Long Dark | | 
 | -3965? | Settlement that becomes Taynuilt is founded on the new coast | |
 | -3700? | Fist of the Kyver (Dwarves) come out of hiding | |
@@ -20,9 +20,9 @@ _Please note: our scribes continue to research this era. Details may be added, u
 | Year  | Event | Picture  |
 |------:|:------|:---------|
 | -982 | The High Orcish Necromancer-kings L'ratomi and Z'ratomi begin The Inquistion of the Horns, triggering the great Northward migration of the Unhorned along the Western rim of the Gold Desert | |
-| -904 | Trag Çom Anatala I declares the Ley-Indip-Ley or Indipian Empire, upon the death of her father, the Fu-Ley of Mulloch-Izyal. Anatala adopts the title Fu-Indip-Ley ("First Servant of Indip's land"), which becomes the title for all Indipian Emperors and Empresses until the collapse of the Empire. | ![anatala](images/people/anatala.png) | 
+| -904 | Trag Çom Anatala I declares the Ley-Indip-Ley or Indipian Empire, upon the death of her father, the Fu-Ley of Mulloch-Izyal. Anatala adopts the title Fu-Indip-Ley ("First Servant of Indip's land"), which becomes the title for all Indipian Emperors and Empresses until the collapse of the Empire. | ![anatala](../images/people/anatala.png) | 
 | -834 | The City of Invëye is founded on the southern coast of Indip. It quickly grows to be the largest in Indip and the known world, becoming known as Great Invëye.| | 
-| -700 | The Indipian Empire constructs The Watergates to defend against the Third Orcish Deadfleet | ![alt text](images/landscapes/watergates.png) |
+| -700 | The Indipian Empire constructs The Watergates to defend against the Third Orcish Deadfleet | ![alt text](../images/landscapes/watergates.png) |
 | -581 | With the support of many other nations the King of Taynuilt forms and heads the first Taynish Confederacy in light of enemy provocations to the east | |
 | -338 | The Incrillans are forced from their homeland and begin settling on Ekryp | | 
 | -332 | The second Taynish Confederacy forms to defend against the Indipian Regime of Tan La Fon V | |

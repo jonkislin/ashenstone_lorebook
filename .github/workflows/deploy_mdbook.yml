@@ -37,13 +37,12 @@ jobs:
         id: checkout
         uses: actions/checkout@v4
 
-      - uses: cargo-bins/cargo-binstall@main
+      - name: Add cargo-binstall
+        uses: cargo-bins/cargo-binstall@main
 
-      - name: Install mdBook
+      - name: Install mdBook with cargo binstall # much faster than cargo install!
         id: install_mdbook
         run: |
-          # curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
-          # rustup update
           cargo binstall --version ${MDBOOK_VERSION} mdbook
 
       - name: Setup Pages

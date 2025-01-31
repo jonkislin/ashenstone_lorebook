@@ -7,7 +7,7 @@
 
 <!-- end HTML -->
 
-<img src="images/maps/laighfuar_map.png" alt="View of Crag in 442 K.E." width="500"/>
+<img src="../images/maps/laighfuar_map.png" alt="View of Crag in 442 K.E." width="500"/>
 
 <br>
 <i> A map of Laighfuar</i>

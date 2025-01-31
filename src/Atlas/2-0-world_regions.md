@@ -1,5 +1,5 @@
 
-# World Atlas
+# World Regions
 
 <!-- HTML goes here -->
 <style>
@@ -12,7 +12,7 @@ This page is a directory to all major regions in the Northern World! You'll find
 
 ## Map of the World
 
-![alt text](images/maps/map_of_the_world_lower_res.jpg)
+![alt text](../images/maps/map_of_the_world_lower_res.jpg)
 
 ## Human-Dominated Lands: Summary
 

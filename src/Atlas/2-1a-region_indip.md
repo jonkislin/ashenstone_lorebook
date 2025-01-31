@@ -1,6 +1,6 @@
 # Region: Indip
 
-![](images/maps/indip_map.png)
+![](../images/maps/indip_map.png)
 
 ## Quick facts
 {{#include ../stubs/indip_stub.md}}
@@ -31,7 +31,7 @@ Within Indip, the Imperial Provicinial Land Ministry divides Indip into three co
 
 ### 1. The Mulmarch (Mulloch-Izyal)
 
-![mulmarch](images/maps/mulmarch.png)
+![mulmarch](../images/maps/mulmarch.png)
 
 This region, originally known as Mulloch-Izyal, is the birthplace of the Old Indipian Empire and the ancestral home of the Chieftans and Fu-Leys of Mulloch-Izyal. Home to the Capital of Old Indip, Indïdip, known as Mullochi-Izyali before the founding of the _Ley-Indip-Ley_.
 
@@ -46,7 +46,7 @@ Some small salt mines exist around lake Mulhong, near Indïdip and Izÿ. Decent 
 
 ### 2. Drimmharbor District
 
-![image](./images/maps/drimmharbor_district.png)
+![image](../images/maps/drimmharbor_district.png)
 
 By far the most populous and economically important of modern Indip's sub-regions. The Drimmharbor District is also the site of the most ancient settlements in Indip, though its population remained small until the founding of Drimmharbor after Old Indip's takeover by Ashenstone. The Inbay, a small internal sea, contains The Deepwater, namesake of Indip. While very small in area, it contains some of the deepst waters in the Empire, and fishing rights are leased exclusively to restaurants and hobby fishers in the fabulously wealthy and exclusive town of Inpoint.
 
@@ -74,7 +74,7 @@ __Invëénland__, historically called Invëye, was a critical region to Old Indi
 
 As previously mentioned, __Great Invëye__ is no more, but its two historical ports of __Bayport__ and __Westport__, now themselves humble but active port-towns, offer glimpses of __Great Invëye__'s former splendor.
 
-![Invëénland](images/maps/inveenland.png)
+![Invëénland](../images/maps/inveenland.png)
 
 It's hard to overstate the threat that Old Indip felt from the Orcs of the Rock Hills. If Half-orcs were holy to the humans of Old Indip, Orcs were the very opposite, considered accursed. To be fair to the Old Indipians, The Orcs of the Rock Hills waged centuries of apparently unprovoked war against both the semi-nomadic Half-orcs and the Humans who considered them their sacred ward. To this effect, Old Indip constructed one of the great wonders of the pre-Kaldrinic world: __The Watergates__, four leviathan floating fortresses imbued with long forgotten magics. Combined with the large __Southfort__ and the __Great Trenches__ (Eastrench and Westrench), the very geography of South Invëénland was fortified against threats from the Rock Hills and beyond, whether by land or by sea.
 
@@ -90,7 +90,7 @@ The Empire collects taxes in Flaa and includes it in the Invëénland census, bu
 
 ### The Indip Expanse
 
-![indip expanse](images/maps/indip_expanse.png)
+![indip expanse](../images/maps/indip_expanse.png)
 
 Even today, most citizens of the Ashenstone Empire know little about the vast interior of Indip, despite its long inclusion under Imperial Dominion. The boundaries of the Expanse are not strictly definied, but it's safe to say that virtually all lands east of Lake Mulhong running south to the Rock Hills (and even as far West as __Flaa__ and the terminus of the __Eastrench__) can be included in its general area. It is said by the Elves that Forests of immense stature and unknowable age once stood in gorges carved by the headwaters of the Invëéndip and Chalice Rivers. From the __Palace of the Pointed Crown__, technically within the Indip Expanse, no such forests are visible from the expansive southern vistas, but rumors persist that some remnants may still be found.
 

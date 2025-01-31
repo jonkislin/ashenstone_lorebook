@@ -7,7 +7,7 @@
 
 <!-- end HTML -->
 
-<img src="images/landscapes/crag_ai_art.png" alt="View of Crag in 442 K.E." width="500"/>
+<img src="../images/landscapes/crag_ai_art.png" alt="View of Crag in 442 K.E." width="500"/>
 
 <br>
 <i> A view of Ashenstone </i>
