@@ -392,6 +392,8 @@ There are many abandoned dwarven cities throughout the lands. Some have been rec
 
 The temple city and surrounding ancient forests to the north of Korren.
 
+> _Former home of [Flim-Flam the Lost](../Campaign-2024/Journal-0-Companions.md).
+
 ### Jezier’Raïk
 
 The collection of minor temple cities covering the island of Jezier to the north of Taynuilt. Most of the city nodes are along the coast, with the exception of the grand moon temple at the center of the island.
