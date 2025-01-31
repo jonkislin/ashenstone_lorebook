@@ -45,6 +45,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
 5. [2025 - The Ashenstone Trail](./Campaign-2025/0.md): _Details of our 2025 Campaign, the Ashenstone Trail_
     - [Characters](./Campaign-2025/1-Characters.md)
     - [The Tablets of Torin](./Campaign-2025/2-TabletsOfTorin.md)
+    - [Session 0](./Campaign-2025/3-Session0.md)
 
 > _Copyright Adam Bailey, Jon Kislin, and August Beers, 2025. All rights reserved._  
 > _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._
