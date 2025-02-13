@@ -2,12 +2,18 @@
 
 _Major events of the world._
 
-## The Ancient Postdark Era
+## Pre-history 
+_Only what is told in legend or gleaned from Archaeology is known from this era._
+
+| Year  | Event | Picture |
+|------:|:------|:--------|
+| -12000? | The Ildarii Temple Cities are founded | |
+
+## The Ancient Post Dark Era
 _Very little is known about this era..._ . 
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| -12000? | The Ildarii Temple Cities are founded |
 | -6666? | The end of the War of Descension. The Dark Moon _Neara_ (also known to the Tayns as _Almak_ and the Elves as _Morë'dûar Ranatth_) collides with surface of planet | ![almak collides](../images/events/almak_collides.png)|
 | -3997? | End of the Long Dark | | 
 | -3965? | Settlement that becomes Taynuilt is founded on the new coast | |
@@ -77,8 +83,9 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | 441 | The Inheritance Crisis ends with the burning of the Lynnla Royal Castle at Balnoorial and the hiding of the King's Sister and her nephew and remaining heir the toddler prince though the Empire claims they are dead. Shaheila, Queen Consort, is believed dead. Monarchy of Lynnla is officially dissolved in Imperial administration and administrative capital of Lynnla is moved to Lynnmouth with new Imperial Provchu in charge |
 | 442 | Second Imperial temple is constructed in Lynnla as a first move to rapidly convert the people of Lynnla and instill Imperial culture in the land |
 | 443* | Riots break out in Laighfuar, second largest city of Taynuilt, after the assassination of Dirk, leader of the Coalition of Dwarven Artisans. Lord Ylysir Chakri, a high ranking military official of Ashenstone and Official Provchu of Lynnla, disappears under mysterious circumstances during the riots. Aberration sightings skyrocket throughout the Empire. Laighfuar is destroyed by an incipient horde of Graxil, shadowy Aberrations associated with the Dead Moon. The "Shadow Plague" begins.
-| 444 | The Empire's wars of expansion pause in light of the new Graxil threat. The Dwarves lose control of their deep vaults, devasting Dwarven economies Empire-wide.
-| by 450 | The Deepseekers of Jezier'Raïk, an order of the ageless and nearly-forgotten Ildarii Elves, end more than four millenia of total reclusion to face the Graxils head-on. 
-| by 473 | The Dwarves have been driven to the upper levels of their cities, and even to the surface in some places. Expeditions are sent in search of the source of the Graxils and the Shadow Plague, which has haunted the lands of the north now for nearly three decades.
+| 444 | The Empire's wars of expansion pause in light of the new Graxil threat. The Dwarves lose control of their deep vaults, devastating Dwarven economies Empire-wide.
+| by 450 | The Deepseekers of Jezier'Raïk, an order of the ageless and nearly-forgotten Ildarii Elves, end more than four millenia of total reclusion to face the Graxils head-on. With their re-emergence come rumors that more Ildarii may also re-emerge.
+| by 473** | The Dwarves have been driven to the upper levels of their cities, and even to the surface in some places. Expeditions are sent in search of the source of the Graxils and the Shadow Plague, which has haunted the lands of the North now for nearly three decades.
 
-_* Events during which Lightsong's Journal Takes Place_
+_* Events during which Lightsong's Journal Takes Place_  
+_** Events during which The Ashenstone Trail takes place_

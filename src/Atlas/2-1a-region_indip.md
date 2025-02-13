@@ -1,6 +1,6 @@
 # Region: Indip
 
-![](../images/maps/indip_map.png)
+![](../images/maps/indip_map_2025.png)
 
 ## Quick facts
 {{#include ../stubs/indip_stub.md}}
