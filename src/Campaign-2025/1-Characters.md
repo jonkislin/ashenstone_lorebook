@@ -11,15 +11,15 @@
 
 ### Bolete 
 
-She's a mushroom druid!
+She's a mushroom druid, on a quest, inexplicably, with Dr Indarhan Stone.
 
 | | |
 |-------------:|:--------------------|
 | Picture      | <img src="../images/characters/bolete.png" alt="Bolete" width="275"/> |
-| Race         | Human?              |
-| Class        | Druid?              |
+| Race         | Human (Thringenla)  |
+| Class        | Druid               |
 | Subclass     | ?                   |
-| Homeland     | ?                   |
+| Homeland     | Greenrock Mountains |
 | Age          | ?                   |
 | Controller   | Adam                |
 
@@ -60,6 +60,23 @@ His primary goal is to hunt as many Graxil as possible and locate splinters of A
 
 Fëlu is quite good at hunting both Graxils and people if necessary, but not particularly adept at socializing.
 
+
+### Dr. Indarhan Stone
+
+He's a professor, on a quest, inexplicably, with Bolete the Thringen Druid.
+
+| | |
+|-------------:|:--------------------|
+| Race         | Human               |
+| Class        | Rogue, Bard         |
+| Subclass     | ?                   |
+| Homeland     | ?                   |
+| Age          | 30 |
+| Controller   | Mike                |
+
+#### Character Backlore
+
+Dr. Stone's father was a professor of great renown. His mother unfortunately passed when he was a child.
 
 ### Torin Thunderridge
 
