@@ -93,10 +93,17 @@ To a member, those Ildarii who remain on the planet are gifted hunters of Aberra
 1. The **Deepseekers** of Jezier'Raïk, who hunt Graxils - aberrations associated with the Deadmoon, Almak-Neara. 
 2. The **Seershadows** of Kiv'la, who pursue nameless aberrations associated with the living Moon.
 
-**DnD 5e Information**:
+### On the lifespan of the Elves
+- Sylvan and Cosmopolitan Elves, as the same "species," live on average to 600 or 700 years. There are exceptional cases pushing well beyond that, though this happened far more frequently prior to the arrival of the Kaldrinic Dynasty.  
+- It is not known even by their own loremasters how old the Ildarii may become. It has been suggested they are unaging entirely after reaching adulthood (usually at around 100 or 200 solar years) and that they still appear youthful even after four or five millenia. What is said is that their lifespan is pegged to some force or world beyond ours, and the passage of time here has less an effect on their bodies than does the passage of time in some other more preserving realm to which all Ildarii are invariably linked.  
+- Half-elves (those children of non-Ildariin Elves and Humans) have wildly varying lifespans, but always falling within the realm of humans (65-105 years) and non-Ildariin Elves.  
+- Non-Ildariin and Ildariin Elf hybrids are considered rare if not mythical, but it is postulated that all Non-Ildariin Elves are the product of an ancient admixture between the Ildarii and as now extinct humanoid race. Elves with partial Ildarii ancestry are speculated to have unknown lifespans simultaneously subject to worldly and otherworldly forces.  
+- No records of Human or other Humanoid and Ildariin mixed progeny have been recorded, so a theoretical lifespan is only speculative.
 
-- The Ildarii are closest to 5e's [Eladrin](http://dnd5e.wikidot.com/lineage:eladrin). 
-- The Seershadows and the Deepseekers are [Horizon Walkers](http://dnd5e.wikidot.com/ranger:horizon-walker).
+**Homebrew Source Information**:
+
+- The Ildarii are closest to 5e's [Eladrin](http://dnd5e.wikidot.com/lineage:eladrin) or to (surprise surprise, eye roll if you will) Tolkien's Quendi. If they were to belong to a specific Tolkien lineage, it would be Telerin (Nandorin, even?) or Avarin, rather than Noldorin, and very probably not Vanyarin. 
+- The Seershadows and the Deepseekers are to a member [Horizon Walkers](http://dnd5e.wikidot.com/ranger:horizon-walker).
 
 ## Halflings
 
