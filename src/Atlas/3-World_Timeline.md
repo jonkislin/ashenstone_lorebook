@@ -7,7 +7,8 @@ _Only what is told in legend or gleaned from Archaeology is known from this era.
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| -12000? | The Ildarii Temple Cities are founded | |
+| ~ -14000 | The Ildarii, a humanoid species admitted to the Lesser Ulso, establish themselves within the Circles of the World after long wanderings. | |
+| ~ -12000 | The Ildarii Temple Cities are founded. The Four Orders are established by the Ilda High Council. | |
 
 ## The Ancient Post Dark Era
 _Very little is known about this era..._ . 
@@ -15,10 +16,9 @@ _Very little is known about this era..._ .
 | Year  | Event | Picture |
 |------:|:------|:--------|
 | -6666? | The end of the War of Descension. The Dark Moon _Neara_ (also known to the Tayns as _Almak_ and the Elves as _Morë'dûar Ranatth_) collides with surface of planet | ![almak collides](../images/events/almak_collides.png)|
-| -3997? | End of the Long Dark | | 
+| -3997? | End of the Long Dark. Terrestrial Ildarii society has by this point collapsed, and most mortal races believe them extinct or departed. In secret, the Seershadow and Deepseeker Orders retreat into and remain in their temple cities of Kiv'la and Jezier'Raïk respectively. | | 
 | -3965? | Settlement that becomes Taynuilt is founded on the new coast | |
-| -3700? | Fist of the Kyver (Dwarves) come out of hiding | |
-| -3000? | The Ildarii (known to humans as "The Visitors") are said to have gone extinct, or at least to have left the planet. | |
+| -3700? | First of the Kyver (Dwarves) come out of hiding. | |
 
 ## Classical Pre-Kaldrinic History
 _Please note: our scribes continue to research this era. Details may be added, updated, or changed._  
