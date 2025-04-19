@@ -67,6 +67,8 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | 205 | First Great war begins between Empire and a united coalition of remaining Taynish nations that had been threatened by Imperial domain but despite calls for a united confederacy as seen in the past they remain independent but allied nations, Sygassas does not properly joins war but supports through proxy "pirate fleets" that raid Imperial navy |
 | 208 | Under the leadership of Arch-mage Lyllia, province of Zhunola (NegLynnla) declares independence from Empire and joins the Taynish Kingdoms in war against the Empire |
 | 221 | Treaty of Five Crowns (the five subdued Tayn Kingdoms) is signed, spirit worship is banned and use of magic and is outlawed in Empire by all those not associated with the church, Taynuilt (combined with neighboring Donnuia) and Lynnla are absorbed into Empire with additional autonomy not granted to other provinces |
+| 276 | Northachor is founded by the Imperial Navy in northern Mulhong on the southern shores of the Korren Sea |
+| 290 | Ground is broken on the new city plan for Northanchor, the first of the Jikran Cities |
 | 300 |  |
 | 324 | Isle of Cardaenon is invaded and conquered by Imperial Forces. Starts the First War of Northern Thorns |
 | 327 | Defeat of Empire outside Highcliff, Treaty of Cold Winds is signed between Wulda and Empire, Conquered lands are returned to Wulda but Cardaenon is officially ceaded to Imperial control |
