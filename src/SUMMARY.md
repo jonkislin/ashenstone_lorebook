@@ -23,6 +23,8 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
     - [City: Laigfhuar](./Atlas/2-2b-city_Laigfhuar.md)
     - [City: Ashenstone](./Atlas/2-2c-city_Ashenstone.md)
     - [City: Balnoorial](./Atlas/2-2d-city_Balnoorial.md)
+    - [City: Lynnmouth](./Atlas/2-2e-city_Lynnmouth.md)
+    - [City: Northanchor](./Atlas/2-2f-city_Northanchor.md)
     - [People: Thorvir the Raven](./Atlas/2-3-1-Thorvir_the_Raven.md)
     - [People: Lord Tyrson Corrack](./Atlas/2-3-2-Lord_Corrack.md)
     - [People: Lady Louissa Corrack](./Atlas/2-3-3-Lady_Corrack.md)
