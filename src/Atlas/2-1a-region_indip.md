@@ -15,7 +15,7 @@ Indip is one of the oldest Imperial provinces, containing most of the former Old
 ### Overview
 Within Indip, the Imperial Provicinial Land Ministry divides Indip into three coastal "districts" as well as the unorganized "Indip Expanse":
 
-1. __The Mulmarch__. (Historically _Izyal_, or _Mulloch-Izyal_) The Mulmarch is an Agricultural region north of Drimmharbor, extending up to the border of Mulhong. The original homeland of the nomadic Human chieftans who eventually coalesced and formed __Mulloch-Izyal__ and later the Old Indip Empire - the (__Ley-Indip-Ley__).
+1. __The Mulmarch__. (Historically _Izyal_, or _Mulloch-Izyal_) The Mulmarch is an Agricultural region north of Drimmharbor, extending up to the border of Mulhong. The original homeland of the nomadic Human chieftans who eventually coalesced and formed __Mulloch-Izyal__ and later the Old Indip Empire - the (__Ley-Indip-Ley__). Not to be confused with Mulmarch in Mulhong, which borders The Mulmarch to the north.
 
     - _Indïdip_ ("Over-Indip"), the historic capital of the Old Indipian Empire, is located here, on the south shore of Lake Mulhong (also and formerly known as Lake Mulloch). Briefly the population center of the region after the formation of the Old Indip Empire, it was soon eclipsed by Great Invëye in Indip's south. 
 

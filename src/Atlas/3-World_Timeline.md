@@ -34,6 +34,7 @@ _Please note: our scribes continue to research this era. Details may be added, u
 | -332 | The second Taynish Confederacy forms to defend against the Indipian Regime of Tan La Fon V | |
 | -326 | The Indip Regime divides between north and south due to internal power struggles, the Taynish Confederacy successfully defeat the Indipians, essentially ending the war | |
 | -324 | With the collapse of the Indipian power structure, the Second Taynish Confederacy disbands according to the initial treaty. | |
+| -206 | Czerk Hritte Lan I leads a successful rebellion of the Mul against the North Indip Empire, liberating the lands north of the Mul River and leading to the establishment of the Second Kingdom of Mul.
 | -205 | Great unchecked fires burn-out the Hall of the Chieftans and much of Indïdip. The North Indip Empire falls unceremoniously. | 
 | -204 | Founding of Izÿ on Lake Mulhong by refugees from Indïdip. | |
 |   -4 | The dual catastrophy of the eruption of Mount Iljo and the breaking of the Gods' Dam lead to the migration of Emperor Jontosin and his people north by ship to find new lands. The Denisians, also impacted by the catastrophy, begin to migrate north too. | |
@@ -67,17 +68,24 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | 205 | First Great war begins between Empire and a united coalition of remaining Taynish nations that had been threatened by Imperial domain but despite calls for a united confederacy as seen in the past they remain independent but allied nations, Sygassas does not properly joins war but supports through proxy "pirate fleets" that raid Imperial navy |
 | 208 | Under the leadership of Arch-mage Lyllia, province of Zhunola (NegLynnla) declares independence from Empire and joins the Taynish Kingdoms in war against the Empire |
 | 221 | Treaty of Five Crowns (the five subdued Tayn Kingdoms) is signed, spirit worship is banned and use of magic and is outlawed in Empire by all those not associated with the church, Taynuilt (combined with neighboring Donnuia) and Lynnla are absorbed into Empire with additional autonomy not granted to other provinces |
-| 276 | Northachor is founded by the Imperial Navy in northern Mulhong on the southern shores of the Korren Sea |
+| 276 | Northanchor is founded by the Imperial Navy in northern Mulhong on the southern shores of the Korren Sea |
 | 290 | Ground is broken on the new city plan for Northanchor, the first of the Jikran Cities |
 | 300 |  |
+| 302 | The widowed Empress Riyati marries the younger brother of the King of Korren, Niadin. 
+| 305 | The King of Korren dies under mysterious circumstances. His disliked son assumes the throne, much to the ire of many Korren nobles.|
+| 308 | Korren Civil War occurs, with half the nobles supporting Imperial Consort Niadin as the rightful heir to the Korren throne and the other half maintaining allegience to the king, despite claims that he is an illegitimate son of the dead king.|
+| 310 | Imperial forces under the banner of Imperial Consort Niadin cross into Korren to assert his claim to the throne. However the show of force backfires, and many of the nobles previously supporting Niadin turn against him for fear of Imperial power. |
+| 311 | The Korren Civil War ends after a final year of immense bloodshed. The Kaldrinic Empire gains claim to the southern portion of Korren while the Korren King remains. | 
 | 324 | Isle of Cardaenon is invaded and conquered by Imperial Forces. Starts the First War of Northern Thorns |
 | 327 | Defeat of Empire outside Highcliff, Treaty of Cold Winds is signed between Wulda and Empire, Conquered lands are returned to Wulda but Cardaenon is officially ceaded to Imperial control |
+| 355 | Second Korren Civil War begins upon the death of the King |
+| 357 | Second Korren Civil War ends with the newly crowned King agreeing to partial Imperial jurisdiction over the Kingdom, similar to Lynnla or Taynuilt. |
 | 373 | Newly appointed High King of Wulda leads army into Cardaenon (I-Kartonon) to retake old Wuldan land, Start of Second War of Northern Thorns |
 | 375 | Wulda manages to retake entirety of Cardaenon, start of unofficial peace between Empire and Wulda |
 | 381 | After bribing and rigging local lords the Empire launches surprise invasion of Cardaenon with support of local warriors |
 | 381.8 | Wuldans are pushed back to the marshes, bridges and roads through marshes are destroyed to prevent Imperial use |
 | 382 | Wuldans launch naval invasion of Northern Imperial Mainland, Imperial forces on Cardaenon are severed from supplies and reinforcements, fighting persists through Cardaenon |
-| 383 | Especially hard winter leads to Imperial forces in Cardaenon surrendering. Emperor Hui III dies during a hunting incident. Hui's brother, Tark, who has been the lead commander for the Cardaenon campaign until being reassigned by his brother the previous summer assumes the throne in in the late spring, pushing out supporters of Hui's infant son. Emperor Tark personally leads a concentrated push to retake Cardaenon and retakes all major ports in a short time period. Both sides lose momentum before the Empire can push into Wuldan mainlands, but attrition on both sides leads to a mutual truce. Thee Treaty of Southern Winds is signed which officially ends the Second War of Northern Thorns with Cardaenon officially restored as an Imperial province and many local Wuldan lords executed or exiled. |
+| 383 | Especially hard winter leads to Imperial forces in Cardaenon surrendering. Emperor Hui III dies during a hunting incident. Hui's brother, Tark, who has been the lead commander for the Cardaenon campaign until being reassigned by his brother the previous summer assumes the throne in in the late spring, pushing out supporters of Hui's infant son. Emperor Tark personally leads a concentrated push to retake Cardaenon and retakes all major ports in a short time period. Both sides lose momentum before the Empire can push into Wuldan mainlands, but attrition on both sides leads to a mutual truce. The Treaty of Southern Winds is signed which officially ends the Second War of Northern Thorns with Cardaenon officially restored as an Imperial province and many local Wuldan lords executed or exiled. |
 | 400 |  |
 | 402 | The Great Blood Plague spreads through the Empire. Due to the heroism of Half-orcs from Drez'dip in providing succor for the ill of Drimmharbor, the four-century-long Half-orc fishing ban is lifted near Drimmharbor (excluding the _Deepwater_, which is of particular cultural importance to the Half-orcs), and reform bills are passed in the Drimm Conference to return some rights to the Half-orcs. |
 | 435 | The King of Lynnla marries Shaheila |
