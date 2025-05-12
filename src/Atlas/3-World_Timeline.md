@@ -15,7 +15,7 @@ _Little is known about this era..._.
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| -6500? | In secret, the Third and Fourth Ildarii orders retreat underground beneath their Northern temple cities of _Kiv'la'darth_ and _Il'Jezier'Raïkth_ respectively. Foreseeing an apocalypse, they cut off contact with the other Ildaarii orders as well as their shorter-lived cousins, the Elves. | |
+| -6500? | In secret, the Third and Fourth Ildarii orders retreat underground beneath their Northern temple cities of _Kiv'la'darth_ and _Il'Jezier'Raïkth_ respectively. Foreseeing an apocalypse, they cut off contact with the other Ildaarii orders as well as their shorter-lived cousins, the Elves. Fascinatingly, some Dwarven archaologists have artifacts they claim prove the Kyver (Dwarves) were present at this event. | |
 | -6666? | The end of the War of Descension. The Dark Moon _Neara_ (later known to the Tayns as _Almak_ and to the Elves as _Morë'dûar_) collides with surface of planet. | ![almak collides](../images/events/almak_collides.png). Dark magic energy floods every corner of the globe, oceans roil and continents shift, and the world goes dark for more than 2500 years.|
 | -4000? | End of the Long Dark. Terrestrial Ildarii society has by this point collapsed and their memory has faded to myth and religious theogeny. The first Two Ildarii orders, lost to time, are either destroyed or fled the planet by this point. Their homes *Loralk'Sirae* and *Ailra'nazaar* were abandoned to The Elves. | | 
 | -3965? | Settlement that becomes Taynuilt is founded on the new coast. | |
