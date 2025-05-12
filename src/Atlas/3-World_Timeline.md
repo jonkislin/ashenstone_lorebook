@@ -7,17 +7,18 @@ _Only what is told in legend or gleaned from Archaeology is known from this era.
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| ~ -14000 | The Ildarii, a humanoid species admitted to the Lesser Ulso, establish themselves within the Circles of the World after long wanderings. | |
-| ~ -12000 | The Ildarii Temple Cities are founded. The Four Orders are established by the Ilda High Council. | |
+| ~ -14000 | The Ildarii, a humanoid species admitted to the ranks of the Lesser Ulso, establish themselves within the Circles of the World after long wanderings. The Greater Ulso take on the name *Aldarii*, the phoneme "ɒ" considered higher than the "ɪ" in Ildarii. | |
+| ~ -12000 | The Ildarii Temple Cities are founded on the planet's surface. The Four Orders are established by the Ilda High Council. | |
 
-## The Ancient Post Dark Era
-_Very little is known about this era..._ . 
+## The Eon of the Longdark
+_Little is known about this era..._. 
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| -6666? | The end of the War of Descension. The Dark Moon _Neara_ (also known to the Tayns as _Almak_ and the Elves as _Morë'dûar Ranatth_) collides with surface of planet | ![almak collides](../images/events/almak_collides.png)|
-| -3997? | End of the Long Dark. Terrestrial Ildarii society has by this point collapsed, and most mortal races believe them extinct or departed. In secret, the Seershadow and Deepseeker Orders retreat into and remain in their temple cities of Kiv'la and Jezier'Raïk respectively. | | 
-| -3965? | Settlement that becomes Taynuilt is founded on the new coast | |
+| -6500? | In secret, the Third and Fourth Ildarii orders retreat underground beneath their Northern temple cities of _Kiv'la'darth_ and _Il'Jezier'Raïkth_ respectively. Foreseeing an apocalypse, they cut off contact with the other Ildaarii orders as well as their shorter-lived cousins, the Elves. | |
+| -6666? | The end of the War of Descension. The Dark Moon _Neara_ (later known to the Tayns as _Almak_ and to the Elves as _Morë'dûar_) collides with surface of planet. | ![almak collides](../images/events/almak_collides.png). Dark magic energy floods every corner of the globe, oceans roil and continents shift, and the world goes dark for more than 2500 years.|
+| -4000? | End of the Long Dark. Terrestrial Ildarii society has by this point collapsed and their memory has faded to myth and religious theogeny. The first Two Ildarii orders, lost to time, are either destroyed or fled the planet by this point. Their homes *Loralk'Sirae* and *Ailra'nazaar* were abandoned to The Elves. | | 
+| -3965? | Settlement that becomes Taynuilt is founded on the new coast. | |
 | -3700? | First of the Kyver (Dwarves) come out of hiding. | |
 
 ## Classical Pre-Kaldrinic History
@@ -25,17 +26,19 @@ _Please note: our scribes continue to research this era. Details may be added, u
 
 | Year  | Event | Picture  |
 |------:|:------|:---------|
-| -982 | The High Orcish Necromancer-kings L'ratomi and Z'ratomi begin The Inquistion of the Horns, triggering the great Northward migration of the Unhorned along the Western rim of the Gold Desert | |
-| -904 | Trag Çom Anatala I declares the Ley-Indip-Ley or Indipian Empire, upon the death of her father, the Fu-Ley of Mulloch-Izyal. Anatala adopts the title Fu-Indip-Ley ("First Servant of Indip's land"), which becomes the title for all Indipian Emperors and Empresses until the collapse of the Empire. | ![anatala](../images/people/anatala.png) | 
-| -834 | The City of Invëye is founded on the southern coast of Indip. It quickly grows to be the largest in Indip and the known world, becoming known as Great Invëye.| | 
-| -700 | The Indipian Empire constructs The Watergates to defend against the Third Orcish Deadfleet | ![alt text](../images/landscapes/watergates.png) |
-| -581 | With the support of many other nations the King of Taynuilt forms and heads the first Taynish Confederacy in light of enemy provocations to the east | |
-| -338 | The Incrillans are forced from their homeland and begin settling on Ekryp | | 
-| -332 | The second Taynish Confederacy forms to defend against the Indipian Regime of Tan La Fon V | |
-| -326 | The Indip Regime divides between north and south due to internal power struggles, the Taynish Confederacy successfully defeat the Indipians, essentially ending the war | |
-| -324 | With the collapse of the Indipian power structure, the Second Taynish Confederacy disbands according to the initial treaty. | |
-| -206 | Czerk Hritte Lan I leads a successful rebellion of the Mul against the North Indip Empire, liberating the lands north of the Mul River and leading to the establishment of the Second Kingdom of Mul.
-| -205 | Great unchecked fires burn-out the Hall of the Chieftans and much of Indïdip. The North Indip Empire falls unceremoniously. | 
+| -982 | The High Orcish Necromancer-kings L'ratomi and Z'ratomi begin The Inquistion of the Horns, , triggering the great Northward migration of the Unhorned along the Western rim of the Gold Desert. It is said that a great and terrible artifact enabled their sudden surge, but no such artifact was ever found.  | |
+| -904 | *Trag Çom Anatala I* declares the Ley-Indip-Ley or Indipian Empire, upon the death of her father, the Fu-Ley of Mulloch-Izyal. Anatala adopts the title Fu-Indip-Ley ("First Servant of Indip's land"), which becomes the title for all Indipian Emperors and Empresses until the collapse of the Empire. | ![anatala](../images/people/anatala.png) | 
+| -834 | The City of Invëye is founded on the southern coast of Indip. It quickly grows to be the largest in Indip and the known world, becoming known as Great Invëye. | | 
+| -800 | The Indipian Empire constructs The Watergates - great mobile naval weapons - to defend against the Third Orcish Deadfleet | ![alt text](../images/landscapes/watergates.png) | |
+| -797 | Anatala I's great-granddaughter *Trag Çom Alayana II* leads the host that finally defeats the Necromancer Kings, obliterating the Third Orcish Deadfleet with the full power of the Watergates. The Watergates lose significant arcane power after this event. | |
+| -700s| After the long-sought demise of the Orcish Necromancer Kings, the Orcs revert to a more primitive society and the Indipian Empire becomes the foremost power in the Northern Lands. The Indipian navy begins projecting Power across the Jewel Sea, backed by the Watergates. | |
+| -581 | With the support of many other nations the King of Taynuilt forms and heads the first Taynish Confederacy in light of enemy provocations to the East. | |
+| -338 | The Incrillans are forced from their homeland and begin settling on Ekryp. | | 
+| -332 | The second Taynish Confederacy forms to defend against the regime of *Tan La Fon V*, the last Fu-Ley of Unified Indip. | |
+| -326 | After *Tan La Fon V*'s navy is defeated, the Indip Empire divides between North and South, no longer able to hold together in the face of building internal power struggles. The ensuing chaos effectively ends the war between Indip and the Second Taynish Confederacy. | |
+| -324 | With the collapse of the Unified Indipian power structure, the Second Taynish Confederacy disbands according to the initial treaty. | |
+| -206 | Czerk Hritte Lan I leads a successful rebellion of the Mul against the North Indip Empire, liberating the lands north of the Mul River and leading to the establishment of the Second Kingdom of Mul. | |
+| -205 | Great unchecked fires burn-out the Hall of the Chieftans and much of Indïdip, the capital of North Indip. The North Indip Empire falls unceremoniously. Mysteriously, this event coincides with the final Darkening of the Watergates hundreds of miles south in Great Invëye, leaving South Indip without its historical naval trump-card. | |
 | -204 | Founding of Izÿ on Lake Mulhong by refugees from Indïdip. | |
 |   -4 | The dual catastrophy of the eruption of Mount Iljo and the breaking of the Gods' Dam lead to the migration of Emperor Jontosin and his people north by ship to find new lands. The Denisians, also impacted by the catastrophy, begin to migrate north too. | |
 |   -3 | Emperor Jontosin's fleet is attacked by Orcs from the Rock Hills. Emperor Jontosin's flagship suffers damage, and his youngest daughter, Kalina, is killed. | | 
@@ -44,6 +47,8 @@ _Please note: our scribes continue to research this era. Details may be added, u
 ## The Kaldrinic Dynasty
 
 _Note: Record keeping vastly improved after the establishment of the Kaldrinic Dynasty of Ashenstone_.  
+
+### The Founding of Ashenstone Era
 
 | Year    | Event   |
 |--------:|:--------|
@@ -57,6 +62,11 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | 52 | Proto-Sygassan states begin infighting as territories expand |
 | 65 | Ostella rises to leader of populist movement to unite Sygassas |
 | 67 | Sygassas is officially united into one political body, Ostella is elected first Regeant of Sygassas |
+
+### The Great Expansion Era
+
+| Year    | Event   |
+|--------:|:--------|
 | 100 |  |
 | 135 | Expanding Empire reaches outer territories under Sygassas influence |
 | 138 | Sygassas and Empire begin Sygassan Wars as territory tensions grow |
@@ -65,17 +75,22 @@ _Note: Record keeping vastly improved after the establishment of the Kaldrinic D
 | 148 | Taynuilt formally unites with Lynnla through marriage, Empire declares war on Gritia the eastern most Taynish nation and invades eastern counties in order to expand north to sea |
 | 156 | Under the command of General Durasian the Cruel, undefended Sarreff is attacked and burned to the ground. The child heirs to Gritia are murdered, leading to the suicide of the Last King of Gritia. The surviving lords of Gritia either flee to Taynish lands or sign a treaty dissolving the kingdom under Imperial Rule. |
 | 200 |  |
-| 205 | First Great war begins between Empire and a united coalition of remaining Taynish nations that had been threatened by Imperial domain but despite calls for a united confederacy as seen in the past they remain independent but allied nations, Sygassas does not properly joins war but supports through proxy "pirate fleets" that raid Imperial navy |
+| 205 | First Great war begins between Empire and a united coalition of remaining Taynish nations that had been threatened by Imperial domain. Despite calls for a united confederacy, as seen in the past, they remain independent but allied nations. Sygassas does not properly join the war, but instead supports through proxy "pirate fleets" that raid Imperial Navy ships and supply outposts. |
 | 208 | Under the leadership of Arch-mage Lyllia, province of Zhunola (NegLynnla) declares independence from Empire and joins the Taynish Kingdoms in war against the Empire |
 | 221 | Treaty of Five Crowns (the five subdued Tayn Kingdoms) is signed, spirit worship is banned and use of magic and is outlawed in Empire by all those not associated with the church, Taynuilt (combined with neighboring Donnuia) and Lynnla are absorbed into Empire with additional autonomy not granted to other provinces |
 | 276 | Northanchor is founded by the Imperial Navy in northern Mulhong on the southern shores of the Korren Sea |
 | 290 | Ground is broken on the new city plan for Northanchor, the first of the Jikran Cities |
+
+### The Modern Era
+
+| Year    | Event   |
+|--------:|:--------|
 | 300 |  |
-| 302 | The widowed Empress Riyati marries the younger brother of the King of Korren, Niadin. 
+| 302 | The widowed Empress Riyati marries the younger brother of the King of Korren, Niadin.
 | 305 | The King of Korren dies under mysterious circumstances. His disliked son assumes the throne, much to the ire of many Korren nobles.|
 | 308 | Korren Civil War occurs, with half the nobles supporting Imperial Consort Niadin as the rightful heir to the Korren throne and the other half maintaining allegience to the king, despite claims that he is an illegitimate son of the dead king.|
 | 310 | Imperial forces under the banner of Imperial Consort Niadin cross into Korren to assert his claim to the throne. However the show of force backfires, and many of the nobles previously supporting Niadin turn against him for fear of Imperial power. |
-| 311 | The Korren Civil War ends after a final year of immense bloodshed. The Kaldrinic Empire gains claim to the southern portion of Korren while the Korren King remains. | 
+| 311 | The Korren Civil War ends after a final year of immense bloodshed. The Kaldrinic Empire gains claim to the southern portion of Korren while the Korren King remains. |
 | 324 | Isle of Cardaenon is invaded and conquered by Imperial Forces. Starts the First War of Northern Thorns |
 | 327 | Defeat of Empire outside Highcliff, Treaty of Cold Winds is signed between Wulda and Empire, Conquered lands are returned to Wulda but Cardaenon is officially ceaded to Imperial control |
 | 355 | Second Korren Civil War begins upon the death of the King |
