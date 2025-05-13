@@ -50,6 +50,7 @@ Welcome to the Ashenstone Lorebook, an `mdbook` site that outlines the D&D Homeb
     - [The Tablets of Torin](./Campaign-2025/2-TabletsOfTorin.md)
     - [Session 0](./Campaign-2025/3-Session0.md)
     - [Session 1](./Campaign-2025/4-Session1.md)
+    - [Session 2](./Campaign-2025/5-Session2.md)
 
 > _Copyright Adam Bailey, Jon Kislin, and August Beers, 2025. All rights reserved._  
 > _You may not adapt, share, distribute, monetize, or modify any content herein without express written permission of the authors._
