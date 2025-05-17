@@ -16,7 +16,7 @@ _Little is known about this era..._.
 | Year  | Event | Picture |
 |------:|:------|:--------|
 | -6500? | In secret, the Third and Fourth Ildarii orders retreat underground beneath their Northern temple cities of _Kiv'la'darth_ and _Il'Jezier'Raïkth_ respectively. Foreseeing an apocalypse, they cut off contact with the other Ildaarii orders as well as their shorter-lived cousins, the Elves. Fascinatingly, some Dwarven archaologists have artifacts they claim prove the Kyver (Dwarves) were present at this event. | |
-| -6666? | The end of the War of Descension. The Dark Moon _Neara_ (later known to the Tayns as _Almak_ and to the Elves as _Morë'dûar_) collides with surface of planet. | ![almak collides](../images/events/almak_collides.png). Dark magic energy floods every corner of the globe, oceans roil and continents shift, and the world goes dark for more than 2500 years.|
+| -6666? | The end of the War of Descension. The Dark Moon _Neara_ (later known to the Tayns as _Almak_ and to the Elves as _Morë'dûar_) collides with surface of planet. | ![almak collides](images/events/almak_collides.png). Dark magic energy floods every corner of the globe, oceans roil and continents shift, and the world goes dark for more than 2500 years.|
 | -4000? | End of the Long Dark. Terrestrial Ildarii society has by this point collapsed and their memory has faded to myth and religious theogeny. The first Two Ildarii orders, lost to time, are either destroyed or fled the planet by this point. Their homes *Loralk'Sirae* and *Ailra'nazaar* were abandoned to The Elves. | | 
 | -3965? | Settlement that becomes Taynuilt is founded on the new coast. | |
 | -3700? | First of the Kyver (Dwarves) come out of hiding. | |
@@ -27,9 +27,9 @@ _Please note: our scribes continue to research this era. Details may be added, u
 | Year  | Event | Picture  |
 |------:|:------|:---------|
 | -982 | The High Orcish Necromancer-kings L'ratomi and Z'ratomi begin The Inquistion of the Horns, , triggering the great Northward migration of the Unhorned along the Western rim of the Gold Desert. It is said that a great and terrible artifact enabled their sudden surge, but no such artifact was ever found.  | |
-| -904 | *Trag Çom Anatala I* declares the Ley-Indip-Ley or Indipian Empire, upon the death of her father, the Fu-Ley of Mulloch-Izyal. Anatala adopts the title Fu-Indip-Ley ("First Servant of Indip's land"), which becomes the title for all Indipian Emperors and Empresses until the collapse of the Empire. | ![anatala](../images/people/anatala.png) | 
+| -904 | *Trag Çom Anatala I* declares the Ley-Indip-Ley or Indipian Empire, upon the death of her father, the Fu-Ley of Mulloch-Izyal. Anatala adopts the title Fu-Indip-Ley ("First Servant of Indip's land"), which becomes the title for all Indipian Emperors and Empresses until the collapse of the Empire. | ![anatala](images/people/anatala.png) | 
 | -834 | The City of Invëye is founded on the southern coast of Indip. It quickly grows to be the largest in Indip and the known world, becoming known as Great Invëye. | | 
-| -800 | The Indipian Empire constructs The Watergates - great mobile naval weapons - to defend against the Third Orcish Deadfleet | ![alt text](../images/landscapes/watergates.png) | |
+| -800 | The Indipian Empire constructs The Watergates - great mobile naval weapons - to defend against the Third Orcish Deadfleet | ![alt text](images/landscapes/watergates.png) | |
 | -797 | Anatala I's great-granddaughter *Trag Çom Alayana II* leads the host that finally defeats the Necromancer Kings, obliterating the Third Orcish Deadfleet with the full power of the Watergates. The Watergates lose significant arcane power after this event. | |
 | -700s| After the long-sought demise of the Orcish Necromancer Kings, the Orcs revert to a more primitive society and the Indipian Empire becomes the foremost power in the Northern Lands. The Indipian navy begins projecting Power across the Jewel Sea, backed by the Watergates. | |
 | -581 | With the support of many other nations the King of Taynuilt forms and heads the first Taynish Confederacy in light of enemy provocations to the East. | |

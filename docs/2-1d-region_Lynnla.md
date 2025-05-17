@@ -5,10 +5,10 @@
 {{#include ../stubs/lynnla_stub.md}}
 
 ## Regions and Cities of Note
-- [Greenrock Mountains](./Atlas/2-1d-1-subregion_greenrock.md)
+- [Greenrock Mountains](2-1d-1-subregion_greenrock.md)
 - City of Mines
-- [Balnoorial](./Atlas/2-2d-city_Balnoorial.md)
-- [Lynnmouth](./Atlas/2-2e-city_Lynnmouth.md)
+- [Balnoorial](2-2d-city_Balnoorial.md)
+- [Lynnmouth](2-2e-city_Lynnmouth.md)
 - Bleak Coast
 - Lynn Valley
 - Fieldhaven
@@ -34,10 +34,10 @@ The largest river in the region was the River Lynn, which flowed south from the 
 
 Numerous groups of people called Lynnla and its environs home.
 
-- [Tayns](./Atlas/1-1a-culture_Tayn.md) (Lynnish, Gritian)
-- [Thringen](./Atlas/1-1d-culture_Thringen.md)
+- [Tayns](1-1a-culture_Tayn.md) (Lynnish, Gritian)
+- [Thringen](1-1d-culture_Thringen.md)
 - Halflings
-- [Kyver](./Atlas/1-1b-culture_Dwarven.md)
+- [Kyver](1-1b-culture_Dwarven.md)
 - Bleakers
 
 

@@ -1,7 +1,7 @@
 # The Tablets of Torin
 > _Prelude to the Ashenstone Trail_
 
-![alt text](../images/events/almak-neara_splinter.png)
+![alt text](images/events/almak-neara_splinter.png)
 
 What a strange night, the night we fought Chakri. I knew taking on that monster would be no small feat, but I never expected taking him down would have consequences that would last these past three dozen years. After the battle in the cave we lost Flim Flam in that plaza of shimmering lights, I wonder to this day where he might be. Confused and bewildered we found ourselves on a hilltop that overlooked Lauge Fuir. Yet, as we looked out from that hill across the city, it was clear that something was wrong. We looked upon a city in flames in multiple places, an eerie sight to behold, more damage than a simple riot would cause. It was then my ancestors' axe whispered in my ear once more before going silent for so many years.
 
@@ -15,7 +15,7 @@ Suddenly a formation of Copper Keep Armed guard swept down the road. Behind the 
 
 At this point there was no choice but to split the party. I said my goodbyes to Budica, Lightsong, and Hazar and quickly traveled back to my home, the city of stone. We were able to fend off the dark spirits, known to my kind as the Graxil and stabilize the city. The fighting with these dark creatures became an unending struggle which claimed the lives of many dwarfs along the way.
 
-![alt text](../images/bestiary/graxils.png)
+![alt text](images/bestiary/graxils.png)
 
 For so many years the struggle against the Graxel has gone on this way. Across the land, small towns are overrun and abandoned, large cities have stabilized with much bloodshed, but were forced to pull back within their fortified districts. The empire itself lives on, but was forced to abandon its further outposts and return its forces home to help defend its major cities. A darkness has spread across the land, our Dwarven scholars have deemed the dark days with a title, the time of “the shadow plague”.
 

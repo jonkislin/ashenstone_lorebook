@@ -7,7 +7,7 @@
 
 ## Regions of Note
 
-- [Ashenstone](./Atlas/2-2c-city_Ashenstone.md)
+- [Ashenstone](2-2c-city_Ashenstone.md)
 - Chanrithi Republic
 - Henthruin
 

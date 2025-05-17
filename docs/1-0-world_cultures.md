@@ -1,4 +1,4 @@
-# Cultures of the World
+# Overview of World Cultures
 
 ## Main Human Cultures  
 

@@ -15,7 +15,7 @@ She's a mushroom druid, on a quest, inexplicably, with Dr Indarhan Stone.
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="../images/characters/bolete.png" alt="Bolete" width="275"/> |
+| Picture      | <img src="images/characters/bolete.png" alt="Bolete" width="275"/> |
 | Race         | Human (Thringenla)  |
 | Class        | Druid               |
 | Subclass     | ?                   |
@@ -28,7 +28,7 @@ She's a mushroom druid, on a quest, inexplicably, with Dr Indarhan Stone.
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="../images/characters/boudicca.png" alt="Boudicca" width="275"/> |
+| Picture      | <img src="images/characters/boudicca.png" alt="Boudicca" width="275"/> |
 | Race         | Dwarf               |
 | Class        | Fighter             |
 | Subclass     | Eldritch Knight     |
@@ -42,7 +42,7 @@ She's a mushroom druid, on a quest, inexplicably, with Dr Indarhan Stone.
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="../images/characters/felu.png" alt="Felu" width="275"/> |
+| Picture      | <img src="images/characters/felu.png" alt="Felu" width="275"/> |
 | Race         | Elf (Ildarii)            |
 | Class        | Ranger                   |
 | Subclass     | Horizon Walker           |
@@ -82,7 +82,7 @@ Dr. Stone's father was a professor of great renown. His mother unfortunately pas
 
 | | |
 |-------------:|:------------------------|
-| Picture      | <img src="../images/characters/torin.png" alt="Torin Thunderridge" width="275"/> |
+| Picture      | <img src="images/characters/torin.png" alt="Torin Thunderridge" width="275"/> |
 | Race         | Dwarf                   |
 | Class        | Barbarian               |
 | Subclass     | Totem Warrior           |

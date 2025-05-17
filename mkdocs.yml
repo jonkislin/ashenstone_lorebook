@@ -1,34 +1,35 @@
 site_name: My Docs
 nav: 
   - intro:
-    - SUMMARY.md
-    - contribution_instructions.md
     - index.md
+    - contribution_instructions.md
   - World Atlas:
-    - 1-0-world_cultures.md
-    - 1-1a-culture_Tayn.md
-    - 1-1b-culture_Dwarven.md
-    - 1-1c-culture_Wuldan.md
-    - 1-1d-culture_Thringen.md
-    - 1-1e-culture_Kaldrinic.md
-    - 1-2-nation_Mul.md
-    - 1-Characters.md
-    - 2-0-world_regions.md
-    - 2-1a-region_indip.md
-    - 2-1b-region_mulhong.md
-    - 2-1c-region_JewelSea.md
-    - 2-1d-1-subregion_greenrock.md
-    - 2-1d-region_Lynnla.md
-    - 2-2a-city_crag.md
-    - 2-2b-city_Laigfhuar.md
-    - 2-2c-city_Ashenstone.md
-    - 2-2d-city_Balnoorial.md
-    - 2-2e-city_Lynnmouth.md
-    - 2-2f-city_Northanchor.md
-    - 2-3-1-Thorvir_the_Raven.md
-    - 2-3-2-Lord_Corrack.md
-    - 2-3-3-Lady_Corrack.md
-    - 2-3-4-Queen_Shaheila.md
+    - Cultures of the World:
+      - 1-0-world_cultures.md
+      - 1-1a-culture_Tayn.md
+      - 1-1b-culture_Dwarven.md
+      - 1-1c-culture_Wuldan.md
+      - 1-1d-culture_Thringen.md
+      - 1-1e-culture_Kaldrinic.md
+      - 1-2-nation_Mul.md
+    - Regions of the World:
+      - 2-0-world_regions.md
+      - 2-1a-region_indip.md
+      - 2-1b-region_mulhong.md
+      - 2-1c-region_JewelSea.md
+      - 2-1d-1-subregion_greenrock.md
+      - 2-1d-region_Lynnla.md
+      - 2-2a-city_crag.md
+      - 2-2b-city_Laigfhuar.md
+      - 2-2c-city_Ashenstone.md
+      - 2-2d-city_Balnoorial.md
+      - 2-2e-city_Lynnmouth.md
+      - 2-2f-city_Northanchor.md
+    - Notable NPCs:
+      - 2-3-1-Thorvir_the_Raven.md
+      - 2-3-2-Lord_Corrack.md
+      - 2-3-3-Lady_Corrack.md
+      - 2-3-4-Queen_Shaheila.md
   - Campaign 2024:
     - Journal-0-0.md
     - Journal-0-Companions.md
@@ -44,9 +45,72 @@ nav:
     - Journal-2.5.md
     - Journal-99-Lightsong-Lore.md
   - Campaign 2025:
+    - 0.md
+    - 1-Characters.md
     - 2-TabletsOfTorin.md
     - 3-Session0.md
     - 3-World_Timeline.md
     - 4-Session1.md
     - 5-Session2.md
 
+# advanced configuration ------------------------------------------------------
+
+theme:
+  name: "material"
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # dark/light mode toggle
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            extra:
+              show_root_heading: true
+              show_full_root_path: true
+  - search
+  - offline
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - mdx_truly_sane_lists
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: math
+          class: arithmatex
+          format:
+            !!python/object/apply:pymdownx.arithmatex.arithmatex_fenced_format {
+              kwds: { mode: generic, tag: div },
+            }
+
+extra_javascript:
+  - javascript/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css

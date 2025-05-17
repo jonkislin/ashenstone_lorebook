@@ -3,7 +3,7 @@
 ## General Description
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="../images/people/Thorvir.jpg" alt="Lightsong the Haunted" width="275"/> |
+| Picture      | <img src="images/people/Thorvir.jpg" alt="Lightsong the Haunted" width="275"/> |
 | Race         | Human (Wuldan)        |
 | Profession   | Merchant, Councilman  |
 | Home         | Crag                  |
