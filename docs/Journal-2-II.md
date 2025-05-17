@@ -1,4 +1,4 @@
-# Lightsong's Journal - Chapter 2-II
+# Laighfuar II
 
 > _Continued from [Lightsong's Journal, Ch 2, I](Journal-2-I.md)_  
 > 

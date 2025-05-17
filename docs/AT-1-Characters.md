@@ -1,6 +1,4 @@
-# The Ashenstone Trail
-
-## Characters
+# Player Characters
 
 <!-- Page-wide HTML goes here -->
 <style>
@@ -9,7 +7,7 @@
 
 <!-- end HTML -->
 
-### Bolete 
+## Bolete 
 
 She's a mushroom druid, on a quest, inexplicably, with Dr Indarhan Stone.
 
@@ -24,7 +22,7 @@ She's a mushroom druid, on a quest, inexplicably, with Dr Indarhan Stone.
 | Controller   | Adam                |
 
 
-### Boudicca
+## Boudicca
 
 | | |
 |-------------:|:--------------------|
@@ -36,9 +34,9 @@ She's a mushroom druid, on a quest, inexplicably, with Dr Indarhan Stone.
 | Age          | 205 years, as of 473 KD |
 | Controller   | Charlotte           |
 
-#### Character Backlore
+### Character Backlore
 
-### Fëlu il'Raïk
+## Fëlu il'Raïk
 
 | | |
 |-------------:|:--------------------|
@@ -50,18 +48,18 @@ She's a mushroom druid, on a quest, inexplicably, with Dr Indarhan Stone.
 | Age          | 352 as of 473 KD (young for an Ildari) |
 | Controller   | Jon                      |
 
-#### Character Backlore
+### Character Backlore
 
 Fëlu hails from the ancient Elven city of Jezier'Raïk and is a Fledgling *Deepseeker*.
 
 While most adept with a bow, he has recently been learning the art of the glaive, and has inherited his grandfather Ilyenu's Moon-touched Deepseeker Glaive of yore.
 
-His primary goal is to hunt as many Graxil as possible and locate splinters of Almak-Neara, thereby proving himself to the Deepseeker High Council. He has also been tasked with a secondary mission - to hunt and bring back, dead or alive, a certain blue Dreamcursed suspected of playing a role in the resurgence of the Graxils.
+His primary goal is to hunt as many Graxil as possible and locate splinters of Morě-Duar (the Deadmoon), thereby proving himself to the Deepseeker High Council. He has also been tasked with a secondary mission - to hunt and bring back to Jezier'Raïk a certain blue Dreamcursed suspected of playing a role in the resurgence of the Graxils.
 
 Fëlu is quite good at hunting both Graxils and people if necessary, but not particularly adept at socializing.
 
 
-### Dr. Indarhan Stone
+## Dr. Indarhan Stone
 
 He's a professor, on a quest, inexplicably, with Bolete the Thringen Druid.
 
@@ -74,11 +72,11 @@ He's a professor, on a quest, inexplicably, with Bolete the Thringen Druid.
 | Age          | 30 |
 | Controller   | Mike                |
 
-#### Character Backlore
+### Character Backlore
 
 Dr. Stone's father was a professor of great renown. His mother unfortunately passed when he was a child.
 
-### Torin Thunderridge
+## Torin Thunderridge
 
 | | |
 |-------------:|:------------------------|
@@ -90,7 +88,7 @@ Dr. Stone's father was a professor of great renown. His mother unfortunately pas
 | Age          | 235 years, as of 473 KD |
 | Controller   | Matt                    |
 
-#### Character Backlore
+### Character Backlore
 
 Deep below the Earth, Torin found an axe bearing an old version of his family crest. 
 It speaks to secrets he has yet to unearth.

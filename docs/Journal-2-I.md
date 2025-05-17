@@ -1,4 +1,4 @@
-# Lightsong's Journal - Chapter 2-I
+# Laighfuar I
 
 ## Arriving in Laighfuar 
 

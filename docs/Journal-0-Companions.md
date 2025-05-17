@@ -1,5 +1,4 @@
-# Lightsong's Journal
-## Companions
+# Companions
 
 > _Ah, my compatriots. I don't fully know what to think of them._  
 > _Below is the information I have on them, which I will update with time._.  
@@ -12,7 +11,7 @@
 
 <!-- end HTML -->
 
-### Boudicca
+## Boudicca
 
 | | |
 |-------------:|:--------------------|
@@ -27,9 +26,9 @@
 | Impressions  | _Generally good natured, but she is willing to kill... perhaps too willing. She has done right by me though, and I owe my life to her a few times over. She is strong, and wields the powers of Death. I am glad to count her as an ally._ |
 | Status       | Alive                |
 
-#### Character Backlore
+### Character Backlore
 
-### Flim Flam of Alk'Sira
+## Flim Flam of Alk'Sira
 
 | | |
 |-------------:|:--------------------|
@@ -44,9 +43,9 @@
 | Impressions  | _A powerful force of destruction. We get along well enough! He is simultaneously wise and youthful. I am not sure if he holds any secrets, but he does not really seem the secretive type._ |
 | Status       | Likely deceased      |
 
-#### Character Backlore
+### Character Backlore
 
-### Hazar Cora
+## Hazar Cora
 
 | | |
 |-------------:|:--------------------|
@@ -61,11 +60,11 @@
 | Impressions and notes  | _I did not like him at all at first - I could tell he was a noble (formerly, anyway) on first sight, and I swear I've seen him Ashenstone in the ritzier districts. However, I was impressed by his restraint in the Warehouses of Crag, and I have grown fond of him, despite our bickering. Very curious to find out he was once a lighthouser - this has elevated my opinion of him quite a bit, despite the apparent fall from Grace he and the other Lighthousers allude to. He shares in our goal to bring down the Beast of Ashenstone, Chakri, and for him it is also personal. I wonder what other secrets he nurtures._|
 | Status       | Alive                |
 
-#### Character Backlore
+### Character Backlore
 
 It is likely he was a bastard of none other than Ylysir Chakri, our nemesis, whom we killed.
 
-### Lightsong
+## Lightsong
 
 | | |
 |-------------:|:--------------------|
@@ -80,7 +79,7 @@ It is likely he was a bastard of none other than Ylysir Chakri, our nemesis, who
 | Impressions  | _Me!_ |
 | Status       | Alive |
 
-#### Character Backlore
+### Character Backlore
 
 I was born before 420 KD in Ekryp, to a single human mother, in a small bucolic village near the coast. As a very young child, I began turning into a Dreamcursed. A mob killed my mother while she was trying to protect me, and a kindly merchant, Sheb (or Shem? Or Shen? It's been a while), got me away to Ashestone City.
 
@@ -88,7 +87,7 @@ Eventually I ended up in Indip and was adopted by an indigenous Half-orc (we pre
 
 > See [Lightsong's Secret Lore](Journal-99-Lightsong-Lore) for much, much more.
 
-### Torin Thunderridge
+## Torin Thunderridge
 
 | | |
 |-------------:|:--------------------|
@@ -103,13 +102,13 @@ Eventually I ended up in Indip and was adopted by an indigenous Half-orc (we pre
 | Impressions  | _He could fight a boulder and win. I am truly happy he's on my side. He has shown me kindness, but I am more the distraught by the corpses he has left mangled in his wake, especially with that cursed Axe of his. He can show restraint when need be, and has listened to my counsel._ | 
 | Status       | Alive |
 
-#### Character Backlore
+### Character Backlore
 
 Deep below the Earth, Torin found an axe bearing an old version of his family crest. It speaks to secrets he has yet to unearth.
 
 ## One-off Characters
 
-### T.F. the Monk
+## T.F. the Monk
 
 | | |
 |-------------:|:--------------------|
@@ -122,7 +121,7 @@ Deep below the Earth, Torin found an axe bearing an old version of his family cr
 | Age          | 200 or so. Aged but formiddable   |
 | Controller   | Rajan Burathoki     |
 
-### Herman Miller
+## Herman Miller
 
 | | |
 |-------------:|:--------------------|

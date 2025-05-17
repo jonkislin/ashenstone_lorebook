@@ -1,6 +1,4 @@
-# Lightsong's Journal
-
-## Chapter 1.5 - Across the Water
+# Interlude - Across the Water
 
 On the ship Limerick, captained by Pop Cornwallis III.  
 Baby G the Half-orc chef.  

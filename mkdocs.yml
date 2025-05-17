@@ -30,7 +30,8 @@ nav:
       - 2-3-2-Lord_Corrack.md
       - 2-3-3-Lady_Corrack.md
       - 2-3-4-Queen_Shaheila.md
-  - Campaign 2024:
+    - 3-World_Timeline.md
+  - 2024 - Lightsong's Journal:
     - Journal-0-0.md
     - Journal-0-Companions.md
     - Journal-1-I.md
@@ -44,14 +45,13 @@ nav:
     - Journal-2-VII.md
     - Journal-2.5.md
     - Journal-99-Lightsong-Lore.md
-  - Campaign 2025:
-    - 0.md
-    - 1-Characters.md
-    - 2-TabletsOfTorin.md
-    - 3-Session0.md
-    - 3-World_Timeline.md
-    - 4-Session1.md
-    - 5-Session2.md
+  - 2025 - The Ashenstone Trail:
+    - AT-0.md
+    - AT-1-Characters.md
+    - AT-2-TabletsOfTorin.md
+    - AT-3-Session0.md
+    - AT-4-Session1.md
+    - AT-5-Session2.md
 
 # advanced configuration ------------------------------------------------------
 

@@ -2,27 +2,26 @@
 
 _Major events of the world._
 
-## Pre-history 
-_Only what is told in legend or gleaned from Archaeology is known from this era._
+## Primeval History 
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| ~ -14000 | The Ildarii, a humanoid species admitted to the ranks of the Lesser Ulso, establish themselves within the Circles of the World after long wanderings. The Greater Ulso take on the name *Aldarii*, the phoneme "ɒ" considered higher than the "ɪ" in Ildarii. | |
-| ~ -12000 | The Ildarii Temple Cities are founded on the planet's surface. The Four Orders are established by the Ilda High Council. | |
+| ? BKD | The Ulso arrive within the Circles of the World, making the moon Aldarma their home. | | 
+| ? BKD | The Lesser Ulso rebel against the Greater, but are utterly annihilated. | | 
+| ? BKD | The Ildarii arrive within the Circles of the World, making the moon Rannath their home. | |
+| ? BKD | The Greater Ulso adopt the Ildarii into the long-empty ranks of the Lesser Ulso and give them leave to descend to the surface. | | 
+| By 12,012 BKD | The Ildarii Temple Cities are founded by the Four Orders on the surface of the planet, in the Northern Hemisphere. | |
 
-## The Eon of the Longdark
-_Little is known about this era..._. 
+## The Eon of the Long Dark
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| -6500? | In secret, the Third and Fourth Ildarii orders retreat underground beneath their Northern temple cities of _Kiv'la'darth_ and _Il'Jezier'Raïkth_ respectively. Foreseeing an apocalypse, they cut off contact with the other Ildaarii orders as well as their shorter-lived cousins, the Elves. Fascinatingly, some Dwarven archaologists have artifacts they claim prove the Kyver (Dwarves) were present at this event. | |
-| -6666? | The end of the War of Descension. The Dark Moon _Neara_ (later known to the Tayns as _Almak_ and to the Elves as _Morë'dûar_) collides with surface of planet. | ![almak collides](images/events/almak_collides.png). Dark magic energy floods every corner of the globe, oceans roil and continents shift, and the world goes dark for more than 2500 years.|
-| -4000? | End of the Long Dark. Terrestrial Ildarii society has by this point collapsed and their memory has faded to myth and religious theogeny. The first Two Ildarii orders, lost to time, are either destroyed or fled the planet by this point. Their homes *Loralk'Sirae* and *Ailra'nazaar* were abandoned to The Elves. | | 
-| -3965? | Settlement that becomes Taynuilt is founded on the new coast. | |
-| -3700? | First of the Kyver (Dwarves) come out of hiding. | |
+| ~ 6,666 BKD | The end of the War of Descension. The moon Rannath, now called _Neara_, collides with the surface of the Planet. | ![almak collides](images/events/almak_collides.png) | |
+| ~ 4,000 BKD | End of the Long Dark. Terrestrial Ildarii society has by this point collapsed, their memory faded to myth, and the temple cities abandoned to The Elves. | | 
+| 3,965 BKD | Settlement that becomes Taynuilt is founded on the new coast. | |
+| 3,700 BKD | First of the Kyver (Dwarves) come out of hiding. | |
 
 ## Classical Pre-Kaldrinic History
-_Please note: our scribes continue to research this era. Details may be added, updated, or changed._  
 
 | Year  | Event | Picture  |
 |------:|:------|:---------|
@@ -45,8 +44,6 @@ _Please note: our scribes continue to research this era. Details may be added, u
 |   -2 | Vanguards of Emperor Jontosin reach the area now occupied by Drimmharbor. They massacre thousands of peaceful Unhorned Half-orcs upon landing, tragically conflating them with the Orcs of the Rock Hills. | |
 
 ## The Kaldrinic Dynasty
-
-_Note: Record keeping vastly improved after the establishment of the Kaldrinic Dynasty of Ashenstone_.  
 
 ### The Founding of Ashenstone Era
 

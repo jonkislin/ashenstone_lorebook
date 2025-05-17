@@ -1,4 +1,4 @@
-# Lightsong's Journal, Chapter 1 - Crag
+# Prologue - Crag
 
 The campaign begins! Late January 2024 (will take better records next chapter).  
 Major locations: [Crag](2-2a-city_crag.md).  

@@ -85,6 +85,13 @@ To a member, those Ildarii who remain on the planet are gifted hunters of Aberra
 1. The **Deepseekers** of Jezier'Raïk, who hunt Graxils - aberrations associated with the Deadmoon, Almak-Neara. 
 2. The **Seershadows** of Kiv'la, who pursue nameless aberrations associated with the living Moon.
 
+#### The Ildarii Temple Cities
+- Loralk'Sirae became Alk'Sira
+- Ailra'nazaar became Alra'nazar
+- Kiv'la'darth became Kiv'la
+- Il'Jezier'Raïkth became Jezier'Raïk
+
+
 ### On the lifespan of the Elves
 - Sylvan and Cosmopolitan Elves, as the same "species," live on average to 600 or 700 years. There are exceptional cases pushing well beyond that, though this happened far more frequently prior to the arrival of the Kaldrinic Dynasty.  
 - It is not known even by their own loremasters how old the Ildarii may become. It has been suggested they are unaging entirely after reaching adulthood (usually at around 100 or 200 solar years) and that they still appear youthful even after four or five millenia. What is said is that their lifespan is pegged to some force or world beyond ours, and the passage of time here has less an effect on their bodies than does the passage of time in some other more preserving realm to which all Ildarii are invariably linked.  

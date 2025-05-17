@@ -1,4 +1,4 @@
-# Lightsong's Journal - Chapter 2-IV
+# Laighfuar IV
 
 > _Continued from [Lightsong's Journal, Ch 2, III](Journal-2-III.md)_  
 > _Earth date: 11/3/2024_  

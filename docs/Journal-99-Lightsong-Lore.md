@@ -1,3 +1,4 @@
+# Lightsong's Secret Lore
 ## Lightsong the Haunted
 
 ![alt text](images/characters/lightsong.png)

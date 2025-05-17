@@ -1,4 +1,4 @@
-# Interlude - In The Mysterious Glade
+# Epilogue - The Mysterious Glade and The Dead Mall
 
 > Earth Date 1/10/2025.
 

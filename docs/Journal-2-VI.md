@@ -1,4 +1,4 @@
-# Lightsong's Journal - Chapter 2-VI
+# Laighfuar VI
 
 > _Continued from [Lightsong's Journal, Ch 2, V](Journal-2-V.md)_  
 > _Earth date: 12/6/2024_  
