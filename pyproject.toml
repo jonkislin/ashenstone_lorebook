@@ -1,0 +1,17 @@
+[project]
+name = "ashenstone-lorebook"
+version = "0.1.0"
+description = "Lore website for the world of Ashenstone"
+authors = [
+    {name = "jon.kislin@gmail.com; vonbretsch@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+ "mkdocs-material",
+ "mkdocs-include-markdown-plugin"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
