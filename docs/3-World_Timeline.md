@@ -6,9 +6,9 @@ _Major events of the world._
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| ? BKD | The Ulso arrive within the Circles of the World, making the moon Aldarma their home. | | 
+| ? BKD | The Ulso arrive within the Circles of the World, making the first moon, Aldarma, their home. | | 
 | ? BKD | The Lesser Ulso rebel against the Greater, but are utterly annihilated. | | 
-| ? BKD | The Ildarii arrive within the Circles of the World, making the moon Rannath their home. | |
+| ? BKD | The Ildarii arrive within the Circles of the World, making the second moon, Rannath, their home. | |
 | ? BKD | The Greater Ulso adopt the Ildarii into the long-empty ranks of the Lesser Ulso and give them leave to descend to the surface. | | 
 | By 12,012 BKD | The Ildarii Temple Cities are founded by the Four Orders on the surface of the planet, in the Northern Hemisphere. | |
 
@@ -16,7 +16,7 @@ _Major events of the world._
 
 | Year  | Event | Picture |
 |------:|:------|:--------|
-| ~ 6,666 BKD | The end of the War of Descension. The moon Rannath, now called _Neara_, collides with the surface of the Planet. | ![almak collides](images/events/almak_collides.png) | |
+| ~ 6,666 BKD | The end of the War of Descension. The Darkmoon Morě-Duar'Rannath, now called _Neara_, collides with the surface of the Planet. | ![almak collides](images/events/almak_collides.png) | |
 | ~ 4,000 BKD | End of the Long Dark. Terrestrial Ildarii society has by this point collapsed, their memory faded to myth, and the temple cities abandoned to The Elves. | | 
 | 3,965 BKD | Settlement that becomes Taynuilt is founded on the new coast. | |
 | 3,700 BKD | First of the Kyver (Dwarves) come out of hiding. | |
@@ -109,5 +109,5 @@ _Major events of the world._
 | by 450 | The Deepseekers of Jezier'Raïk, an order of the ageless and nearly-forgotten Ildarii Elves, end more than four millenia of total reclusion to face the Graxils head-on. With their re-emergence come rumors that more Ildarii may also re-emerge.
 | by 473** | The Dwarves have been driven to the upper levels of their cities, and even to the surface in some places. Expeditions are sent in search of the source of the Graxils and the Shadow Plague, which has haunted the lands of the North now for nearly three decades.
 
-_* Events during which Lightsong's Journal Takes Place_  
-_** Events during which The Ashenstone Trail takes place_
+_\* Events during which **Lightsong's Journal (2024)** takes place_  
+_\*\* Events during which **The Ashenstone Trail (2025)** takes place_
