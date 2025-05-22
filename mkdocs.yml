@@ -76,9 +76,15 @@ theme:
     - scheme: slate
       primary: black
       accent: light blue
+      toggle:
+        icon: material/brightness-4 
+        name: Switch to dark mode
     - scheme: default
-      primary: blue
-      accent: light blue
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
   features:
     - navigation.footer
     - navigation.instant
@@ -86,6 +92,7 @@ theme:
     - navigation.instant.progress
     - navigation.path
     - navigation.top
+    - content.tooltips
 
 copyright: Copyright &copy; 2025 Adam Bailey, Jon Kislin, and August Beers.
   
@@ -111,8 +118,12 @@ markdown_extensions:
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
   - mdx_truly_sane_lists
+  - abbr
+  - attr_list
 
 extra_javascript:
   - javascript/katex.js
@@ -121,3 +132,6 @@ extra_javascript:
 
 extra_css:
   - https://unpkg.com/katex@0/dist/katex.min.css
+
+watch:
+  - includes
