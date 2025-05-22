@@ -75,7 +75,7 @@ theme:
   palette:
     # dark/light mode toggle
     - scheme: slate
-      primary: teal
+      primary: black
       accent: light blue
 
 plugins:
