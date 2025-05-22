@@ -82,7 +82,7 @@ _Climate / Biomes_:
 
 <img src="images/maps/indip_map.png" alt="indip" width="475"/>
 
-{{#include ../stubs/indip_stub.md}}
+{% include-markdown "./stubs/indip_stub.md" %}
 
 ### Mulhong
 
@@ -90,7 +90,7 @@ _Climate / Biomes_:
 
 Imperial Province
 
-{{#include ../stubs/mulhong_stub.md}}
+{% include-markdown "./stubs/mulhong_stub.md" %}
 
 _Culture_:
 
@@ -310,13 +310,13 @@ _Climate / Biomes_:
 - Temperate
 - Mix of forests, swamps, lakes
 
-### [Crag](2-2-city_crag.md)
+### [Crag](2-2a-city_crag.md)
 _Click link to see main article_
 
 <img src="images/landscapes/crag_ai_art.png" alt="crag" width="475"/>
 
 
-{{#include ../stubs/crag_stub.md}}
+{% include-markdown "./stubs/crag_stub.md" %}
 
 ### Southern Kingdoms
 
@@ -392,7 +392,7 @@ There are many abandoned dwarven cities throughout the lands. Some have been rec
 
 The temple city and surrounding ancient forests to the north of Korren.
 
-> _Former home of [Flim-Flam the Lost](../Campaign-2024/Journal-0-Companions.md).
+> _Former home of [Flim-Flam the Lost](./Journal-0-Companions.md).
 
 ### Jezier’Raïk
 

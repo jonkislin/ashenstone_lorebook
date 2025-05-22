@@ -52,6 +52,15 @@ nav:
     - AT-3-Session0.md
     - AT-4-Session1.md
     - AT-5-Session2.md
+  - Article Stubs:
+    - stubs/ashenstone_stub.md
+    - stubs/crag_stub.md
+    - stubs/indip_stub.md
+    - stubs/jewelsea_stub.md
+    - stubs/laigfhuar_stub.md
+    - stubs/lynnla_stub.md
+    - stubs/mulhong_stub.md
+    - stubs/northanchor_stub.md
 
 # advanced configuration ------------------------------------------------------
 
@@ -80,6 +89,7 @@ plugins:
               show_full_root_path: true
   - search
   - offline
+  - include-markdown
 
 markdown_extensions:
   - admonition
@@ -91,21 +101,7 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
   - mdx_truly_sane_lists
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-        - name: math
-          class: arithmatex
-          format:
-            !!python/object/apply:pymdownx.arithmatex.arithmatex_fenced_format {
-              kwds: { mode: generic, tag: div },
-            }
 
 extra_javascript:
   - javascript/katex.js

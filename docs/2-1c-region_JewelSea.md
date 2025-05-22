@@ -3,7 +3,7 @@
 
 ## Quick Facts
 
-{{#include ../stubs/jewelsea_stub.md}}
+{% include-markdown "./stubs/jewelsea_stub.md" %}
 
 ## Regions of Note
 

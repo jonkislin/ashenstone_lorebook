@@ -14,7 +14,7 @@
 <br>
 <br>
 
-{{#include ../stubs/crag_stub.md}}
+{% include-markdown "./stubs/crag_stub.md" %}
 
 ## Map
 

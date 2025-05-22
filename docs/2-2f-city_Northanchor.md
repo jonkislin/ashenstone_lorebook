@@ -14,7 +14,7 @@
 <br>
 <br>
 
-{{#include ../stubs/northanchor_stub.md}}
+{% include-markdown "./stubs/northanchor_stub.md" %}
 
 ## Map
 

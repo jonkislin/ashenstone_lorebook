@@ -14,7 +14,7 @@
 <br>
 <br>
 
-{{#include ../stubs/ashenstone_stub.md}}
+{% include-markdown "./stubs/ashenstone_stub.md" %}
 
 ## Map
 

@@ -1,7 +1,7 @@
 # Region: Mulhong
 
 ## Quick Facts
-# {{#include ../stubs/mulhong_stub.md}}
+# {% include-markdown "./stubs/mulhong_stub.md" %}
 
 ## Summary
 Mulhong is a diverse province that encompasses the historic lands of many different kingdoms and people that predate the establishment of the Imperial province. As a result, governing Mulhong is less centralized than some other provinces. Instead of a designated provincial seat, administration is through system of assistant governors who specialize in the customs and laws of each subregion, or "March". The central governor traditionally calls Northanchor home, but some have opted to reside in other portions of Mulhong or even outside the province. 

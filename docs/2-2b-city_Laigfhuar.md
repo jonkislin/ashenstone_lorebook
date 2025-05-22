@@ -14,7 +14,7 @@
 <br>
 <br>
 
-{{#include ../stubs/laigfhuar_stub.md}}
+{% include-markdown "./stubs/laigfhuar_stub.md" %}
 
 ## Map
 
