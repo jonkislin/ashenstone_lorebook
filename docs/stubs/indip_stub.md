@@ -1,10 +1,12 @@
 
 _Major Cities_:
+
 - Drimmharbor (Imperial Admin Seat and Imperial Royal Navy Yard)
 - Palace of the Pointed Crown
 - Other cities throughout, significant farmland
 
 _Landscape_:
+
 - Temperate (Western) transitioning to dryer steppe climate (Eastern)
 - Mix of forests, farmlands, hills
 - East rises towards the higher grasslands

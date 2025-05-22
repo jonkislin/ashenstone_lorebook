@@ -392,7 +392,7 @@ There are many abandoned dwarven cities throughout the lands. Some have been rec
 
 The temple city and surrounding ancient forests to the north of Korren.
 
-> _Former home of [Flim-Flam the Lost](./Journal-0-Companions.md).
+> _Former home of [Flim-Flam the Lost](./2024/Journal-0-Companions.md).
 
 ### Jezier’Raïk
 

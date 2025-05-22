@@ -1,7 +1,5 @@
 # Session 2 - May 21st 2025
 
-# Session 2 - May 21st 2025
-
 - Bolete: Sick? Off on her own? Not sure. We're sure she'll come back eventually.
 - Crooked Cornucopia. Boudicca and Torin are awoken by a noise. Boudicca goes back to sleep.
 - Torin and Indarhan hear eldritch whispers of Elaynnu? (sp?)

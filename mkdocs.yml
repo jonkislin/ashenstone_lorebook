@@ -1,8 +1,9 @@
-site_name: My Docs
+site_name: Ashenstone Lorebook
+repo_name: ashenstone_lorebook
+repo_url: https://github.com/jonkislin/ashenstone_lorebook
+
 nav: 
-  - intro:
-    - index.md
-    - contribution_instructions.md
+  - 0.md
   - World Atlas:
     - Cultures of the World:
       - 1-0-world_cultures.md
@@ -32,27 +33,28 @@ nav:
       - 2-3-4-Queen_Shaheila.md
     - 3-World_Timeline.md
   - 2024 - Lightsong's Journal:
-    - Journal-0-0.md
-    - Journal-0-Companions.md
-    - Journal-1-I.md
-    - Journal-1.5-I.md
-    - Journal-2-I.md
-    - Journal-2-II.md
-    - Journal-2-III.md
-    - Journal-2-IV.md
-    - Journal-2-V.md
-    - Journal-2-VI.md
-    - Journal-2-VII.md
-    - Journal-2.5.md
-    - Journal-99-Lightsong-Lore.md
+    - 2024/Journal-0-0.md
+    - 2024/Journal-0-Companions.md
+    - 2024/Journal-1-I.md
+    - 2024/Journal-1.5-I.md
+    - 2024/Journal-2-I.md
+    - 2024/Journal-2-II.md
+    - 2024/Journal-2-III.md
+    - 2024/Journal-2-IV.md
+    - 2024/Journal-2-V.md
+    - 2024/Journal-2-VI.md
+    - 2024/Journal-2-VII.md
+    - 2024/Journal-2.5.md
+    - 2024/Journal-99-Lightsong-Lore.md
   - 2025 - The Ashenstone Trail:
-    - AT-0.md
-    - AT-1-Characters.md
-    - AT-2-TabletsOfTorin.md
-    - AT-3-Session0.md
-    - AT-4-Session1.md
-    - AT-5-Session2.md
-  - Article Stubs:
+    - 2025/AT-0.md
+    - 2025/AT-1-Characters.md
+    - 2025/AT-2-TabletsOfTorin.md
+    - 2025/AT-3-Session0.md
+    - 2025/AT-4-Session1.md
+    - 2025/AT-5-Session2.md
+  - Region Infostubs:
+    - stubs/instructions.md
     - stubs/ashenstone_stub.md
     - stubs/crag_stub.md
     - stubs/indip_stub.md
@@ -61,23 +63,20 @@ nav:
     - stubs/lynnla_stub.md
     - stubs/mulhong_stub.md
     - stubs/northanchor_stub.md
+  - contribution_instructions.md
 
 # advanced configuration ------------------------------------------------------
 
 theme:
   name: "material"
+  font: "Uncial Antiqua"
   icon:
     repo: fontawesome/brands/github
   palette:
     # dark/light mode toggle
-    - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
     - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+      primary: teal
+      accent: light blue
 
 plugins:
   - mkdocstrings:

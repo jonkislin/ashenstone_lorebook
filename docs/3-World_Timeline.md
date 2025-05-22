@@ -19,7 +19,7 @@ _Major events of the world._
 | ~ 6,666 BKD | The end of the War of Descension. The Darkmoon Morě-Duar'Rannath, now called _Neara_, collides with the surface of the Planet. | ![almak collides](images/events/almak_collides.png) | |
 | ~ 4,000 BKD | End of the Long Dark. Terrestrial Ildarii society has by this point collapsed, their memory faded to myth, and the temple cities abandoned to The Elves. | | 
 | 3,965 BKD | Settlement that becomes Taynuilt is founded on the new coast. | |
-| 3,700 BKD | First of the Kyver (Dwarves) come out of hiding. | |
+| 3,700 BKD | First of the Kyver (Dwarves) come out of hiding | |
 
 ## Classical Pre-Kaldrinic History
 

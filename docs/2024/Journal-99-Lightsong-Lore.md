@@ -1,7 +1,7 @@
 # Lightsong's Secret Lore
 ## Lightsong the Haunted
 
-![alt text](images/characters/lightsong.png)
+![alt text](../images/characters/lightsong.png)
 
 ### Basics
 **Character's Name**: Lightsong the Haunted  
@@ -143,7 +143,7 @@ Lightsong lore update 5/18/24:
 - Lightsong thinks his half-elf sister Aria is just his adopted sister bc half-orc family, but she’s actually his slightly older real sister, he has no idea. He also doesn’t realize she’s older bc half-elf. “She always reminded me of my mom who was killed when I was 3”. There’s a reason she’s familiar. Aria ran away from mom at a very young age, Lightsong was conceived in sadness. Mom abandoned lightsong once he started turning, but he thinks she was killed. She's still out there. Remember, Aria is super secret and Lightsong will take a long long time to reveal her if ever. You may have to force the subject. Don’t do it too soon though Maybe Lightsong was a half-elf before Tiefling-ing, or maybe they have different dads and lightsong was full human. You can choose 
 
 ## Aria, Silent Seer
-![alt text](images/people/aria.png)
+![alt text](../images/people/aria.png)
 
 **Character's Name:** Aria.
 
@@ -241,7 +241,7 @@ Prior to becoming an adventurer, your path in life was defined by one dark momen
 
 ## Fi'arië Seershadow
 
-![alt text](images/people/fiarie.png)
+![alt text](../images/people/fiarie.png)
 
 **Character's Name:** Fi'arië Seershadow
 

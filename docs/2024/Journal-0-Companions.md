@@ -15,7 +15,7 @@
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="images/characters/boudicca.png" alt="Boudicca" width="275"/> |
+| Picture      | <img src="../images/characters/boudicca.png" alt="Boudicca" width="275"/> |
 | Race         | Dwarf               |
 | Class        | Fighter             |
 | Subclass     | Eldritch Knight     |
@@ -32,7 +32,7 @@
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="images/characters/flimflam.png" alt="Flim-Flam" width="275"/> |
+| Picture      | <img src="../images/characters/flimflam.png" alt="Flim-Flam" width="275"/> |
 | Race         | Wood Elf             |
 | Class        | Mage                 |
 | Subclass     | School of Evocation  |
@@ -49,7 +49,7 @@
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="images/characters/hazar.png" alt="Hazar" width="275"/> |
+| Picture      | <img src="../images/characters/hazar.png" alt="Hazar" width="275"/> |
 | Race         | Human                |
 | Class        | Rogue                |
 | Subclass     | Assassin             |
@@ -68,7 +68,7 @@ It is likely he was a bastard of none other than Ylysir Chakri, our nemesis, who
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="images/characters/lightsong.png" alt="Lightsong the Haunted" width="275"/> |
+| Picture      | <img src="../images/characters/lightsong.png" alt="Lightsong the Haunted" width="275"/> |
 | Race         | Dreamcursed (Tiefling of Fierna)  |
 | Class        | Bard                |
 | Subclass     | College of Whispers |
@@ -91,7 +91,7 @@ Eventually I ended up in Indip and was adopted by an indigenous Half-orc (we pre
 
 | | |
 |-------------:|:--------------------|
-| Picture      | <img src="images/characters/torin.png" alt="Torin Thunderridge" width="275"/> |
+| Picture      | <img src="../images/characters/torin.png" alt="Torin Thunderridge" width="275"/> |
 | Race         | Dwarf               |
 | Class        | Barbarian           |
 | Subclass     | Totem Warrior       |
