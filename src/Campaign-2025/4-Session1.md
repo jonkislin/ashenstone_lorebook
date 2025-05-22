@@ -8,6 +8,7 @@
 - Tinker's Shop - we get a pouch with powders and cartridges...
     - Incendiary Round kit for Dr Stone. Every long rest, it recharges. 
     - Can be used to craft 3 incendiary rounds. Can only hold up to 3 on a person at a time.
+        - ERRATA: 5/21/25: actually, just 2. As per Lord DM Beers.
 - At the urging of Tinker, we talk to Shifty in the Cornucopia who recoounts a journey to the desert and his possessed friend Steve.
 - Steve is possessed by Elyssa of the Deadmoon Order. We talk to Elyssa, she tells us to come to the desert and says hello to Torin's axe.
 - Elyssa stops possessing Steve and Steve runs to the bar. 
