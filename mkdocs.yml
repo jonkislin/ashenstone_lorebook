@@ -1,0 +1,111 @@
+site_name: Ashenstone Lorebook
+repo_name: ashenstone_lorebook
+repo_url: https://github.com/jonkislin/ashenstone_lorebook
+
+nav: 
+  - 0.md
+  - World Atlas:
+    - Cultures of the World:
+      - 1-0-world_cultures.md
+      - 1-1a-culture_Tayn.md
+      - 1-1b-culture_Dwarven.md
+      - 1-1c-culture_Wuldan.md
+      - 1-1d-culture_Thringen.md
+      - 1-1e-culture_Kaldrinic.md
+      - 1-2-nation_Mul.md
+    - Regions of the World:
+      - 2-0-world_regions.md
+      - 2-1a-region_indip.md
+      - 2-1b-region_mulhong.md
+      - 2-1c-region_JewelSea.md
+      - 2-1d-1-subregion_greenrock.md
+      - 2-1d-region_Lynnla.md
+      - 2-2a-city_crag.md
+      - 2-2b-city_Laigfhuar.md
+      - 2-2c-city_Ashenstone.md
+      - 2-2d-city_Balnoorial.md
+      - 2-2e-city_Lynnmouth.md
+      - 2-2f-city_Northanchor.md
+    - Notable NPCs:
+      - 2-3-1-Thorvir_the_Raven.md
+      - 2-3-2-Lord_Corrack.md
+      - 2-3-3-Lady_Corrack.md
+      - 2-3-4-Queen_Shaheila.md
+    - 3-World_Timeline.md
+  - 2024 - Lightsong's Journal:
+    - 2024/Journal-0-0.md
+    - 2024/Journal-0-Companions.md
+    - 2024/Journal-1-I.md
+    - 2024/Journal-1.5-I.md
+    - 2024/Journal-2-I.md
+    - 2024/Journal-2-II.md
+    - 2024/Journal-2-III.md
+    - 2024/Journal-2-IV.md
+    - 2024/Journal-2-V.md
+    - 2024/Journal-2-VI.md
+    - 2024/Journal-2-VII.md
+    - 2024/Journal-2.5.md
+    - 2024/Journal-99-Lightsong-Lore.md
+  - 2025 - The Ashenstone Trail:
+    - 2025/AT-0.md
+    - 2025/AT-1-Characters.md
+    - 2025/AT-2-TabletsOfTorin.md
+    - 2025/AT-3-Session0.md
+    - 2025/AT-4-Session1.md
+    - 2025/AT-5-Session2.md
+  - Region Infostubs:
+    - stubs/instructions.md
+    - stubs/ashenstone_stub.md
+    - stubs/crag_stub.md
+    - stubs/indip_stub.md
+    - stubs/jewelsea_stub.md
+    - stubs/laigfhuar_stub.md
+    - stubs/lynnla_stub.md
+    - stubs/mulhong_stub.md
+    - stubs/northanchor_stub.md
+  - contribution_instructions.md
+
+# advanced configuration ------------------------------------------------------
+
+theme:
+  name: "material"
+  font: "Uncial Antiqua"
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # dark/light mode toggle
+    - scheme: slate
+      primary: teal
+      accent: light blue
+
+plugins:
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            extra:
+              show_root_heading: true
+              show_full_root_path: true
+  - search
+  - offline
+  - include-markdown
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - mdx_truly_sane_lists
+
+extra_javascript:
+  - javascript/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
