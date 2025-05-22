@@ -218,7 +218,7 @@ _Culture_:
 - Minor influence from the Southern Kingdoms
 - Semi-nomadic human, half-orc, and orc clans inland
 
-_Major Citire_:
+_Major Cities_:
 - A few along the coast
 
 _Climate / Biomes_:
@@ -234,7 +234,7 @@ _Culture_:
 - Imperial
 - Occasional Wuldan settlements along the coast
 
-_Major Citire_:
+_Major Cities_:
 
 - A few in the south
 
@@ -252,7 +252,7 @@ _Culture_:
 Mostly Wuldan. 
 Imperial culture spreading inland and to the north
 
-_Major Citire_:  
+_Major Cities_:  
 Kraith (Imperial Admin Seat)
 
 _Climate / Biomes_:  

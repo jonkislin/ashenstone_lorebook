@@ -42,7 +42,11 @@ Unsurprisingly, mountain dwarves are among the best miners, smiths, and craftsme
 
 ### Hill Dwarves  
 
-Hill dwarves are any dwarf that was not born within the underground dwarven cities. Due to the law that only dwarves born within the underground cities are allowed within the cities, these dwarves occupy the surface lands around the entrances to the underground metropolises. They are known for being more amiable to outsiders than their underground brethren, some even living within human or halfling settlements.  
+Hill dwarves are any dwarf that was not born within the underground dwarven cities. Due to the law that only dwarves born within the underground cities are allowed within the cities, these dwarves occupy the surface lands around the entrances to the underground metropolises. They are known for being more amiable to outsiders than their underground brethren, some even living within human or halfling settlements. 
+
+### The Eldest Dwarves
+
+The Dwarves descend from a nearly forgotten race called "The Kyver," known now only to scholars and archaeologists. Relics from millenia ago suggest a saga of contact, friendship, and ultimately betrayal of the Kyver by the ancestors of the Elves.
 
 ## Elves  
 
@@ -94,10 +98,7 @@ To a member, those Ildarii who remain on the planet are gifted hunters of Aberra
 
 ### On the lifespan of the Elves
 - Sylvan and Cosmopolitan Elves, as the same "species," live on average to 600 or 700 years. There are exceptional cases pushing well beyond that, though this happened far more frequently prior to the arrival of the Kaldrinic Dynasty.  
-- It is not known even by their own loremasters how old the Ildarii may become. It has been suggested they are unaging entirely after reaching adulthood (usually at around 100 or 200 solar years) and that they still appear youthful even after four or five millenia. What is said is that their lifespan is pegged to some force or world beyond ours, and the passage of time here has less an effect on their bodies than does the passage of time in some other more preserving realm to which all Ildarii are invariably linked.  
-- Half-elves (those children of non-Ildariin Elves and Humans) have wildly varying lifespans, but always falling within the realm of humans (65-105 years) and non-Ildariin Elves.  
-- Non-Ildariin and Ildariin Elf hybrids are considered rare if not mythical, but it is postulated that all Non-Ildariin Elves are the product of an ancient admixture between the Ildarii and as now extinct humanoid race. Elves with partial Ildarii ancestry are speculated to have unknown lifespans simultaneously subject to worldly and otherworldly forces.  
-- No records of Human or other Humanoid and Ildariin mixed progeny have been recorded, so a theoretical lifespan is only speculative.
+- It is not known even by their own loremasters how old the Ildarii may grow. It has been suggested they are unaging entirely after reaching adulthood (usually at around 100 or 200 solar years) and that they still appear youthful even after four or five millenia.
 
 **Homebrew Source Information**:
 
@@ -108,21 +109,25 @@ To a member, those Ildarii who remain on the planet are gifted hunters of Aberra
 
 History has forgotten where halflings came from, though many myths suggest they evolved from groundhogs and sprang out of the ground one day. In recent memory, most halflings live integrated within human society or hill dwarven communities, though there are many rural farming and mining villages consisting of almost entirely halfling populations. Most significant is Burrowton, the closest thing to a halfling city, about two days upriver from the City of Lynnmouth.
 
-Halflings are known for their casual and laid back natures. They rarely will choose to pick a fight, preferring to solve disputes through games and challenges like drinking competitions and riddles. They are not particularly spiritual people, preferring dealing with the hear and now rather than speculate what the future might hold.
+Halflings are known for their casual and laid back natures. They rarely will choose to pick a fight, preferring to solve disputes through games and challenges like drinking competitions and riddles. They are not particularly spiritual people, preferring dealing with the here and now rather than speculate what the future might hold. However, it would be wrong to think of them as simpletons. Halfling agriculture is renowned for its cleverness, being found in places, and on slopes, that larger folk would not have dreamed possible. Halfling farmers also boast forty-nine cultivars of Squash, eighteen breeds of Carrot, and a whopping one-hundred-and-nineteen varieties of Corn.
 
 ## Gnomes  
 
 Gnomes are a mysterious people to most of human civilization, as most choose to live alongside elves within the giant ancient complexes of the Ildarii Temple-cities. Those gnomes who do leave the elven controlled lands tend to either integrate quietly into human society or live secluded lives either alone or in small family units deep in the woods where they can practice their magics undisturbed by human laws.  
 
+Like the Halflings, the Gnomes are underestimated by the larger folk. They are often gifted artificiers, doctors, and scholars. 
+
 ## Orcs and Half-Orcs/Unhorned
 
-Orcs, and their so-called “half-orc” or "Unhorned" relatives hail from the steppes to the east of Imperial lands. They don’t have a centralized leadership structure and instead are made of hundreds of clans that live nomadically in the lands east of the Empire. Orcs are known for customs that are perceived as excessively violent and cruel by the standards of most other people, and are identifiable by the full length horns protruding from their foreheads. Half-orcs, identifiable due to the lack of horns, which are periodically whittled down during childhood, are known for the intense sense of honor, duty, and personal rules that replaces the cruelty of their cousins. 
+Orcs, and their so-called “half-orc” or "Unhorned" relatives hail from the steppes to the east of Imperial lands. They don’t have a centralized leadership structure and instead are made of hundreds of clans that live nomadically in the lands east of the Empire. Orcs are known for customs that are perceived as excessively violent and cruel by the standards of most other people, and are identifiable by the full length horns protruding from their foreheads. Half-orcs, identifiable due to the lack of horns, which are periodically whittled down during childhood, are known for the intense sense of honor, duty, and personal rules that replaces the cruelty of their cousins. While genetically the same species, Orcs and "Unhorned" Half-orcs are exceedingly distinct in culture, demeanour, and practices.
 
-Half-orcs are not actually the progeny as orcs and human relationships, as some myths portray, but rather represent orcs who follow the teachings of the ancient prophet Mulua, whose teachings led to a cultural revolution within many orc clans. The result is a culture that exists alongside, and often in conflict with, orc culture. Mulua, a visionary of the "Unhorned," led many to forgo practices that to humans appear excessively violent and primitive, like the sacrifice of the first-born to the earth spirits and religious decree to kill or enslave every non-orc in a clan’s path. As a result, “half-orcs” are tolerated by human civilizations. Within the Imperial Capital of Ashenstone, there is an entire half-orc enclave within the city. 
+Half-orcs are **not** actually the progeny as orcs and human relationships, as some myths portray, but rather represent orcs who follow the teachings of the ancient prophet Mulua, whose teachings led to a cultural revolution within many orc clans. (Orcs and Humans rarely if ever mate, and Unhorned and Human pairings are very rare, though reported.) The result is a culture that exists alongside, and often in conflict with, orc culture. Mulua, a visionary of the "Unhorned," led many to forgo practices that to humans appear excessively violent and primitive, like the sacrifice of the first-born to the earth spirits and religious decree to kill or enslave every non-orc in a clan’s path. As a result, “Half-orcs” are tolerated by human civilizations. Within the Imperial Capital of Ashenstone, there is an entire half-orc enclave within the city. 
+
+### The Inquisition of the Horns and The Holy Unhorned
 
 > _The paragraphs that follow are part of a 2024 Lore Expansion by Jon_
 
-In -982 KD, the Orcish Necromancer-kings L'Ratomi and Z'ratomi captured and burned as a heretic the High Priestess Anüa, Mulua's great-great-granddaughter, launching the infamous Inquisition of the Horns. This inquisition lasted half a century, with Orcish necromancers and blood priests persecuting, murdering, and reanimating the corpses of their Half-orcs to serve in the undead fleets of the orcish Necromancer-kings. This triggered the Great Flight of the Unhorned, leading to the mass Unhorned migrations northward up the Western rim of the Gold Desert, inhospitable to the Undead Fleets which required occasional exposure to the air of the sea to remain re-animated.
+In -982 KD, the Orcish Necromancer-kings L'Ratomi and Z'ratomi captured and burned as a heretic the High Priestess Anüa, Mulua's great-great-granddaughter, launching the infamous Inquisition of the Horns. This inquisition lasted half a century, with Orcish necromancers and blood priests persecuting, murdering, and reanimating the corpses of The Unhorned to serve in the undead fleets of the orcish Necromancer-kings. This triggered the Great Flight of the Unhorned, leading to the mass Unhorned migrations northward up the Western rim of the Gold Desert, inhospitable to the Undead Fleets which required occasional exposure to the air of the sea to remain re-animated.
 
 For nearly a millenium, during the Indip Empire, half-orcs were venerated as the "Holy Unhorned" by the humans of Indip - indeed the name "Indip" is an homage to the historical holiest site in half-orcish ethno-religious history. This venerated status of the half-orcs among humans declined sharply with the fall of the South Indip Empire in 9 KD.
 
