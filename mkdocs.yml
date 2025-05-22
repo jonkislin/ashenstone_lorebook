@@ -3,7 +3,7 @@ repo_name: ashenstone_lorebook
 repo_url: https://github.com/jonkislin/ashenstone_lorebook
 
 nav: 
-  - 0.md
+  - index.md
   - World Atlas:
     - Cultures of the World:
       - 1-0-world_cultures.md
