@@ -1,11 +1,12 @@
 site_name: Ashenstone Lorebook
 repo_name: ashenstone_lorebook
 repo_url: https://github.com/jonkislin/ashenstone_lorebook
+site_url: https://ashenstone.quest
 
 nav: 
   - index.md
   - World Atlas:
-    - Cultures of the World:
+    - Cultures of the World]: 
       - 1-0-world_cultures.md
       - 1-1a-culture_Tayn.md
       - 1-1b-culture_Dwarven.md
@@ -69,14 +70,25 @@ nav:
 
 theme:
   name: "material"
-  font: "Uncial Antiqua"
   icon:
     repo: fontawesome/brands/github
   palette:
-    # dark/light mode toggle
     - scheme: slate
       primary: black
       accent: light blue
+    - scheme: default
+      primary: blue
+      accent: light blue
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.path
+    - navigation.top
+
+copyright: Copyright &copy; 2025 Adam Bailey, Jon Kislin, and August Beers.
+  
 
 plugins:
   - mkdocstrings:
