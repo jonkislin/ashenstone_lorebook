@@ -84,16 +84,16 @@ The Visitors' true identity is that of the **Ildarii** (singular: Ildari, pronou
 
 The Ildarii were said to have vanished long ago, or to perhaps never have existed at all. In truth, most Ildarii travelled beyond the "Circles of the World" long ago, and even those remaining may not fully understand where their kin have gone. Regardless, the Ildarii rarely now involve themselves in governance or trade, deferring instead to the Sylvan Elves and Gnomes who now inhabit their ancient cities. Indeed only a few dozen Ildarii remain within the Innermost Circle ("on the surface of the planet," as we might say).
 
-To a member, those Ildarii who remain on the planet are gifted hunters of Aberrations. These Ildarii see themselves as rearguards against the threats their kin left the Circles long ago to defet. All belong to one of two extant orders:
+To a member, those Ildarii who remain on the planet are gifted hunters of Aberrations. These Ildarii see themselves as rearguards against the threats their kin left the Circles long ago to defeat. All now belong to one of two extant orders (there were previously four):
 
-1. The **Deepseekers** of Jezier'Raïk, who hunt Graxils - aberrations associated with the Deadmoon, Almak-Neara. 
-2. The **Seershadows** of Kiv'la, who pursue nameless aberrations associated with the living Moon.
+1. The **Seershadows** of Kiv'la, who pursue nameless aberrations associated with the living Moon, *Aldarma*.
+2. The **Deepseekers** of Jezier'Raïk, who hunt Graxils - aberrations associated with the Deadmoon, *Neara*.
 
 #### The Ildarii Temple Cities
-- Loralk'Sirae became Alk'Sira
-- Ailra'nazaar became Alra'nazar
-- Kiv'la'darth became Kiv'la
-- Il'Jezier'Raïkth became Jezier'Raïk
+- *Loralk'Sirae* (Alk'Sira).
+- *Ailra'nazaar* (Alra'nazar).
+- *Kiv'la'darth* (Kiv'la).
+- *Il'Jezier'Raïkth* (Jezier'Raïk).
 
 
 ### On the lifespan of the Elves
