@@ -6,7 +6,7 @@ site_url: https://ashenstone.quest
 nav: 
   - index.md
   - World Atlas:
-    - Cultures of the World]: 
+    - Cultures of the World: 
       - 1-0-world_cultures.md
       - 1-1a-culture_Tayn.md
       - 1-1b-culture_Dwarven.md
