@@ -85,7 +85,7 @@ I was born before 420 KD in Ekryp, to a single human mother, in a small bucolic 
 
 Eventually I ended up in Indip and was adopted by an indigenous Half-orc (we prefer the term "Unhorned") clan who nomadically travelled throughought the forests of the Eastern Indip Expanse.
 
-> See [Lightsong's Secret Lore](Journal-99-Lightsong-Lore) for much, much more.
+> See [Lightsong's Secret Lore](Journal-99-Lightsong-Lore.md) for much, much more.
 
 ## Torin Thunderridge
 
