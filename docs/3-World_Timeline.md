@@ -35,7 +35,7 @@ _Major events of the world._
 | -581 | With the support of many other nations the King of Taynuilt forms and heads the first Taynish Confederacy in light of enemy provocations to the East. | |
 | -338 | The Incrillans are forced from their homeland and begin settling on Ekryp. | | 
 | -332 | The second Taynish Confederacy forms to defend against the regime of *Tan La Fon V*, the last Fu-Ley of Unified Indip. | |
-| -326 | After *Tan La Fon V*'s navy is defeated, the Indip Empire divides between North and South, no longer able to hold together in the face of building internal power struggles. The ensuing chaos effectively ends the war between Indip and the Second Taynish Confederacy. | |
+| -326 | After *Tan La Fon V*'s navy is defeated, the Indip Empire divides between North and South, no longer able to hold together in the face of building internal power struggles. The ensuing chaos effectively ends the war between Indip and the Second Taynish Confederacy. The First Darkening of the Watergates occur, making the ancient weapons less reliable than they once were.| |
 | -324 | With the collapse of the Unified Indipian power structure, the Second Taynish Confederacy disbands according to the initial treaty. | |
 | -206 | Czerk Hritte Lan I leads a successful rebellion of the Mul against the North Indip Empire, liberating the lands north of the Mul River and leading to the establishment of the Second Kingdom of Mul. | |
 | -205 | Great unchecked fires burn-out the Hall of the Chieftans and much of Indïdip, the capital of North Indip. The North Indip Empire falls unceremoniously. Mysteriously, this event coincides with the final Darkening of the Watergates hundreds of miles south in Great Invëye, leaving South Indip without its historical naval trump-card. | |
@@ -50,7 +50,7 @@ _Major events of the world._
 
 | Year    | Event   |
 |--------:|:--------|
-| 0 | Emperor Jontosin dies of old age. His funeral is held atop the island of Ashenstone. His daughter Kaldrina is crowned the new empress. Based on a vision she recieves upon coronation, Kaldrina declares their years of wandering over and establishes The Kaldrinic Empire with Ashenstone as the new Imperial Seat. Work begins on the construction of Jonto Keep. |
+| 1 | Emperor Jontosin dies of old age. His funeral is held atop the island of Ashenstone. His daughter Kaldrina is crowned the new empress. Based on a vision she recieves upon coronation, Kaldrina declares their years of wandering over and establishes The Kaldrinic Empire with Ashenstone as the new Imperial Seat. Work begins on the construction of Jonto Keep. |
 | 4 | Ekryp Falls under Kaldrinic control. |
 | 6 | Drimmharbor is founded; the area's remaining native half-orcs are almost immediately expelled to Drez'Dip and are banned from fishing in the Southern sections of the Inbay in favor of Human fishermen |
 | 9 | South Indip Empire falls to the Kaldrinic Empire. Great Invëye is sacked and destroyed. The Fu-Ley of South Indip, Trag Antal XIII, is beheaded, and the _Ley-Indip-Ley_ as a whole is no more. |
