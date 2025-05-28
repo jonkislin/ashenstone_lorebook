@@ -1,6 +1,6 @@
-# Session 0
+# Session 1
 
-## 1/28/25 - Session 0 Synopsis
+## 1/28/25 - Session 1 Synopsis
 
 - Torin (Matt), Boudicca (Charlotte), and three Dwarven companions (NPCs) encounter a druid, Bolete (Adam), and a professor of antiquities, Indarma Jones (Mike). All parties are mutually suspicious at first.
 - They are soon overrun by Graxil.

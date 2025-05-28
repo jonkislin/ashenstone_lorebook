@@ -49,12 +49,12 @@ nav:
     - 2024/Journal-99-Lightsong-Lore.md
   - 2025 - The Ashenstone Trail:
     - 2025/AT-0.md
-    - 2025/AT-1-Characters.md
-    - 2025/AT-2-TabletsOfTorin.md
-    - 2025/AT-3-Session0.md
-    - 2025/AT-4-Session1.md
-    - 2025/AT-5-Session2.md
-    - 2025/AT-Session3.md
+    - 2025/AT-Characters.md
+    - 2025/AT-TabletsOfTorin.md
+    - 2025/AT-1.md
+    - 2025/AT-2.md
+    - 2025/AT-3.md
+    - 2025/AT-4.md
   - Region Infostubs:
     - stubs/instructions.md
     - stubs/ashenstone_stub.md
