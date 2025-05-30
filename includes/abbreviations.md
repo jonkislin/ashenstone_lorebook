@@ -1,4 +1,4 @@
-*[Ildarii]: The ageless elven progenitor race. 
+*[Ildarii]: The ageless elven progenitor race.  
 *[Dreamcursed]: a.k.a Tieflings.  
 *[Ulso]: The Gods, perhaps? Long lost to time.  
 *[Deepseekers]: One of the Ildarii orders, based in Jezier'Raik.  
