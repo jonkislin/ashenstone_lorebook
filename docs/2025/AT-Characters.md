@@ -94,4 +94,4 @@ Deep below the Earth, Torin found an axe bearing an old version of his family cr
 It speaks to secrets he has yet to unearth.
 Torin enjoys decapitating, eviscerating, and maiming his enemies in myriad grotesque ways.
 
-He is the author of the [Tablets of Torin](AT-2-TabletsOfTorin.md)
+He is the author of the [Tablets of Torin](AT-0.md)

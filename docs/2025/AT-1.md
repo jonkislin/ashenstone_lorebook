@@ -1,4 +1,4 @@
-# Session 1 - 1/28/25
+# Session 1 - January 28th 2025
 
 ## 1/28/25 - Session 1 Synopsis
 

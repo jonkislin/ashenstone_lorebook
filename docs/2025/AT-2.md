@@ -1,4 +1,4 @@
-# Session 2
+# Session 2 - Feb 7th 2025
 
 - Indarhan Stone has been knocked out (sorry you had to miss DND Mike!).
 - The party enters the North Indip Imperial Outpost which has been captured by half-orcs since about a decade ago. 
