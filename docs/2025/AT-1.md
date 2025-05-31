@@ -1,4 +1,4 @@
-# Session 1
+# Session 1 - 1/28/25
 
 ## 1/28/25 - Session 1 Synopsis
 
