@@ -87,3 +87,33 @@ At this point a plague of shadowy figures has fallen upon the city of Laighfuar.
 > - Torin takes the axe and heads home and knows what happened... why there is darkness spreading across the land. 
 > - Boudicca is going back to her Dwarven home in Lynnla. City of Mines. Boudicca finds she's an heiress to the powerful political powers. 
 > - Flim Flam was never heard of again
+
+## Axe Limericks
+
+An axe, feeling quite proud of my shine,  
+A portrait of me would be fine!  
+With a grin, I will pose, 
+In fabulous throwback clothes,  
+Now capture my best side, divine!  
+TAKE A PHOTO WITH ME CHILD!!!!  
+
+An axe, full of guilt and despair,  
+Regretted each cut I did bear. 
+I'd chopped down a tree,  
+Then said, "Why, oh why, me?". 
+And I wept in the forest, unfair.  
+BUT THAT’S NOT ALL I”VE DONE. 
+
+There once was an axe sharp and sleek,  
+Whose victims were many, so bleak.  
+It hacked with great might,  
+But now feels contrite,  
+Regretting each swing it would seek.  
+I AM A MURDERER!!!!  
+
+An axe with a plan quite precise,  
+Declares, "Flim Flam must pay the price!". 
+He’ll mutter a spell,  
+And under its swell,  
+He becomes a treat—oh, so nice!  
+BLOW THE BUBBLE!!!!!   
