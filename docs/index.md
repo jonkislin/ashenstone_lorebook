@@ -4,6 +4,9 @@ This website outlines the homebrew DnD world of The Ashenstone Empire.
 
 Copyright Adam Bailey and Jon Kislin 2025, all rights reserved.
 
+## World Map - Quick Reference
+![map of the world](images/maps/map_of_the_world.png)
+
 ## Contents (also: see sidebar navigation)
 
 - [World Atlas](1-0-world_cultures.md)
