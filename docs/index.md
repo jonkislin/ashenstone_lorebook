@@ -2,10 +2,17 @@
 
 This website outlines the homebrew DnD world of The Ashenstone Empire. 
 
-Copyright Adam Bailey and Jon Kislin 2025, all rights reserved.
+Copyright Adam Bailey, Jon Kislin, and August Beers 2024-2025, all rights reserved.
 
 ## World Map - Quick Reference
+
+### 2024 Map
+
 ![map of the world](images/maps/map_of_the_world.png)
+
+### 2025 Extent of the Empire Map
+
+![extent of the empire](images/extent_of_the_empire_473kd.png)
 
 ## Contents (also: see sidebar navigation)
 

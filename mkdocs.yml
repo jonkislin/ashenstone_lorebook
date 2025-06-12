@@ -96,7 +96,6 @@ theme:
 
 copyright: Copyright &copy; 2025 Adam Bailey, Jon Kislin, and August Beers.
   
-
 plugins:
   - mkdocstrings:
       handlers:
