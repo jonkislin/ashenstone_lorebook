@@ -1,26 +1,14 @@
 [project]
 name = "ashenstone-lorebook"
 version = "0.1.0"
-description = "Lore website for the world of Ashenstone"
-authors = [
-    {name = "jon.kislin@gmail.com; vonbretsch@gmail.com"}
-]
+description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
- "mkdocs-material"
+    "mdx-truly-sane-lists>=1.3",
+    "mkdocs>=1.6.1",
+    "mkdocs-include-markdown-plugin>=7.1.6",
+    "mkdocs-material",
+    "mkdocstrings>=0.29.1",
+    "mkdocstrings-python>=1.16.12",
 ]
-
-[build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
-
-[tool.poetry]
-package-mode = false
-
-[tool.poetry.group.mkdocs.dependencies]
-mkdocs = "^1.6.1"
-mkdocs-material = "^9.6.5"
-mkdocstrings = {extras = ["python"], version = "^0.28.1"}
-mdx-truly-sane-lists = "^1.3"
-mkdocs-include-markdown-plugin = "^6.0.0"
