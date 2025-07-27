@@ -12,4 +12,5 @@
 - Ingwe and Indis remember nothing of the party, save Grimble, who predated the arrival of the others.
 - Party decides to make a long rest.
 - The Axe tells Torin and Boudicca the tale of Woe.
+- The Axe will let Finwë work to restore him and the Deepseeker Glaive to one.
 - The party heads to the desert with the help of Myr.
