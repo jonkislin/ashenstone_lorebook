@@ -42,17 +42,16 @@ Before Elyssa disincorporates, she mentions Kyerith, a woman who is known as the
 
 ## Decisions
 
-- Ewyin offered a choice to go south and have the ear of Lord Admiral Jarodren Chakri. Given the bad blood between the party and Jarodren's father, the party declines, opting to go South.
+- Ewyin offered a choice to go south and have the ear of Lord Admiral Jarodren Chakri. Given the bad blood between the party and Jarodren's father, the party declines, opting to go North instead.
   - Before Eywin leaves with his unconscious mother and Geoff (yes, he stole your Donkey), he tells Bolete - "you know, I've never seen anyone who looks more like Lord Admiral Jarodren. Are you a relation?" 
 - While the party attempts to wrestle back Geoff, Lightsong appears in a flash, making off with Grimble Grumble.
   - "Ah yes, the Greater Bard. We go North now, do we not?" Grimble mutters as Lightsong cackles madly.
   - Lightsong opens a Planar Portal to a frozen landscape, and he and Grimble disappear before the party can react.
 
 ### The plan
-Given the events that transpired, the party decides to go North.  
-They will go to Wulda, and seek to:
-- find Kyerith
-- rescue Grimble
-- see if they cannot undo the curse on Lightsong, their old friend the Dreamcursed Bard.
+The party will go to Wulda, and two possible quests lay before them:
+
+- find Kyerith, the Seers' Shadow, before Ashenstone can.
+- rescue Grimble from Lightsong; can they also rescue Lightsong himself?
 
 
